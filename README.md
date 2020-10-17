@@ -2,5 +2,5 @@
 
 IELTS Word List
 
-![](images/ielts_vicabulary.jpg)
+![](/images/ielts_vicabulary.jpg)
 
