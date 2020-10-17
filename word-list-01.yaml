@@ -1,0 +1,361 @@
+# ==============================================================================
+# Word List 01
+# ==============================================================================
+
+emperor:   
+  title: emperor
+  text: __emperor__ [ˈempərə(r)] n. 皇帝；君主
+
+exact:    
+  title: exact
+  text: __exact__ [ɪgˈzækt] a. 精确的；准确的
+
+traditional: 
+  title: traditional
+  text: __traditional__ [trəˈdɪʃənl] a. 传统的，惯例的；口传的，传说的
+
+lack:     
+  title: lack
+  text: __lack__ [læk] n./vt. 缺乏，不足，没有
+
+pardon:   
+  title: pardon
+  text: |
+    __pardon__ [ˈpɑːdn] excl.（用于请求别人重复某事）什么，请再说一遍 
+
+    __pardon__ n./vt. 原谅，宽恕；赦免
+
+regent:    
+  title: regent
+  text: __regent__ [ˈriːdʒənt] n. 摄政者（代国王统治者）
+
+burgeon:  
+  title: burgeon
+  text: __burgeon__ [ˈbɜːdʒən] vi. 迅速成长；发展
+
+argue:    
+  title: argue
+  text: __argue__ [ˈɑːgjuː] v. 争论；说服
+
+barely:   
+  title: barely
+  text: __barely__ [ˈbeəli] ad. 仅仅，几乎不；赤裸裸地，无遮蔽地
+
+methane:  
+  title: methane
+  text: __methane__ [ˈmiːθeɪn] n. 甲烷，沼气
+
+hierarchy: 
+  title: hierarchy
+  text: __hierarchy__ [ˈhaɪərɑːkɪ] n. 领导层；层次，等级
+
+guidance: 
+  title: guidance
+  text: __guidance__ [ˈgaɪdns] n. 指引，指导
+
+easy-going: 
+  title: easy-going
+  text: __easy-going__ [ˈiːziˏgəuɪŋ] a. 脾气随和的，心平气和的；随便的
+
+electrical: 
+  title: electrical
+  text: __electrical__ [ɪˈlektrɪkl] a. 电的，电学的，有关电的
+
+electronic: 
+  title: electronic
+  text: __electronic__ [‚ɪlek'trɒnɪk] a. 电子的
+
+roll-film: 
+  title: roll film
+  text:   __roll__  __film__ 胶卷
+
+philosophy: 
+  title: philosophy
+  text: __philosophy__ [fɪˈlɔsəfɪ] n. 哲学；哲理
+
+chronic:   
+  title: chronic
+  text: __chronic__ [ˈkrɔnɪk] a. （疾病）慢性的；积习难改的
+
+desirable: 
+  title: desirable
+  text: __desirable__ [dɪˈzaɪərəbl] a. 值得拥有的；合意的；可取的，有利的
+
+consortium: 
+  title: consortium
+  text: __consortium__ [kənˈsɔːtɪəm] n. 集团；财团；社团，协会
+
+buckle:    
+  title: buckle
+  text: |
+    __buckle__ [ˈbʌkl] n. 皮带扣环 
+
+    __buckle__ v. 扣紧；（使）变形；弯曲
+
+curry:     
+  title: curry
+  text: |
+    __curry__ [ˈkʌrɪ] n. 咖喱，咖喱饭菜  
+
+    __curry__ vt. 把（肉、蔬菜等）做成咖喱食品；梳刷（马毛等）
+
+subliminal: 
+  title: subliminal
+  text: __subliminal__ [ˏsʌbˈlɪmɪnl] a. 下意识的，潜意识的
+
+chamber:  
+  title: chamber
+  text: __chamber__ [ˈtʃeɪmbə(r)] n. 室；洞穴；（枪）膛
+
+frequent: 
+  title: frequent
+  text: __frequent__ [ˈfriːkwənt] a. 频繁的，常见的，常用的
+
+prosperous: 
+  title: prosperous
+  text: __prosperous__ [ˈprɔspərəs] a. 繁荣的，兴旺的；成功的
+
+purpose:  
+  title: purpose
+  text: |
+    __purpose__ [ˈpɜːpəs] n. 目的，意图；用途，效果  
+
+    __purpose__ v. 打算，企图，决心
+
+variety:  
+  title: variety
+  text: __variety__ [vəˈraɪətɪ]  n. 品种，种类；变化，多样化
+
+immigration: 
+  title: immigration
+  text: __immigration__ [‚ɪmɪ'greɪʃn] n. 外来的移民；移居
+
+natural:  
+  title: natural
+  text: __natural__ [ˈnætʃrəl] a. 正常的，普通的，自然的；自然界的，天然的；天赋的，固有的
+
+bet:      
+  title: bet
+  text: |
+    __bet__ [bet] v. 赌，打赌  
+
+    __bet__ n. 打赌，赌注
+
+consumer:  
+  title: consumer
+  text: __consumer__ [kənˈsjuːmə(r)] n. 消费者；用户
+
+physician: 
+  title: physician
+  text: __physician__ [fɪˈzɪʃn] n. 内科医生，医师
+
+equal:     
+  title: equal
+  text: |
+    __equal__ [ˈiːkwəl] a. 相等的  
+
+    __equal__ vt. 比得上
+
+resort:   
+  title: resort
+  text: |
+    __resort__ [rɪˈzɔːt] n. 求助；诉诸；胜地  
+
+    __resort__ vi. 求助；诉诸
+
+leadership: 
+  title: leadership
+  text: __leadership__ [ˈli:dəʃɪp] n. 领导，领导层；领导能力
+
+equity:   
+  title: equity
+  text: __equity__ [ˈekwətɪ] n. 公平，公正
+
+excavate: 
+  title: excavate
+  text: __excavate__ [ˈekskəveɪt] vt. 挖掘，开凿
+
+nuclear:  
+  title: nuclear
+  text: __nuclear__ [ˈnjuːklɪə(r)] a. 核能的，原子能的
+
+mutual:    
+  title: mutual
+  text: __mutual__ [ˈmjuːtʃuəl] a. 相互的；共同的
+
+hectare:  
+  title: hectare
+  text: __hectare__ [ˈhekteə(r)] n. 公顷
+
+density:   
+  title: density
+  text: __density__ [ˈdensətɪ] n. 密集；浓度，密度
+
+massive:   
+  title: massive
+  text: __massive__ [ˈmæsɪv] a. 大而重的，厚实的，粗大的；大量的，大规模的
+
+congratulate: 
+  title: congratulate
+  text: __congratulate__ [kənˈgrætʃuleɪt] vt. 祝贺
+
+companion: 
+  title: companion
+  text: __companion__ [kəmˈpænɪən] n. 共事者；同伴
+
+rig:       
+  title: rig
+  text: |
+    __rig__ [rɪg] vt. 操纵，垄断  
+
+    __rig__ n. 船桅（或船帆等）的装置；成套器械
+
+input:    
+  title: input
+  text: |
+    __input__ [ˈɪnput] n. 投入，输入；输入的数据  
+
+    __input__ vt. 把……输入计算机
+
+merely:   
+  title: merely
+  text: __merely__ [ˈmiəli] ad. 仅仅，只不过
+
+impart:    
+  title: impart
+  text: __impart__ [ɪmˈpɑːt] vt. 给予，赋予；传授；告知，透露
+
+forfeit:  
+  title: forfeit
+  text: |
+    __forfeit__ [ˈfɔːfɪt] v. （因犯规等而）丧失，失去  
+
+    __forfeit__ n. 罚款；代价
+
+calorie:   
+  title: calorie
+  text: __calorie__ [ˈkælərɪ] n. 卡（路里）， 大卡（食物的热量）
+
+van:       
+  title: van
+  text: __van__ [væn] n. 运货车
+
+ventilation: 
+  title: ventilation
+  text: __ventilation__ [ˌventɪ'leɪʃn] n. 空气流通；通风设备，通风方法
+
+intermediate: 
+  title: intermediate
+  text: __intermediate__ [ˏɪntəˈmiːdɪət] a. 中间的，中级的
+
+eternal:   
+  title: eternal
+  text: __eternal__ [ɪˈtɜːnl] a. 永恒的
+
+invasion: 
+  title: invasion
+  text: __invasion__ [ɪnˈveɪʒn] n. 入侵，侵略
+
+nevertheless: 
+  title: nevertheless
+  text: |
+    __nevertheless__ [ˏnevəðəˈles] ad. 仍然；然而  
+
+    __nevertheless__ conj. 然而，不过
+
+celebrate: 
+  title: celebrate
+  text: __celebrate__ [ˈselɪbreɪt] v. 赞扬，歌颂；庆祝
+
+inspiring: 
+  title: inspiring
+  text: __inspiring__ [ɪn'spaɪərɪŋ] a. 鼓舞（或激励）人心的；启发灵感的
+
+attendance: 
+  title: attendance
+  text: __attendance__ [əˈtendəns] n. 到场，出席；出勤；伺候，照料
+
+optional: 
+  title: optional
+  text: __optional__ [ˈɒpʃənl] a. 可选择的，非强制的，随意的
+
+enable:   
+  title: enable
+  text: __enable__ [ɪˈneɪbl] vt. 使能够，使成为可能
+
+departmental: 
+  title: departmental
+  text: __departmental__ [‚diːpɑːt'mentl] a. 部门的
+
+heal:      
+  title: heal
+  text: __heal__ [hiːl] v. 治愈，康复；调停
+
+dismantle: 
+  title: dismantle
+  text: __dismantle__ [dɪsˈmæntl] vt. 拆除；废除，取消
+
+wage:      
+  title: wage
+  text: __wage__ [weɪdʒ] n. 工资；[常 pl.] 报酬
+
+landscape: 
+  title: landscape
+  text: |
+    __landscape__ [ˈlændskeɪp] n. 风景  
+
+    __landscape__ vt. 对……作景观美化，美化（自然环境等）
+
+emotion:  
+  title: emotion
+  text: __emotion__ [ɪˈməuʃn] n. 感情；情绪
+
+commonwealth: 
+  title: commonwealth
+  text: __commonwealth__ [ˈkɔmənwelθ] n. [the C-] 英联邦；联合体
+
+newsletter: 
+  title: newsletter
+  text: __newsletter__ ['njuːzletə] n. 时事通讯，业务通讯
+
+periodical:
+  title: periodical
+  text: |
+    __periodical__ [‚pɪərɪ'ɑdɪkl] n. 期刊，杂志  
+
+    __periodical__ a. 周期的，定期的
+
+receptionist: 
+  title: receptionist
+  text: __receptionist__ [rɪ'sepʃənɪst] n. 接待员
+
+security: 
+  title: security
+  text: __security__ [sɪˈkjuərətɪ] n. 安全，保障；抵押品；[pl.]证券
+
+clip:      
+  title: clip
+  text: |
+    __clip__ [klɪp] n. （弹簧）夹子，回形针，别针；弹夹；修剪；剪报，电影（或电视）片断  
+
+    __clip__ v.（夹子、回形针等）夹住，扣住；剪，修剪
+
+apace:    
+  title: apace
+  text: __apace__ [əˈpeɪs] ad. 快速地，急速地
+
+yield:     
+  title: yield
+  text: |
+    __yield__ [jiːld] n. 产量  
+
+    __yield__ v. 出产；放弃
+
+fair:     
+  title: fair
+  text: __fair__ [feə(r)] a./ad. 公平的/地
+
+
+# ==============================================================================
+# Word List 02
+# ==============================================================================
