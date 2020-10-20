@@ -1,0 +1,377 @@
+# ==============================================================================
+# Word List 05
+# ==============================================================================
+
+
+pulley:   
+  title: pulley
+  text: __pulley__ [ˈpulɪ] n. 滑轮；滑车
+
+privilege:   
+  title: privilege 
+  text: |
+    __privilege__ [ˈprɪvəlɪdʒ] n. 特权，优惠，特许  
+    
+    __privilege__ vt. 给予特权，特别优待
+
+infrastructure:   
+  title: infrastructure
+  text: __infrastructure__ ['ɪnfrəstrʌktʃə(r)] n. 基础结构，基础设施
+
+allocate:   
+  title: allocate 
+  text: __allocate__ [ˈæləkeɪt] vt. 分配；分派
+
+qualification:   
+  title: qualification 
+  text: __qualification__ [ˏkwɔlɪfɪˈkeɪʃn] n. 资格，合格；技能；限定，条件；合格证
+
+expand:   
+  title: expand 
+  text: __expand__ [ɪkˈspænd] v. （使）膨胀，（使）扩张；张开，展开；详述
+
+trap:   
+  title: trap 
+  text: |
+    __trap__ [træp] n. 陷阱，圈套，诡计  
+
+    __trap__ vt. 诱捕，诱骗，使中圈套；使陷入困境，使受限制
+
+intern:   
+  title: intern  
+  text: |
+    __intern__ [ɪnˈtɜːn] vt. 拘禁，软禁 
+
+    __intern__ [ˈɪntɜːn] n. 实习生
+
+repaint:   
+  title: repaint 
+  text: __repaint__ [ri:'peɪnt] v. 重新油漆，重画
+
+specialist:   
+  title: specialist 
+  text: __specialist__ ['speʃəlɪst] n. 专家；专科医生
+
+migratory:   
+  title: migratory 
+  text: __migratory__ ['maɪgrətrɪ] a. 迁徙的，迁居的；流动的，游牧的
+
+nutrition:   
+  title: nutrition 
+  text: __nutrition__ [njuˈtrɪʃn] n. 营养；营养学
+
+inlet:   
+  title: inlet 
+  text: __inlet__ [ˈɪnlet] n. 入口；进（水）口，水湾
+
+censor:   
+  title: censor 
+  text: |
+    __censor__ [ˈsensə(r)] vt. 审查，检查（书报）  
+
+    __censor__ n. 检查员
+
+widespread:   
+  title: widespread 
+  text: __wildspread__ [ˈwaɪdspred] a. 分布广的；普遍的
+
+hazard:   
+  title: hazard 
+  text: |
+    __hazard__ [ˈhæzəd] n. 危险，冒险  
+
+    __hazard__ v. 尝试着做（或提出）；冒……风险
+
+rear:   
+  title: rear 
+  text: |
+    __rear__ [rɪə(r)] a. 后方的，后部的；背后的 
+
+    __rear__ n. 后部，尾部  
+
+    __rear__ v. 饲养，抚养；种植
+
+shareholder:   
+  title: shareholder 
+  text: __shareholder__ [ˈʃeəhəʊldə(r)] n. 股票持有人；股东
+
+bid:   
+  title: bid 
+  text: __bid__ [bɪd] n./v. 出价；投标
+
+alight:   
+  title: alight 
+  text: |
+    __alight__ [əˈlaɪt] a. 点着的  
+
+    __alight__ vi. 降落，飞落；从（公共汽车等）下来
+
+credit:   
+  title: credit 
+  text: |
+    __credit__ [ˈkredɪt] vt. 记入贷方；把……归于  
+
+    __credit__ n. 信用贷款，赊欠；信任，相信；贷方；荣誉，名望；光荣，功劳；学分
+
+shrewd:   
+  title: shrewd 
+  text: __shrewd__ [ʃruːd] a. 机灵的；精明的
+
+desert:   
+  title: desert 
+  text: |
+    __desert__ [ˈdezət] n. 沙漠；荒地  
+
+    __desert__ a. 沙漠的；荒凉的
+
+    __desert__ [dɪˈzɜːt] v. 舍弃
+
+conclude:   
+  title: conclude 
+  text: __conclude__ [kənˈkluːd] v. 推断出；作结论
+
+explosive:   
+  title: explosive 
+  text: |
+    __explosive__ [ɪkˈspləusɪv] n. 爆炸物，炸药  
+
+    __explosive__ a. 爆炸的，爆发的；使人冲动的
+
+inherent:   
+  title: inherent 
+  text: __inherent__ [ɪnˈhɪərənt] a. 内在的；生来就有的
+
+world-wide:   
+  title: world-wild
+  text: __world-wild__ ['wɜ:ldwaɪd] a./ad. 遍及全球的/地
+
+grope:   
+  title: grope 
+  text: __grope__ [grəup] v. （暗中）摸索
+
+lever:   
+  title: lever 
+  text: |
+    __lever__ [ˈliːvə(r)] vt. （用杠杆）撬动  
+    
+    __lever__ n. 杠杆；施压手段
+
+ethical:   
+  title: ethical 
+  text: __ethical__ [ˈeθɪkl] a. （有关）道德的；伦理的
+
+improvement:   
+  title: improvement 
+  text: __improvement__ [ɪm'pru:vmənt] n. 改进，进步；改进措施；改进处
+
+vacant:   
+  title: vacant 
+  text: __vacant__ [ˈveɪkənt] a. 未占用的，空的
+
+truant:   
+  title: truant 
+  text: |
+    __truant__ [ˈtruːənt] vi. 逃避责任；旷课  
+
+    __truant__ n. 逃学者；逃避者
+
+scandal:   
+  title: scandal 
+  text: __scandal__ [ˈskændl] n. 丑事，丑闻；恶意诽谤；流言飞语；反感，愤慨
+
+latent:   
+  title: latent
+  text: __latent__ [ˈleɪtnt] a. 潜在的，潜伏的，不易察觉的
+
+tenant:   
+  title: tenant 
+  text: __tenant__ [ˈtenənt] n. 承租人；房客；佃户
+
+psychiatric:   
+  title: psychiatric 
+  text: __psychiatric__ [ˌsaɪkiˈætrɪk] a. 精神病的；治疗精神病的
+
+campfire:   
+  title: campfire 
+  text: __campfire__ [ˈkæmpfaɪə(r)]] n. 营火
+
+bolster:   
+  title: bolster 
+  text: |
+    __bolster__ [ˈbəulstə(r)] vt. 支持，支撑；改善  
+
+    __bolster__ n. 垫子
+
+immigrant:   
+  title: immigrant 
+  text: __immigrant__ [ˈɪmɪgrənt] n. 移民；侨民
+
+sequence:   
+  title: sequence 
+  text: __sequence__ [ˈsiːkwəns] n. 一系列，一连串；顺序，次序
+
+ecosystem:   
+  title: ecosystem 
+  text: __ecosystem__ [ˈiːkəusɪstəm] n. 生态系统
+
+concern:   
+  title: concern 
+  text: |
+    __concern__ [kənˈsɜːn] vt. 涉及；使关心；让（人）担忧  
+
+    __concern__ n. 关心；关注
+
+transfer:   
+  title: transfer 
+  text: |
+    __transfer__ [trænsˈfɜː(r)] v. 搬，转移；调动，转学；转让，过户；转车，换乘
+
+    __transfer__ [ˈtrænsfɜː(r)] n. 转移；调动；转车，换乘
+
+exotic:   
+  title: exotic 
+  text: __exotic__ [ɪgˈzɔtɪk] a. 外来的；奇异的；醒目的，吸引人的
+
+evaporate:   
+  title: evaporate 
+  text: __evaporate__ [ɪˈvæpəreɪt] v. （使）蒸发；消失；不复存在
+
+destiny:   
+  title: destiny 
+  text: __destiny__ [ˈdestɪnɪ] n. 命运，定数
+
+hide:   
+  title: hide 
+  text: |
+    __hide__ [haɪd] v. （躲）藏  
+
+    __hide__ n. 皮革，兽皮
+
+former:   
+  title: former 
+  text: |
+    __former__ [ˈfɔːmə(r)] a. 以前的  
+
+    __former__ n. 前者
+
+awful:   
+  title: awful 
+  text: __awful__ [ˈɔːfl] a. 糟糕的
+
+sore:   
+  title: sore
+  text: |
+    __sore__ [sɔː(r)] a. 痛的；恼火的；剧烈的  
+
+    __sore__ n. 疮
+
+virtually:   
+  title: virtually 
+  text: __virtually__ [ˈvɜ:tʃuəli] ad. 几乎，差不多；实际上，事实上
+
+tangibly:   
+  title: tangibly 
+  text: __tangibly__ ['tændʒəblɪ] ad. 可触摸地；可感知地；有形地
+
+windscreen:   
+  title: windscreen 
+  text: __windscreen__ [ˈwɪndskri:n] n. 挡风玻璃；风档
+
+decent:   
+  title: decent 
+  text: __decent__ [ˈdiːsnt] a. 大方的，体面的，像样的；正派的，合乎礼仪的
+
+alluvial:   
+  title: alluvial 
+  text: |
+    __alluvial__ [əˈluːvɪəl] a.[地] 冲积的，淤积的  
+
+    __alluvial__ n. 冲积土（或层、矿床），淤积土
+
+slum:   
+  title: slum 
+  text: __slum__ [slʌm] n. 贫民窟，贫民区
+
+distill:   
+  title: distill
+  text: __distill__ [dɪs'tɪl] vt. （使）蒸馏，提取
+
+economical:   
+  title: economical 
+  text: __economical__ [ˏiːkəˈnɔmɪkl] a. 节约的；经济的
+
+fate:   
+  title: fate 
+  text: __fate__ [feɪt] n. 命运，天数
+
+medication:   
+  title: medication 
+  text: __medication__ [ˌmedɪˈkeɪʃn] n. 药；药物
+
+target:   
+  title: target 
+  text: |
+    __target__ [ˈtɑːgɪt] n. 目标；对象，靶子  
+
+    __target__ vt. 对准，面向
+
+independent:   
+  title: independent 
+  text: |
+    __independent__ [ˏɪndɪˈpendənt] a. 独立的，自主的，不受约束的   
+
+    __independent__ n. 中立派，无党派议员
+
+radius:   
+  title: radius 
+  text: __radius__ [ˈreɪdɪəs] n. 半径；周围，范围
+
+fossil:   
+  title: fossil 
+  text: __fossil__ [ˈfɔsl] n. 化石；老顽固
+
+shade:   
+  title: shade 
+  text: |
+    __shade__ [ʃeɪd] n. 阴凉处；（灯）罩；暗部；色度；细微差别 
+
+    __shade__ vt. 遮蔽，遮光；把……涂暗
+
+headmaster:   
+  title: headmaster
+  text: __headmaster__ [ˌhedˈmɑ:stə(r)] n. （中小学）校长
+
+wean:   
+  title: wean 
+  text: __wean__ [wiːn] vt. （使）断奶，（使）戒掉
+
+comprise:   
+  title: comprise 
+  text: __comprise__ [kəmˈpraɪz] vt. 包含；由……组成
+
+stable:   
+  title: stable 
+  text: |
+    __stable__ [ˈsteɪbl] a. 稳定的，稳固的，安定的；沉稳的，持重的  
+
+    __stable__ n. 马厩
+
+disappointing:   
+  title: disappointing 
+  text: __disappointing__ [ˌdɪsəˈpɔɪntɪŋ] a. 令人失望的
+
+delta:   
+  title: delta 
+  text: __delta__ [ˈdeltə] n. 三角洲；希腊字母表的第四个字母
+
+urban:   
+  title: urban 
+  text: __urban__ [ˈɜːbən] a. 都市的；住在都市的
+
+compliment:   
+  title: compliment 
+  text: __compliment__ [ˈkɔmplɪmənt] n. 赞美；[pl.] 问候，祝贺
+
+execution:   
+  title: execution 
+  text: __execution__ [ˏeksɪˈkjuːʃn] n. 执行，实施；处决
