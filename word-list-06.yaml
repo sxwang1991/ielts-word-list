@@ -1,0 +1,367 @@
+# ==============================================================================
+# Word List 06
+# ==============================================================================
+
+
+heritage:   
+  title: heritage
+  text: __heritage__ [ˈherɪtɪdʒ] n. 遗产；传统
+
+appropriate:   
+  title: appropriate 
+  text: |
+    __appropriate__ [əˈprəuprɪət] a. 适当的 
+
+    __appropriate__ [əˈprəuprɪeɪt] vt. 占有，挪用；拨出（款项）
+
+annual:   
+  title: annual 
+  text: |
+    __annual__ [ˈænjuəl] a. 每年的，年度的  
+
+    __annual__ n. 年刊，年鉴；一年生植物
+
+depict:   
+  title: depict 
+  text: __depict__ [dɪˈpɪkt] vt. 描绘，描述
+
+literacy:   
+  title: literacy 
+  text: __literacy__ [ˈlɪtərəsɪ] n. 有文化；有教养；读写能力
+
+calculate:   
+  title: calculate 
+  text: __caculate__ [ˈkælkjuleɪt] v. 计算，推算；估计，推测；计划，打算
+
+luxury:   
+  title: luxury 
+  text: |
+    __luxury__ [ˈlʌkʃərɪ] n. 豪华（品）；奢侈（品）  
+
+    __luxury__ a. 奢华的
+
+souvenir:   
+  title: souvenir
+  text: __souvenir__ [ˏsuːvəˈnɪə(r)] n. 纪念品，纪念物
+
+purchase:   
+  title: purchase 
+  text: |
+    __purchase__ [ˈpɜːtʃəs] vt. 买，购买  
+
+    __purchase__ n. 购买的物品
+
+constant:   
+  title: constant 
+  text: __constant__ [ˈkɔnstənt] a. 经常的，不断的；坚定的，永恒的，忠实的；持续的，不变的  n. 常数，恒量
+
+dormancy:   
+  title: dormancy 
+  text: __dormancy__ ['dɔ:mənsɪ] n. 休眠；催眠状态；冬眠；隐匿
+
+particular:   
+  title: particular 
+  text: |
+    __particular__ [pəˈtɪkjulə(r)] a. 特殊的，特别的；特定的，个别的；详细的  
+
+    __particular__ n. 详情，细目，细节
+
+subscription:   
+  title: subscription 
+  text: __subscription__ [səbˈskrɪpʃn] n. 订阅，订购；订阅费，订购款；捐赠，捐助；签字，签署
+
+pitch:   
+  title: pitch 
+  text: |
+    __pitch__ [pɪtʃ] v. 投掷；颠簸；为……定音高  
+
+    __pitch__ n. 沥青；场地；程度；最高点；音高
+
+entitle:   
+  title: entitle 
+  text: __entitle__ [ɪnˈtaɪtl] vt. 给……权利（或资格）；给（书、文章等）题名；给……以称号
+
+shutter:   
+  title: shutter 
+  text: __shutter__ [ˈʃʌtə(r)] n. 百叶窗；（照相机的）快门
+
+demolish:   
+  title: demolish 
+  text: __demolish__ [dɪˈmɔlɪʃ] vt. 破坏；拆除；驳倒（论点等），推翻
+
+durable:   
+  title: durable 
+  text: |
+    __durable__ [ˈdjuərəbl] n. 耐用品  
+
+    __durable__ a. 耐久的；耐用的
+
+cope:   
+  title: cope 
+  text: __cope__ [kəup] vi. （成功地）应付；（妥善地）处理
+
+circulation:   
+  title: circulation 
+  text: __circulation__ [ˏsɜːkjuˈleɪʃn] n. （体液的）循环，（水、空气等的）流通；流传，传播；发行，发行量
+
+tradition:   
+  title: tradition 
+  text: __tradition__ [trəˈdɪʃn] n. 传统；惯例
+
+benefit:   
+  title: benefit 
+  text: |
+    __benefit__ [ˈbenɪfɪt] v. 使受益；有益于，得益于  
+
+    __benefit__ n. 益处，好处；恩惠；救济金，保险金，津贴
+
+decay:   
+  title: decay 
+  text: |
+    __decay__ [dɪˈkeɪ] n. 腐烂，腐朽；衰败（或衰退）状态  
+
+    __decay__ v. 腐烂，腐朽；衰败，衰退
+
+distribution:   
+  title: distribution 
+  text: __distribution__ [ˌdɪstrɪ'bju:ʃn] n. 分发，分配；配给物；散布，分布
+
+defect:   
+  title: defect 
+  text: |
+    __defect__ [ˈdiːfekt] n. 缺点，不足之处
+    
+    __defect__ [dɪˈfekt] vi. 叛变
+
+oppose:   
+  title: oppose 
+  text: __oppose__ [əˈpəuz] v. 反对、反抗
+
+statistics:   
+  title: statistics 
+  text: __statistics__ [stəˈtɪstɪks] n. 统计数字，统计资料；统计学
+
+stuffy:   
+  title: stuffy 
+  text: __stuffy__ [ˈstʌfɪ] a. 不透气的，（空气）不新鲜的，不通风的；乏味的
+
+approximately:   
+  title: approximately 
+  text: __approximately__ [əˈprɒksɪmətli] ad. 近似，大约
+
+excusable:   
+  title: excusable 
+  text: __excusable__ [ɪkˈskju:zəbl] a. 可原谅的；可谅解的；可容许的
+
+propose:   
+  title: propose 
+  text: __propose__ [prəˈpəuz] v. 提议，建议；提名，推荐；打算；（向某人）求婚
+
+ornament:   
+  title: ornament 
+  text: |
+    __ornament__ [ˈɔːnəmənt] n. 装饰；装饰物  
+
+    __ornament__ vt. 装饰，修饰，美化
+
+energetic:   
+  title: energetic 
+  text: __energetic__ [ˌenəˈdʒetɪk] a. 有力的，精力旺盛的；积极的
+
+atmospheric:   
+  title: atmospheric 
+  text: __atmospheric__ [ˏætməsˈferɪk] a. 大气的，空气的；大气层的；大气所引起的
+
+cooperative:   
+  title: coorperative
+  text: |
+    __cooperative__ [kəuˈɔpərətɪv] a. 合作的，协作的  
+
+    __cooperative__ n. 合作社
+
+corrode:   
+  title: corrode 
+  text: __corrode__ [kəˈrəud] v. 腐蚀；侵蚀
+
+honour:   
+  title: honour 
+  text: |
+    __honour__ [ˈɔnə(r)] n. 光荣；尊敬  
+
+    __honour__ vt. 向……示敬意；信守，执行（承诺）
+
+except:   
+  title: except 
+  text: |
+    __except__ [ɪkˈsept] vt. 将……除外  
+
+    __except__ prep. 除……外
+
+soluble:   
+  title: soluble 
+  text: __soluble__ [ˈsɔljubl] a. 可溶的；可解决的
+
+administration:   
+  title: administration 
+  text: __adminstration__ [ədˏmɪnɪˈstreɪʃn] n. 管理（部门）；行政（机关） 
+
+environment:   
+  title: environment 
+  text: __environment__ [ɪnˈvaɪərənmənt] n. 周围状况；环境
+
+license:   
+  title: license 
+  text: |
+    __license__ [ˈlaɪsns] n. 许可（证），执照  
+
+    __license__ vt. 批准，准许
+
+underline:   
+  title: underline 
+  text: __underline__ [ˏʌndəˈlaɪn] vt. 画线于……之下；强调
+
+activate:   
+  title: activate 
+  text: __activate__ [ˈæktɪveɪt] vt. 激活；使活动，使活化
+
+major:   
+  title: major 
+  text: |
+    __major__ [ˈmeɪdʒə(r)] a. 主要的   
+
+    __major__ n. 专业（学生）  vi. 主修，专攻
+
+specific:   
+  title: specific 
+  text: __specific__ [spəˈsɪfɪk] a. 特定的；明确的
+
+objective:   
+  title: objective 
+  text: |
+    __objective__ [əbˈdʒektɪv] n. 目标，目的  
+
+    __objective__ a. 客观的
+
+concentrate:   
+  title: concentrate 
+  text: |
+    __concentrate__ [ˈkɔnsntreɪt] v. 全神贯注，全力以赴；集中，聚焦；浓缩  
+
+    __concentrate__ n. 浓缩物，浓缩液
+
+conflict:   
+  title: conflict 
+  text: |
+    __conflict__ [ˈkɔnflɪkt] n. 冲突  
+
+    __conflict__ [kənˈflikt] vi. 冲突，抵触
+
+antidote:   
+  title: antidote 
+  text: __antidote__ [ˈæntɪdəut] n. 解毒药；矫正方法
+
+discover:   
+  title: discover 
+  text: __discover__ [dɪsˈkʌvə(r)] vt. 发现，找到；发觉
+
+necessarily:   
+  title: necessarily 
+  text: __necessarily__ [ˈnesəsərəlɪ; ˏnesəˈserəl] ad. 必要地；必然地
+
+continent:   
+  title: continent 
+  text: __continent__ [ˈkɔntɪnənt] n. 大陆，陆地；洲
+
+turret:   
+  title: turret 
+  text: __turret__ [ˈtʌrɪt] n. 塔楼，角楼
+
+elastic:   
+  title: elastic 
+  text: |
+    __elastic__ [ɪˈlæstɪk] a. 有弹性的；灵活的  
+
+    __elastic__ n. 松紧带
+
+enhance:   
+  title: enhance 
+  text: __inhance__ [ɪnˈhɑːns] vt. 提高，增强；增进
+
+demonstration:   
+  title: demonstration 
+  text: __demonstration__ [ˏdemənˈstreɪʃn] n. 论证，证明；示范；显示，表露；示威游行
+
+interrupt:   
+  title: interrupt 
+  text: __interrupt_ [ˏɪntəˈrʌpt] v. 中断，中止；阻碍；打断，打扰
+
+redundant:   
+  title: redundant 
+  text: __redundant__ [rɪˈdʌndənt] a. （因人员过剩而）被解雇的；多余的，过剩的；累赘的，冗长的
+
+mishandle:   
+  title: mishanle 
+  text: __mishandle__ [ˏmɪsˈhændl] vt. 粗暴地对待；错误地处理，胡乱操作
+
+discovery:   
+  title: discovery 
+  text: __discovery__ [dɪˈskʌvərɪ] n. 发现
+
+alcohol:   
+  title: alcohol 
+  text: __alcohol__ [ˈælkəhɔl] n. 含酒精饮料，酒；酒精
+
+suppression:   
+  title: suppression 
+  text: __supression__ [səˈpreʃn] n. 镇压，压制，抑制；扑灭
+
+mainly:   
+  title: mainly 
+  text: __mainly__ [ˈmeɪnli] ad. 大体上，主要地
+
+property:   
+  title: property 
+  text: __property__ [ˈprɔpətɪ] n. 财产，所有物；性质，特性；房产，地产
+
+naked:   
+  title: naked 
+  text: __naked__ [ˈneɪkɪd] a. 裸体的，无遮蔽的
+
+feature:   
+  title: feature 
+  text: |
+    __featrue__ [ˈfiːtʃə(r)] n. 特征，特色；[pl.] 面貌，相貌；特定，专题节目；故事片  
+
+    __featrue__ v. 以……为特色；由……主演；占重要地位
+
+lens:   
+  title: lens 
+  text: __lens__ [lenz] n. 透镜；镜片；镜头
+
+coordinator:   
+  title: coordinator 
+  text: __coodinator__ [kəʊ'ɔ:dɪneɪtə] n. 协调者
+
+nourish:   
+  title: nourish 
+  text: __nourish__ [ˈnʌrɪʃ] vt. 养育，滋养；培养（情绪、观点等）
+
+crisp:   
+  title: crisp
+  text: |
+    __crisp__ [krɪsp] a. 脆的；利落的  
+
+    __crisp__ n.[pl.] 油炸土豆片
+
+guilty:   
+  title: guilty
+  text: __guilty__ ['ɡɪltɪ] a. 内疚的；有罪的
+
+crack:   
+  title: crack
+  text: |
+    __crack__ [kræk] n. 裂缝，缝隙；爆裂声  
+
+    __crack__ v. （使）破裂；（使）发出爆裂声；重击；崩溃，瓦解
+
+ 
