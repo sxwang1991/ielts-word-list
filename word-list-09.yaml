@@ -1,0 +1,325 @@
+# ==============================================================================
+# Word List 09
+# ==============================================================================
+
+
+fumes:   
+  title: fumes
+  text: __fumes__ [fju:mz] n. 烟，气，汽
+
+positive:   
+  title: positive
+  text: __positive__ [ˈpɔzətɪv] a. 明确的；肯定的；积极的
+
+
+assistant:   
+  title: assistant
+  text: |
+    __assistant__ [əˈsɪstənt] a. 助理的；副的  
+
+    __assistant__ n. 助理
+
+cannon:   
+  title: cannon
+  text: __cannon__ [ˈkænən] n. 加农炮，大炮
+
+obligation:   
+  title: obligation
+  text: __obligation__ [ˏɔblɪˈgeɪʃn] n. 义务，职责，责任
+
+hockey:   
+  title: hockey
+  text: __hockey__ [ˈhɔkɪ] n. 曲棍球；冰球
+
+liberty:   
+  title: liberty
+  text: __liberty__ [ˈlɪbətɪ] n. 自由，自由权；许可，准许  [常pl.] 过于随便，放肆
+
+pesticide:   
+  title: pesticide
+  text: __pesticide__ [ˈpestɪsaɪd] n. 杀虫剂，农药
+
+poll:   
+  title: poll
+  text: |
+    __poll__ [pəul] n. 民意测验；政治选举，大选  
+
+    __poll__ v. 对……进行民意测验；获得……选票
+
+refundable:   
+  title: reundable
+  text: __refundable__ [rɪ'fʌndəbl] a. 可退还的，可归还的，可偿还的
+
+homesick:   
+  title: homesick
+  text: __homesick__ [ˈhəʊmsɪk] a. 想家的，思乡的
+
+compassionate:   
+  title: compassionate
+  text: __compassionate__ [kəm'pæʃənət] a. 有同情心的，表示怜悯的
+
+orientate:   
+  title: orientate
+  text: __orientate__ [ˈɔːrɪənteɪt] vt. 使适应，使熟悉情况（或环境等）；给……定位，给……定向；使朝向；转至特定方向；适应（=orient）
+
+insight:   
+  title: insight
+  text: __insight__ [ˈɪnsaɪt] n. 洞察力，深刻的了解；顿悟
+
+resist:   
+  title: resist
+  text: __resist__ [rɪˈzɪst] v. 抵抗；抗（病等）；耐（热等）
+
+glide:   
+  title: glide
+  text: __glide__ [glaɪd] vi./n. 滑行，滑翔
+
+
+casualty:   
+  title: casualty
+  text: __casualty__ [ˈkæʒuəltɪ] n. 伤亡（人员），伤亡者；损失的东西；伤亡事故
+
+belief:   
+  title: belief
+  text: __belief__ [bɪˈliːf] n. 信仰，信条；相信
+
+concentration:   
+  title: concentration
+  text: __concentration__ [ˏkɔnsnˈtreɪʃn] n. 集中；专心，专注；浓缩，浓度
+
+tug:   
+  title: tug
+  text: __tug__ [tʌg] v. 用力拖（或拉）
+
+proceed:   
+  title: proceed
+  text: __proceed__ [prəˈsiːd] vi. 进行；前进；继续
+
+status:   
+  title: status
+  text: __status__ [ˈsteɪtəs] n. 地位；身份；状况
+
+document:   
+  title: document
+  text: |
+    __document__ [ˈdɔkjumənt] n. 公文，文件，证件 
+
+    __document__ vt. 用文件（或文献等）证明；记载
+
+mattress:   
+  title: mattress
+  text: __mattress__ [ˈmætrɪs] n. 床垫
+
+hostile:   
+  title: hostile
+  text: __hostile__ [ˈhɔstaɪl] a. 敌方的；不友善的；不利的
+
+intervene:   
+  title: intervene
+  text: __intervene__ [ˏɪntəˈviːn] vi. 干涉，干扰；介于其间
+
+promote:   
+  title: promote
+  text: __promote__ [prəˈməut] vt. 促进；提升；促销
+
+bump:   
+  title: bump
+  text: |
+    __bump__ [bʌmp] v. 碰，撞；颠簸着前进  
+
+    __bump__ n. 碰撞；隆起物
+
+reunion:   
+  title: reunion
+  text: __reunion__ [ˏriːˈjuːnɪən] n. 重聚，团聚；（久别后的）聚会，联谊活动
+
+digestive:   
+  title: digestive
+  text: __digestive__ [dɪˈdʒestɪv] a. 消化的；和消化有关的
+
+homestay:   
+  title: homestay
+  text: __homestay__ ['həʊmsteɪ] n. 在当地居民家居住的时期
+
+commit:   
+  title: commit
+  text: __commit__ [kəˈmɪt] v. 把……交托给，提交；犯（错误），干（坏事）
+
+practically:   
+  title: practically
+  text: __practically__ [ˈpræktɪkli] ad. 几乎，简直；实际上
+
+acrobat:   
+  title: acrobat
+  text: __acrobat__ [ˈækrəbæt] n. 特技演员；杂技演员
+
+revenue:   
+  title: revenue
+  text: __revenue__ [ˈrevənjuː] n. （尤指大宗的）收入；税收
+
+nickel:   
+  title: neckel
+  text: __neckel__ [ˈnɪkl] n. 镍；（美国或加拿大的）五分镍币
+
+limp:   
+  title: limp
+  text: __limp__ [lɪmp] a. 软的；无力的
+
+spit:   
+  title: spit
+  text: |
+    __spit__ [spɪt] v. 吐唾沫（或痰）；喷出  
+
+    __spit__ n. 唾液，唾沫
+
+irregularity:   
+  title: irregularity
+  text: __irregularity__ [ɪˌregjəˈlærəti] n. 不规则，无规律
+
+breeze:   
+  title: breeze
+  text: __breeze__ [briːz] n. 微风，和风
+
+avenue:   
+  title: avenue
+  text: __avenue__ [ˈævənjuː] n. 林荫道，大街；方法，途径
+
+magnify:   
+  title: magnify
+  text: __magnify__ [ˈmægnɪfaɪ] vt. 放大，扩大
+
+hive:   
+  title: hive
+  text: |
+    __hive__ [haɪv] n. 蜂房，蜂箱；蜂房内的蜂群；闹市，忙碌之地  
+
+    __hive__ v. （使）入蜂箱；群居
+
+oxide:   
+  title: oxide
+  text: __oxide__ [ˈɔksaɪd] n. 氧化物
+
+calf:   
+  title: calf
+  text: __calf__ [kɑːf] n. 牛犊；崽，幼兽
+
+foremost:   
+  title: foremost
+  text: __foremost__ [ˈfɔːməust] a. 最好的；最重要的
+
+procedure:   
+  title: procedure
+  text: __procedure__ [prəˈsiːdʒə(r)] n. 程序，手续；过程
+
+assemble:   
+  title: assemble
+  text: __assenble__ [əˈsembl] v. 集合；装配
+
+plagiarism:   
+  title: plagiarism
+  text: __plagiarism__ [ˈpleɪdʒərɪzəm] n. （文学、学说等的）剽窃，抄袭；剽窃物
+
+gallop:   
+  title: gallop
+  text: __gallop__ [ˈgæləp] v./n. 奔驰，飞跑，飞驰
+
+pledge:   
+  title: pledge
+  text: |
+    __pledge__ [pledʒ] v. 正式承诺；发誓，保证；抵押，典当  
+
+    __pledge__ n. 誓约，保证；抵押
+
+effective:   
+  title: effective
+  text: __effective__ [ɪˈfektɪv] a. 有效的，生效的；给人深刻印象的，显著的
+
+appreciate:   
+  title: appreciate
+  text: __appreciate__ [əˈpriːʃɪeɪt] v. 赏识，鉴赏；感激；涨价，增值
+
+deny:   
+  title: deny
+  text: __deny__ [dɪˈnaɪ] v. 否认，否定；拒绝
+
+union:   
+  title: union
+  text: __union__ [ˈjuːnɪən] n. 协会，工会，同盟；联合，合并
+
+responsibility:   
+  title: responsibility
+  text: __responsiblity__ [rɪˏspɔnsəˈbɪlətɪ] n. 责任，责任心；职责，任务
+
+conform:   
+  title: conform
+  text: __conform__ [kənˈfɔːm] vi. 遵守，服从；适应，顺应；相一致，相符合
+
+handy:   
+  title: handy
+  text: __handy__ [ˈhændɪ] a. 方便的；手边的；手巧的
+
+notify:   
+  title: notify
+  text: __notify__ [ˈnəutɪfaɪ] vt. 通知，报告
+
+splendid:   
+  title: splendid
+  text: __splendid__ [ˈsplendɪd] a. 壮观的，壮丽的，极好的；堂皇的，豪华的；灿烂的，辉煌的
+
+direction:   
+  title: direction
+  text: __direction__ [dɪˈrekʃn, daɪ-] n. 方向；趋势，动向； [pl.] 用法说明；指导
+
+execute:   
+  title: execute
+  text: __execute__ [ˈeksɪkjuːt] vt. 将……处死；实施，执行
+
+witness:   
+  title: witness
+  text: |
+    __witness__ [ˈwɪtnɪs] n. 证据；目击者  
+
+    __witness__ v. 目击；为……作证
+
+elbow:   
+  title: elbow
+  text: __elbow__ [ˈelbəu] n. 肘；（衣服的）肘部
+
+limited:   
+  title: limited
+  text: __limited__ ['lɪmɪtɪd] a. 有限的
+
+vessel:   
+  title: vessel
+  text: __vessel__ [ˈvesl] n. <总称>船只；容器；血管
+
+private:   
+  title: private
+  text: __private__ [ˈpraɪvɪt] a. 私人的；私下的；私立的
+
+stereo:   
+  title: stereo
+  text: |
+    __stereo__ [ˈsterɪəu] a. 立体声的  
+
+    __stereo__ n. 立体声（装置）
+
+soak:   
+  title: soak
+  text: __soak__ [səuk] v. 浸泡
+
+stout:   
+  title: stout
+  text: __stout__ [staut] a. 发胖的，肥胖的，强壮的；结实的，牢固的；顽强的，坚毅的
+
+greasy:   
+  title: greasy
+  text: __greasy__ [ˈgriːsɪ] a. 多脂的；油滑的
+
+boast:   
+  title: boast
+  text: __boast__ [bəust] n./v. 自夸；夸耀
+
+swift:   
+  title: swift
+  text: __swift__ [swɪft] a. 快的；敏捷的，迅速的

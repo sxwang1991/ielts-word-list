@@ -1,0 +1,331 @@
+# ==============================================================================
+# Word List 10
+# ==============================================================================
+
+
+ignorance:   
+  title: ignorance
+  text: __ignorance__ [ˈɪgnərəns] n. 无知，愚昧；不知道
+
+aesthetic:   
+  title: aesthetic
+  text: __aesthetic__ [iːsˈθetɪk] a. 美学的；审美的
+
+screen:   
+  title: screen
+  text: |
+    __screen__ [skriːn] n. 屏幕，银幕；遮蔽；屏风，帘；筛子  
+
+    __screen__ vt. 掩蔽，遮蔽；包庇；筛选；放映（电影），播放（电视节目）
+
+absent:   
+  title: absent
+  text: __absent__ [ˈæbsənt] a. 不在场的；心不在焉的
+
+scrape:   
+  title: scrape
+  text: __scrape__ [skreɪp] v./n. 刮，擦
+
+promotion:   
+  title: promotion
+  text: __promotion__ [prəˈməuʃn] n. 提升，晋级；促进，增进；发起，发扬；宣传，推销
+
+recreation:   
+  title: recreation
+  text: __recreation__ [ˏrekrɪˈeɪʃn] n. 娱乐，消遣
+
+specialise:   
+  title: specialise
+  text: __specialise__ [ˈspeʃəlaɪz] v. 专门研究，专攻；专用于，使适应特殊目的
+
+magnificent:   
+  title: magnificent
+  text: __magnificent__ [mægˈnɪfɪsnt] a. 壮丽的，宏伟的，华丽的；高尚的
+
+spasmodic:   
+  title: spasmodic
+  text: __spasmodic__ [spæzˈmɔdɪk] a. 痉挛的；间歇性的
+
+fund:   
+  title: fund
+  text: |
+    __fund__ [fʌnd] n. 基金，专款；储备，蕴藏； [pl.] 存款，资金  
+
+    __fund__ vt. 为……提供资金，给……拨款
+
+perceive:   
+  title: perceive
+  text: __perceive__ [pəˈsiːv] vt. 感知，察觉；认识到，理解
+
+manufacturer:   
+  title: manufacturer
+  text: __manufacturer__ [ˌmænjuˈfæktʃərə(r)] n. 制造商，制造厂，生产者
+
+specification:   
+  title: specification
+  text: __specification__ [ˏspesɪfɪˈkeɪʃn] n. [常pl.] 规格，规范；明确说明；（产品等的）说明书
+
+schedule:   
+  title: 
+  text: |
+    __schedule__ [ˈʃedjuːl] vt. 安排；列入，收进（清单等）  
+
+    __schedule__ n. 时刻表；清单
+
+arrangement:   
+  title: arrangement
+  text: __arrangement__ [əˈreɪndʒmənt] n. 安排； [常pl.] 准备工作
+
+destruction:   
+  title: destruction
+  text: __destruction__ [dɪˈstrʌkʃn] n. 破坏，毁灭，摧毁
+
+extinguisher:   
+  title: extinguisher
+  text: __extinguisher__ [ɪkˈstɪŋgwɪʃə] n. 灭火器；灭火者
+
+assume:   
+  title: assume
+  text: __assume__ [əˈsjuːm] vt. 假定，设想；承担（责任），就（职）
+
+proportion:   
+  title: proportion
+  text: __proportion__ [prəˈpɔːʃn] n. 比例；部分；相称
+
+forth:   
+  title: forth
+  text: __forth__ [fɔːθ] ad. 离去，外出；向前；向某处
+
+referee:   
+  title: referee
+  text: |
+    __referee__ [ˏrefəˈriː] v. 裁判；仲裁，调停  
+
+    __referee__ n. 裁判（员）；仲裁人，调停人；证明人，介绍人
+
+forgo:   
+  title: forgo
+  text: __forgo__ [fɔːˈgəu] vt. 放弃，抛弃；作罢
+
+assistantship:   
+  title: assistantship
+  text: __assistantship__ [əˈsɪstəntʃɪp] n. （给研究生的）半工半读助学金，（大学）研究生助教奖学金
+
+conversation:   
+  title: conversation
+  text: __conversation__ [ˏkɔnvəˈseɪʃn] n. 会话，谈话
+
+recommendation:   
+  title: recommendation
+  text: __recommendation__ [ˌrekəmenˈdeɪʃn] n. 推荐，推荐信；劝告，建议
+
+graph:   
+  title: graph
+  text: __graph__ [grɑːf] n. 图，图表，曲线图
+
+offset:   
+  title: offset
+  text: __offset__ [ˈɔfset] vt. 抵消，补偿，弥补
+
+humanity:   
+  title: humanity
+  text: __humanity__ [hjuːˈmænətɪ] n. 人类，人；人性；人道，仁慈；[pl.] 人文学科
+
+intact:   
+  title: intact
+  text: __intact__ [ɪnˈtækt] a. 完整无缺的；完好无损的
+
+stripe:   
+  title: stripe
+  text: __stripe__ [straɪp] n. 条纹
+
+mechanical:   
+  title: mechanical
+  text: __mechanical__ [mɪˈkænɪkl] a. 机械的，机械制造的；呆板的；习惯性的；体力的
+
+junction:   
+  title: junction
+  text: __junction__ [ˈdʒʌŋkʃn] n. 连接；联结点；交叉路口
+
+siesta:   
+  title: siesta
+  text: __siesta__ [sɪˈestə] n. 午睡，午休
+
+detect:   
+  title: detect
+  text: __detect__ [dɪˈtekt] vt. 发现，察觉；侦查，探测
+
+detour:   
+  title: detour
+  text: |
+    __detour__ [ˈdiːtuə(r)] n. 弯路，便道  
+
+    __detour__ v. 迂回，绕道
+
+staircase:   
+  title: staircase
+  text: __staircase__ [ˈsteəkeɪs] n. 楼梯
+
+arthritis:   
+  title: arthritis
+  text: __arthritis__ [ɑːˈθraɪtɪs] n. 关节炎
+
+barrier:   
+  title: barrier
+  text: __barrier__ [ˈbærɪə(r)] n. 栅栏；关卡，检票口；障碍，隔阂；屏障
+
+replace:   
+  title: replace
+  text: __replace__ [rɪˈpleɪs] vt. 代替；更换；把……放回原处
+
+justice:   
+  title: justice
+  text: __justice__ [ˈdʒʌstɪs] n. 正义，公正；司法
+
+diploma:   
+  title: diploma
+  text: __diploma__ [dɪˈpləumə] n. 毕业文凭（或证书）；资格证书
+
+visa:   
+  title: visa
+  text: __visa__ [ˈviːzə] n. 签证
+
+cosmic:   
+  title: cosmic
+  text: __cosmic__ [ˈkɔzmɪk] a. 宇宙的
+
+extendable:   
+  title: extendable
+  text: __extendable__ [ɪkˈstendəbl] a. 可延伸的，可展开的，可扩张的
+
+abundance:   
+  title: abundance
+  text: __abundance__ [əˈbʌndəns] n. 大量，丰富，充足，充裕
+
+supervisor:   
+  title: supervisor
+  text: __supervisor__ [ˈsu:pəvaɪzə(r)] n. 监督人，管理人，指导者；主管
+
+jumble:   
+  title: jumble
+  text: |
+    __jumble__ [ˈdʒʌmbl] n. 混杂，掺杂；供义卖的旧杂货  
+
+    __jumble__ vt. 混杂，掺杂
+
+equip:   
+  title: equip
+  text: __equip__ [ɪˈkwɪp] vt. 装备，配备；使有能力，使有准备
+
+permanent:   
+  title: permanent
+  text: __permanent__ [ˈpɜːmənənt] a. 永久的，持久的
+
+embed:   
+  title: embed
+  text: __embed__ [ɪmˈbed] vt. 把……嵌入（或埋入、插入），扎牢；使深留脑中
+
+orientation:   
+  title: orientatation
+  text: __orientation__ [ˌɔ:riənˈteɪʃn] n. 定位；方向，方位；情况介绍；培训，训练
+
+deprive:   
+  title: deprive
+  text: __deprive__ [dɪˈpraɪv] vt. 剥夺；使丧失
+
+amaze:   
+  title: amaze
+  text: __amaze__ [əˈmeɪz] vt. 使惊奇，使惊愕
+
+dividend:   
+  title: dividend
+  text: __dividend__ [ˈdɪvɪdend] n. 红利，股息；回报，效益；被除数
+
+preference:   
+  title: preference
+  text: _preference___ [ˈprefrəns] n. 喜爱；偏爱的事物（或人）；优先
+
+contract:   
+  title: contract
+  text: |
+    __contract__ [ˈkɔntrækt] n. 契约，合同
+
+    __contract__ [kənˈtrækt] v. 缩小；签约
+
+uneasy:   
+  title: uneasy
+  text: __uneasy__ [ʌnˈiːzɪ] a. 心神不安的；担心的
+
+automatically:   
+  title: automatically
+  text: __automatically__ [ˌɔ:tə'mætɪklɪ] ad. 自动地；无意识地
+
+female:   
+  title: female
+  text: |
+    __female__ [ˈfiːmeɪl] a. 女（性）的；雌的  
+
+    __female__ n. 女子
+
+asset:   
+  title: asset
+  text: __asset__ [ˈæset] n. 财产；优点
+
+athlete:   
+  title: athlete
+  text: __athlete__ [ˈæθliːt] n. 运动员；体育家
+
+clarity:   
+  title: clarity
+  text: __clarity__ [ˈklærətɪ] n. 清楚
+
+swap:   
+  title: swap
+  text: __swap__ [swɔp] v./n. 交换
+
+sophisticated:   
+  title: sophisticated
+  text: __sophisticated__ [səˈfɪstɪkeɪtɪd] a. 老于世故的，老练的；精密的，尖端的，先进的；复杂的；高雅的，有教养的
+
+bulk:   
+  title: bulk
+  text: __bulk__ [bʌlk] n. 大量；大批
+
+machinery:   
+  title: machinery
+  text: __machinery__ [məˈʃi:nəri] n. <总称> 机械；机构
+
+intimate:   
+  title: intimate
+  text: |
+    __intimate__ [ˈɪntɪmət] a. 亲密的，密切的；私人的，个人的；小圈子内的  n. 至交，密友
+    
+    __intimate__ [ˈɪntɪmeɪt] vt. 暗示，提示，透露
+
+restrict:   
+  title: restrict
+  text: __restrict__ [rɪˈstrɪkt] vt. 限制，约束
+
+waist:   
+  title: waist
+  text: __waist__ [weɪst] n. 腰，腰部
+
+calibre:   
+  title: calibre
+  text: __calibre__ [ˈkælɪbə(r)] n. 质量，才干，能力；口径
+
+harsh:   
+  title: harsh
+  text: __harsh__ [hɑːʃ] a. 严厉的，严酷的；粗糙的，毛糙的；刻薄的；（天气或生活环境）恶劣的；刺耳的，刺目的
+
+parliament:   
+  title: parliament
+  text: __parliament__ [ˈpɑːləmənt] n. 议会，国会
+
+flight:   
+  title: flight
+  text: __flight__ [flaɪt] n. 航班
+
+remind:   
+  title: remind
+  text: __remind__ [rɪˈmaɪnd] vt. 提醒，使想起；使发生联想

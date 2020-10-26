@@ -1,0 +1,352 @@
+# ==============================================================================
+# Word List 11
+# ==============================================================================
+
+
+aquarium:   
+  title: aquarium
+  text: __aquarium__ [əˈkweəriəm] n. 养鱼池；玻璃缸；水族馆
+
+cell:   
+  title: cell
+  text: __cell__ [sel] n. 细胞；小房间；电池
+
+dweller:   
+  title: dweller
+  text: __dweller__ [ˈdwelə(r)] n. 居住者，居民
+
+declare:   
+  title: declare
+  text: __declare__ [dɪˈkleə(r)] v. 正式宣布；声明；断言
+
+suitcase:   
+  title: suitcase
+  text: __suitcase__ [ˈsu:tkeɪs] n. 手提箱；衣箱
+
+graduate:   
+  title: graduate
+  text: |
+    __graduate__ [ˈgrædʒuət] n. （尤指大学）毕业生；研究生
+
+    __graduate__ [ˈgrædʒueɪt] v. （使）毕业；获得学位
+
+predict:   
+  title: predict
+  text: __predict__ [prɪˈdɪkt] v. 预言；预告
+
+headquarters:   
+  title: headquarters
+  text: __headquarters__ [ˈhedˈkwɔ:təz] n. 总部，总公司；大本营；司令部
+
+coverage:   
+  title: coverage
+  text: __coverage__ [ˈkʌvərɪdʒ] n. 新闻报道；覆盖范围
+
+enforce:   
+  title: enforce
+  text: __enforce__ [ɪnˈfɔːs] vt. 实施，执行；强制，迫使
+
+specialty:   
+  title: specialty
+  text: __specialty__ [ˈspeʃəlti] n. 特产；特长
+
+intrinsic:   
+  title: intrinsic
+  text: __intrinsic__ [ɪnˈtrɪnsɪk] a. 固有的，内在的；本质的
+
+medical:   
+  title: medical
+  text: __medical__ [ˈmedɪkl] a. 医学的，医疗的；内科的
+
+stick:   
+  title: stick
+  text: __stick__ [stɪk] v. 刺，戳；黏贴，黏住；卡住，陷住
+
+realistic:   
+  title: realistic
+  text: __realistic__ [ˌri:əˈlɪstɪk] a. 现实（主义的），实际的；恰如其分的；逼真的
+
+indifferent:   
+  title: indifferent
+  text: __indifferent__ [ɪnˈdɪfrənt] a. 冷漠的，不关心的
+
+retailer:   
+  title: retailer
+  text: __retailer__ [ˈri:teɪlə(r)] n. 零售商人；复述者，传播者
+
+turnover:   
+  title: turnover
+  text: __turnover__ [ˈtɜ:nəʊvə(r)] n. 营业额；人事变动率；货物周转率
+
+brand:   
+  title: brand
+  text: |
+    __brand__ [brnd] n. 商标；品牌  
+
+    __brand__ vt. 铭刻，打烙印于；丑化
+
+accompany:   
+  title: accompany
+  text: __accompany__ [əˈkʌmpənɪ] vt. 陪伴；伴随，与……同时发生；伴奏
+
+cheat:   
+  title: cheat
+  text: |
+    __cheat__ [tʃiːt] v. 欺骗；作弊  
+
+    __cheat__ n. 欺骗；骗子
+
+mention:   
+  title: mention
+  text: __mention__ [ˈmenʃn] n./v. 提及，说起
+
+level:   
+  title: level
+  text: |
+    __level__ [ˈlevl] n. 水平面，水平线；高度，水平；等级  
+
+    __level__ a. 平的、水平的；同高度的，同等程度的；平稳的；冷静的  
+
+    __level__ v. （使）变平坦
+
+lateral:   
+  title: lateral
+  text: __lateral__ [ˈlætərəl] a. 侧面的，旁边的
+
+dense:   
+  title: dense
+  text: __dense__ [dens] a. 密集的；浓厚的
+
+flash:   
+  title: flash
+  text: |
+    __flash__ [flæʃ] v. 闪光，闪耀  
+
+    __flash__ n. 闪烁；闪光灯
+
+snack:   
+  title: snack
+  text: __snack__ [snæk] n. 快餐，小吃；点心
+
+marvellous:   
+  title: marvellous
+  text: __marvellous__ [ˈmɑ:vələs] n. 令人惊奇的；奇特的，非凡的；奇迹般的，不可思议的；绝妙的
+
+export:   
+  title: export
+  text: |
+    __export__ [ɪkˈspɔːt;] v. 出口；输出，传播 
+
+    __export__ [ˈekspɔːt] n. 出口；输出；出口商品
+
+tribute:   
+  title: tribute
+  text: __tribute__ [ˈtrɪbjuːt] n. 贡品；颂词，称赞；（表示敬意的）礼物
+
+sanitary:   
+  title: sanitary
+  text: |
+    __sanitary__ [ˈsænɪtrɪ] a. 清洁的；保健的，卫生的  
+
+    __sanitary__ n. （有卫生设备的）公共厕所
+
+submit:   
+  title: submit
+  text: __submit__ [səbˈmɪt] v. 屈从；提交
+
+archive:   
+  title: archive
+  text: |
+    __archive__ [ˈɑ:kaɪv] n. 档案；档案室  
+
+    __archive__ vt. 存档
+
+anecdotal:   
+  title: anecdotal
+  text: __anecdotal__ [ˌænɪkˈdəʊtl] a. 轶话的，轶闻趣事的
+
+shorthand:   
+  title: shorthand
+  text: __shorthand__ [ˈʃɔ:thænd] n. 速记法；速记
+
+exceptional:   
+  title: exceptional
+  text: __exceptional__ [ɪkˈsepʃənl] a. 例外的；异常的
+
+rude:   
+  title: rude
+  text: __rude__ [ruːd] a. 粗鲁的；粗糙的
+
+resume:   
+  title: resume
+  text: __resume__ [rɪˈzjuːm] v. （中断后）重新开始，继续恢复
+
+bookrest:   
+  title: bookrest
+  text: __bookrest__ ['bʊkrest] n. 阅书架
+
+primitive:   
+  title: primitive
+  text: |
+    __primitive__ [ˈprɪmətɪv] a. 原始的，上古的；简单的，粗糙的  
+
+    __primitive__ n. 原始人；原始事物
+
+craft:   
+  title: craft
+  text: __craft__ [krɑːft] n. 工艺，手艺；船；航空器
+
+hire:   
+  title: hire
+  text: __hire__ [ˈhaɪə(r)] v./n. 租用；雇用
+
+goggles:   
+  title: goggles
+  text: __goggles__ [ˈgɔglz] n. 护目镜；风镜；游泳镜
+
+thereby:   
+  title: thereby
+  text: __thereby__ [ˏðeəˈbaɪ] ad. 因此，从而
+
+stake:   
+  title: stake
+  text: |
+    __stake__ [steɪk] n. 桩；火刑柱；利害关系；股份；赌金  
+
+    __stake__ vt. 以……打赌；拿……冒险
+
+barge:   
+  title: barge
+  text: |
+    __barge__ [bɑːdʒ] n. 驳船  
+
+    __barge__ v. 猛撞；闯
+
+aerobics:   
+  title: aerobics
+  text: __aerobics__ [eəˈrəubɪks] n. 有氧运动
+
+shrub:   
+  title: shrub
+  text: __shrub__ [ʃrʌb] n. 灌木
+
+slat:   
+  title: slat
+  text: |
+    __slat__ [slæt] n. 板条，狭板  
+
+    __slat__ vt. 用板条制作
+
+legal:   
+  title: legal
+  text: __legal__ [ˈliːgl] a. 法律的；合法的
+
+cinematography:   
+  title: cinematography
+  text: __cinematography__ [ˌsɪnəməˈtɒgrəfi] n. 电影摄影术
+
+contribute:   
+  title: contribute
+  text: __contribute__ [kənˈtrɪbjuːt] [ˈkɒntrɪbjuːt] v. 捐赠，捐助；起作用，影响
+
+imagination:   
+  title: imagination
+  text: __imagination__ [ɪˏmædʒɪˈneɪʃn] n. 想象（力）；想象出来的事物
+
+bronchitis:   
+  title: 
+  text: __bronchitis__ [brɔŋˈkaɪtɪs] n.[医] 支气管炎
+
+exacerbate:   
+  title: exacerbate
+  text: __exacerbate__ [ɪgˈzæsəbeɪt] vt. 恶化，加剧
+
+intrusion:   
+  title: intrusion
+  text: __intrusion__ [ɪnˈtruːʒn] n. 闯入；打搅；侵扰
+
+cancel:   
+  title: cancel
+  text: __cancel__ [ˈkænsl] v. 取消，废除；抵消，对消；删去，划掉
+
+cork:   
+  title: cork
+  text: |
+    __cork__ [kɔːk] n. 软木塞  
+
+    __cork__ vt. 用软木塞塞住
+
+data:   
+  title: data
+  text: __data__ [ˈdeɪtə] n. 数据；资料
+
+buffalo:   
+  title:  buffalo
+  text: __buffalo__ [ˈbʌfələu] n. 水牛；（北美）野牛
+
+insufficient:   
+  title: insufficient
+  text: __insufficient__ [ˏɪnsəˈfɪʃnt] a. 不足的，不够的
+
+grocery:   
+  title: grocery
+  text: __grocery__ ['ɡrəʊsərɪ] n. 杂货店；食品，杂货
+
+humid:   
+  title: humid
+  text: __humid__ [ˈhjuːmɪd] a. 湿的，潮湿的，湿润的，多潮气的
+
+relation:   
+  title: relation
+  text: __relation__ [rɪˈleɪʃn] n. 关系，联系；亲属，亲戚
+
+confuse:   
+  title: confuse
+  text: __confuse__ [kənˈfjuːz] vt. 使混乱，混淆；使迷惑，使糊涂
+
+correspondence:   
+  title: correspondence
+  text: __correspondence__ [ˌkɒrəˈspɒndəns] n. 通信，信件；符合，一致；对应
+
+allocation:   
+  title: allocation
+  text: __allocation__ [ˌæləˈkeɪʃn] n. 配给，分配，安置；配给量
+
+entertainment:   
+  title: entertainment
+  text: __entertainment__ [ˌentəˈteɪnmənt] n. 招待，款待；娱乐（业）；供消遣的事物
+
+conquer:   
+  title: conquer
+  text: __conquer__ [ˈkɔŋkə(r)] vt. 征服，战胜，占领；克服，破除（坏习惯等）
+
+decoration:   
+  title: decoration
+  text: __decoration__ [ˏdekəˈreɪʃn] n. 装饰，装潢；装饰品
+
+reward:   
+  title: reward
+  text: |
+    __reward__ [rɪˈwɔːd] n. 奖赏；报酬  
+
+    __reward__ vt. 酬谢；奖励
+
+larva:   
+  title: larva
+  text: __larva__ [ˈlɑːvə] n. [pl. larvae] 幼虫，幼体
+
+semester:   
+  title: semester
+  text: __semester__ [sɪˈmestə(r)] n. 学期
+
+offspring:   
+  title: offspring
+  text: __offspring__ [ˈɔfsprɪŋ] n. 子女，后代；产物
+
+occasional:   
+  title: occasional
+  text: __occasional__ [əˈkeɪʒənl] a. 偶尔的，间或发生的
+
+crater:   
+  title: crater
+  text: __crater__ [ˈkreɪtə(r)] n. 火山口；坑
