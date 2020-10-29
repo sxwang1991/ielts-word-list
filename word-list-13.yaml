@@ -1,0 +1,366 @@
+# ==============================================================================
+# Word List 13
+# ==============================================================================
+
+
+statement:   
+  title: statement
+  text: __statement__ [ˈsteɪtmənt] n. 陈述；声明；报表
+
+amount:   
+  title: amount
+  text: |
+    __amount__ [əˈmaunt] n. 总额  
+
+    __amount__ vi. 合计
+
+given:   
+  title: given
+  text: __given__ [ˈgɪvn] a. 规定的，特定的；假设的
+
+advanced:   
+  title: advanced
+  text: __advanced__ [ədˈvɑ:nst] a. 先进的
+
+milestone:   
+  title: milestone
+  text: __milestone__ ['maɪlstəʊn] n. 里程碑；转折点
+
+crank:   
+  title: crank
+  text: |
+    __crank__ [kræŋk] n. 曲柄，曲轴  
+
+    __crank__ vt. 用曲柄转动某物
+
+lexicographer:   
+  title: lexicographer
+  text: __lexicographer__ [ˌleksɪˈkɒgrəfə(r)] n. 词典编纂者
+
+bunch:   
+  title: bunch
+  text: |
+    __bunch__ [bʌntʃ] n. 群，伙；束，串，捆  
+
+    __bunch__ v. 集中，挤在一起；使成一束（或一群等）
+
+costume:   
+  title: costume
+  text: __costume__ [ˈkɔstjuːm] n. 戏装；（特定场合穿的）成套服装
+
+scare:   
+  title: scare
+  text: |
+    __scare__ [ˈskeə(r)] n. 惊恐，恐慌  
+
+    __scare__ v. 吓，使害怕；受惊吓，感到害怕
+
+manipulate:   
+  title: manipulate
+  text: __manipulate__ [məˈnɪpjuleɪt] vt. 应付，处理；操纵，控制；影响
+
+juvenile:   
+  title: juvenile
+  text: |
+    __juvenile__ [ˈdʒuːvənaɪl] a. 少年的，少年特有的；幼稚的，不成熟的  
+
+    __juvenile__ n. 未成年人，少年
+
+phenomenon:   
+  title: phenomenon
+  text: __phenomenon__ [fəˈnɔmɪnən] n. 现象，迹象；非凡的人（或事物）
+
+freight:   
+  title: freight
+  text: |
+    __freight__ [freɪt] n. 货物  
+
+    __freight__ vt. 运送（货物）；货运
+
+vulnerable:   
+  title: vulnerable
+  text: __vulnerabel__ [ˈvʌlnərəbl] a. 易受攻击的，易受伤的
+
+steam:   
+  title: steam
+  text: |
+    __steam__ [stiːm] n. （蒸）汽，汽雾  
+
+    __steam__ v. 发出蒸汽；（火车、轮船）行驶；用蒸汽开动
+
+valuable:   
+  title: valuable
+  text: |
+    __valuable__ [ˈvæljuəbl] a. 贵重的，有价值的  
+
+    __valuable__ n. 贵重物品，财宝
+
+presumably:   
+  title: presumably
+  text: __presumably__ [prɪˈzju:məbli] ad. 推测起来，大概
+
+sanctuary:   
+  title: sanctuary
+  text: __sanctuary__ [ˈsæŋktʃuərɪ] n. 圣堂，圣殿，圣坛；圣地；庇护所，避难所；禁猎区，动物保护区
+
+bring-out:   
+  title: bring out
+  text: __bring__  __out__[briŋ aut] 出版；激起；鼓励
+
+arithmetic:   
+  title: arthmatic
+  text: __arthmatic__ [əˈrɪθmətɪk] n. 算术
+
+request:   
+  title: request
+  text: __request__ [rɪˈkwest] n./vt. 要求；请求
+
+dash:   
+  title: dash
+  text: |
+    __dash__ [dæʃ] v. 飞奔，猛冲；猛掷；使破灭，使沮丧  
+
+    __dash__ n. 飞奔，猛冲；破折号；精力，干劲
+
+treatment:   
+  title: treatment
+  text: __treatment__ [ˈtriːtmənt] n. 治疗；对待
+
+coarse:   
+  title: coarse
+  text: __coarse__ [kɔːs] a. 粗的；粗糙的；粗劣的
+
+insecure:   
+  title: insecure
+  text: __insecure__ [ˏɪnsɪˈkjuə(r)] a. 不安全的，不可靠的
+
+linen:   
+  title: linen
+  text: __linen__ [ˈlɪnɪn] n. 亚麻织品；亚麻布
+
+inspiration:   
+  title: inspiration
+  text: __inspiration__ [ˏɪnspəˈreɪʃn] n. 启示，灵感；鼓舞人心的人（或事），激励
+
+generous:   
+  title: generous
+  text: __generous__ [ˈdʒenərəs] a. 慷慨的；大量的
+
+cultivate:   
+  title: cultivate
+  text: __cultivate__ [ˈkʌltɪveɪt] vt. 种植；培养
+
+campaign:   
+  title: campaign
+  text: |
+    __campaign__ [kæmˈpeɪn] vi. 参加活动；作战  
+
+    __campaign__ n. 战役；活动
+
+disorder:   
+  title: disorder
+  text: __disorder__ [dɪsˈɔːdə(r)] n. 混乱；失调，紊乱，疾病
+
+spot:   
+  title: spot 
+  text: |
+    __spot__ [spɔt] vt. 认出，发现；看见，注意到  
+
+    __spot__ n. 地点，处所；斑点，污点；少量
+
+outcome:   
+  title: outcome
+  text: __outcome__ [ˈautkʌm] n. 结果，成果；后果；结局；出口，输出量
+
+aggravate:   
+  title: aggravate
+  text: __aggravate__ [ˈægrəveɪt] vt. 恶化，加重，加剧
+
+deception:   
+  title: deception
+  text: __deception__ [dɪˈsepʃn] n. 欺骗；诡计
+
+sharpen:   
+  title: sharpen
+  text: __sharpen__ ['ʃɑ:pən] v. 削尖，磨快；使敏锐，使敏捷
+
+practical:   
+  title: practical
+  text: __practical__ [ˈprktɪkl] a. 实际的，实用的；实践的，应用的
+
+pliable:   
+  title: pliable
+  text: __pliable__ [ˈplaɪəbl] a. （指人或思想）容易受影响的；顺从的；易弯的，柔韧的
+
+disposal:   
+  title: disposal
+  text: __disposal__ [dɪˈspəuzl] n. 处理，处置；布置，安排
+
+subsidiary:   
+  title: subsidiary
+  text: |
+    __subsidiary__ [səbˈsɪdɪərɪ] n. 子公司；附属机构；支流  
+
+    __subsidiary__ a. 次要的；辅助的，附设的
+
+cautious:   
+  title: cautious
+  text: __cautious__ [ˈkɔːʃəs] a. 十分小心的，谨慎的
+
+pattern:   
+  title: pattern
+  text: |
+    __pattern__ [ˈpætn] n. 样式；模式  
+
+    __pattern__ vt. 构成图案；使形成，促成
+
+terrain:   
+  title: terrain
+  text: __terrain__ [təˈreɪn] n. 地形，地势
+
+darkroom:   
+  title: darkroom
+  text: __darkroom__ [ˈdɑ:kru:m] n. 暗室
+
+kneel:   
+  title: kneel
+  text: __kneel__ [niːl] vi. 跪
+
+overwhelm:   
+  title: overwhelm
+  text: __overwhelm__ [ˏəuvəˈwelm] vt. 征服；淹没
+
+contempt:   
+  title: comtempt
+  text: __contempt__ [kənˈtempt] n. 轻视，鄙视，不尊重；蔑视
+
+recognize:   
+  title: recognize
+  text: __recognize__ [ˈrekəgnaɪz] vt. 认出；承认，认可
+
+badge:   
+  title: badge
+  text: __badge__ [bædʒ] n. 徽章；标记；象征
+
+economic:   
+  title: economic
+  text: __economic__ [ˏiːkəˈnɔmɪk] a. 经济的；经济上的，经济学的
+
+feeble:   
+  title: feeble
+  text: __feeble__ [ˈfiːbl] a. 虚弱的；无效的
+
+virtue:   
+  title: virtue
+  text: __virtue__ [ˈvɜːtʃuː] n. 美德；优点
+
+fibre:   
+  title: fibre
+  text: __fibre__ [ˈfaɪbə(r)] n. 纤维
+
+suburb:   
+  title: suburb
+  text: __suburb__ [ˈsʌbɜːb] n. 郊区
+
+pulverise:   
+  title: pulverise
+  text: __pulverise__ [ˈpʌlvəraɪz] vt. 碾磨成粉，粉碎
+
+inductive-reasoning:   
+  title: inductive-reasoning
+  text: __inductive__ __reasoning__ [inˈdʌktiv ˈri:zənɪŋ] 归纳；推理
+
+fertilise:   
+  title: fertilise
+  text: __fertilise__ [ˈfɜːtəlaɪz] vt. 使肥沃，使多产；施肥于；使受精
+
+ration:   
+  title: ration
+  text: |
+    __ration__ [ˈræʃn] n. 配给量，定量；给养，口粮  
+
+    __ration__ vt. 配给，定量供应
+
+debt:   
+  title: debt
+  text: __debt__ [det] n. 债，债务
+
+attractive:   
+  title: attractive
+  text: __attractive__ [əˈtræktɪv] a. 吸引的，有吸引力的；引起注意的
+
+conquest:   
+  title: conquest
+  text: __conquest__ [ˈkɔŋkwest] n. 征服；战利品
+
+sophisticate:   
+  title: sophisticate
+  text: __sophisticate__ [sə'fɪstɪkeɪt] n. 久经世故的人；精通者
+
+snap:   
+  title: snap
+  text: |
+    __snap__ [snæp] v. 咔嚓折断，啪地绷断；（啪的一声）打开（或关上）；咬；厉声说话，怒声责斥  
+
+    __snap__ n. 咔嚓声  
+
+    __snap__ a. 突然的，匆忙的
+
+express:   
+  title: express
+  text: |
+    __express__ [ɪkˈspres] vt. 表达，表示  
+
+    __express__ a. 特快的，快速的；明确的  
+
+    __express__ n. 快车，快运，快递
+
+identifiable:   
+  title: identifiable
+  text: __identifiable__ [aɪˌdentɪˈfaɪəbl] a. 可辨认的，可识别的；可确定的，可证明是同一的
+
+nominal:   
+  title: nominal
+  text: __nominal__ [ˈnɔmɪnl] a. 名义上的；（金额、租金等）微不足道的
+
+acquire:   
+  title: acquire
+  text: __acquire__ [əˈkwaɪə(r)] vt.  取得，获得
+
+bump-into:   
+  title: bump into
+  text: __bump__ __into__ [bʌmp ˈɪntuː] 不期而遇，邂逅
+
+graphology:   
+  title: graphology
+  text: __graphology__ [græˈfɔlədʒɪ] n. 笔迹学，笔相学
+
+register:   
+  title: register
+  text: |
+    __register__ [ˈredʒɪstə(r)] n. 注册，登记；登记表  
+
+    __register__ v. 注册，登记
+
+extremely:   
+  title: extremely
+  text: __extremely__ [ɪkˈstri:mli] ad. 极端地；非常地
+
+rot:   
+  title: rot
+  text: |
+    __rot__ [rɔt] n. 腐烂  
+
+    __rot__ v. （使）腐烂
+
+ambulance:   
+  title: ambulance
+  text: __ambulance__ [ˈæmbjuləns] n. 救护车；野战医院
+
+miserable:   
+  title: miserable
+  text: __miserable__ [ˈmɪzrəbl] a. 悲惨的，痛苦的；令人难受的
+
+continuous:   
+  title: continuous
+  text: __continuous__ [kənˈtɪnjuəs] a. 连续的，不断的
