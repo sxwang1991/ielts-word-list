@@ -1,0 +1,350 @@
+# ==============================================================================
+# Word List 15
+# ==============================================================================
+
+
+
+attach:   
+  title: attach
+  text: __attach__ [əˈtætʃ] v. 系，贴；认为有重要性（或意义，价值等）；使附属，附加
+
+flip:   
+  title: flip
+  text: __flip__ [flɪp] v. 轻抛；轻弹
+
+comment:   
+  title: comment
+  text: |
+    __comment__ [ˈkɔment] n. 注释，评论，意见  
+
+    __comment__ v. 注释，评论
+
+emphasize:   
+  title: emphasize
+  text: __emphasize__ ['emfəsaɪz] vt. 强调，着重
+
+flame:   
+  title: flame
+  text: |
+    __flame__ [fleɪm] n. 火焰；强烈的感情  
+
+    __flame__ v. 发火焰，燃烧
+
+foresee:   
+  title: foresee
+  text: __foresee__ [fɔːˈsiː] vt. 预见，预知
+
+historic:   
+  title: historic
+  text: __historic__ [hɪˈstɔrɪk] a. 有历史意义的；历史的，历史性的
+
+provision:   
+  title: prevision
+  text: __prevision__ [prəˈvɪʒn] n. 供应，（一批）供应品；准备，预备；条款，规定；给养，口粮
+
+president:   
+  title: president
+  text: __president__ [ˈprezɪdənt] n. 总统，校长，会长，（大会）主席
+
+internist:   
+  title: internist
+  text: __internist__ [ɪnˈtɜ:nɪst] n. 内科医生
+
+reception:   
+  title: reception
+  text: __reception__ [rɪˈsepʃn] n. 接收，接受；接待，招待会；接收效果
+
+suspend:   
+  title: suspend
+  text: __suspend__ [səˈspend] vt. 吊，悬挂；推迟；暂停，中止
+
+explorer:   
+  title: explorer
+  text: __explorer__ [ɪkˈsplɔ:rə(r)] n. 勘探者，探险者
+
+untrustworthy:   
+  title: untrustworthy
+  text: __untrustworthy__ [ʌnˈtrʌstwɜ:ði] a. 不值得信任的，靠不住的
+
+prospective:   
+  title: prospective
+  text: __prospective__ [prəˈspektɪv] a. 预期的；未来的；可能的
+
+percentage:   
+  title: percentage
+  text: __percentage__ [pəˈsentɪdʒ] n. 百分比，百分率
+
+clue:   
+  title: clue
+  text: __clue__ [kluː] n. 线索；提示
+
+stammer:   
+  title: stammer
+  text: |
+    __stammer__ [ˈstæmə(r)] n. 结巴，口吃  
+
+    __stammer__ v. 口吃
+
+hawk:   
+  title: hawk
+  text: __hawk__ [hɔːk] n. 鹰，隼
+
+swamp:   
+  title: swamp
+  text: |
+    __swamp__ [swɔmp] vt. 淹没；使应接不暇  
+
+    __swamp__ n. 沼泽
+
+jealous:   
+  title: jealous
+  text: __jealous__ [ˈdʒeləs] a. 嫉妒的；猜疑的
+
+favour:   
+  title: favour
+  text: |
+    __favour__ [ˈfeɪvə(r)] n. 帮忙；偏爱；赞同；恩惠  
+
+    __favour__ vt. 赞同；较喜欢，偏袒；有利于
+
+fickle:   
+  title: fickle
+  text: __fickel__ [ˈfɪkl] a. 易变的，无常的
+
+uphill:   
+  title: uphill
+  text: __uphill__ [ˏʌpˈhɪl] ad. 向上，往上；上坡；艰难地
+
+succeed:   
+  title: succeed
+  text: __succeed__ [səkˈsiːd] v. 成功；接着发生
+
+gender:   
+  title: gender
+  text: __gender__ [ˈdʒendə(r)] n. 性别；（语法中的）性
+
+consecutive:   
+  title: consecutive
+  text: __consecutive__ [kənˈsekjutɪv] a. 连续不断的，连贯的
+
+diversion:   
+  title: diversion
+  text: __diversion__ [daɪˈvɜːʃn] n. 转向，转移，转换；转移视线的事物；娱乐
+
+donate:   
+  title: donate
+  text: __donate__ [dəuˈneɪt] vt. 捐赠，赠送
+
+defence:   
+  title: defence
+  text: __defence__ [dɪˈfens] n. 防御，保护；辩护；答辩； [pl.] 防务工事
+
+volume:   
+  title: volume
+  text: __volume__ [ˈvɔljuːm] n. 卷，册；体积；音量
+
+refund:   
+  title: refund
+  text: |
+    __refund__ [ˈriːfʌnd] n. 退款
+
+    __refund__ [riːˈfʌnd] vt. 退还（钱款），偿付
+
+regardless:   
+  title: regradless
+  text: __regardless__ [rɪˈgɑ:dləs] ad. 不顾后果地；无论如何
+
+emboss:   
+  title: emboss
+  text: __emboss__ [ɪmˈbɔs] vt. 使……凸出；压花（纹）
+
+internationalist:   
+  title: internationalist
+  text: |
+    __internationlist__ [ˌɪntəˈnæʃnəlɪst] n. 国际主义者  
+
+    __internationlist__ a. 国际主义者的
+
+scatter:   
+  title: scatter
+  text: __scatter__ [ˈskætə(r)] v. （使人或动物）散开，驱散；撒；撒播
+
+appetite:   
+  title: appetite
+  text: __appetie__ [ˈæpɪtaɪt] n. 食欲，胃口；欲望
+
+prevail:   
+  title: prevail
+  text: ___prevail_ [prɪˈveɪl] vi. 流行，盛行；占优势，战胜
+
+glossary:   
+  title: glossary
+  text: __glossary__ [ˈglɔsərɪ] n. 词汇表；术语表
+
+consolidation:   
+  title: consolidation
+  text: __consolidation__ [kənˌsɒlɪ'deɪʃən] n. 合并；巩固
+
+sulphuric-acid:   
+  title: sulphuric acid
+  text: __sulphuric__ __acid__ [sʌlˌfjʊərɪk ˈæsɪd] 硫酸
+
+goodwill:   
+  title: goodwill
+  text: __goodwill__ [ˏgudˈwɪl] n. 友好，善意；信誉
+
+amass:   
+  title: amass
+  text: __amass__ [əˈmæs] vt. 积聚
+
+federal:   
+  title: federal
+  text: __federal__ [ˈfedərəl] a. 联邦的，联盟的
+
+consideration:   
+  title: consideration
+  text: __consideration__ [kənˏsɪdəˈreɪʃn] n. 考虑；思考；体谅
+
+grip:   
+  title: grip
+  text: |
+    __grip__ [grɪp] v. 握紧，抓牢；吸引住……的注意力（或想象力等）  
+
+    __grip__ n. 紧握，抓牢；掌握，控制
+
+mansion:   
+  title: mansion
+  text: __mansion__ [ˋmænʃən] n. 大厦；（豪华的）宅邸
+
+galaxy:   
+  title: galaxy
+  text: __galaxy__ [ˈgæləksɪ] n. [the G-] 银河；星系；群英
+
+route:   
+  title: route
+  text: __route__ [ruːt; raut] n. 路线；路程
+
+deficiency:   
+  title: deficiency
+  text: __deficiency__ [dɪˈfɪʃnsɪ] n. 缺乏，不足
+
+opposite:   
+  title: opposite
+  text: |
+    __opposite__ [ˈɔpəzɪt] prep. 在……对面  
+
+    __opposite__ a. 对面的，对立的；相反的，相对的  
+
+    __opposite__ n. 对立面，对立物
+
+sensational:   
+  title: sensational
+  text: __sensational__ [senˈseɪʃənl] a. 轰动性的，引起哗然的；耸人听闻的；极好的；绝妙的
+
+participation:   
+  title: participation
+  text: __participation__ [pɑ:ˌtɪsɪˈpeɪʃn] n. 分享；参与
+
+relief:   
+  title: relief
+  text: __relief__ [rɪˈliːf] n. （痛苦等）减轻，解除；援救，救济；安慰；缓和剂
+
+cultivation:   
+  title: cultivation
+  text: __cultivation__ [ˌkʌltɪˈveɪʃn] n. 耕种，耕作；培养，教育
+
+pretension:   
+  title: prtension
+  text: __pretension__ [prɪˈtenʃn] n. 声称，自命；自负，自命不凡
+
+harness:   
+  title: harness
+  text: |
+    __harness__ [ˈhɑːnɪs] vt. 控制，利用；上马具  
+
+    __harness__ n. 马具
+
+bent:   
+  title: bent
+  text: __bent__ [bent] a. 被弄弯的，弯曲的  n. 爱好，天赋
+
+dormitory:   
+  title: dormitory
+  text: __dormitory__ [ˈdɔːmɪtrɪ] n. （集体）宿舍
+
+stitch:   
+  title: stitch
+  text: |
+    __stitch__ [stɪtʃ] vt. 缝，缝合  
+
+    __stitch__ n. 一针，针脚
+
+manual:   
+  title: manual
+  text: |
+    __manual__ [ˋmænjʊəl] n. 手册，指南  
+
+    __manual__ a. 手的，手工的，体力的
+
+mite:   
+  title: mite
+  text: __mite__ [maɪt] n. 极小量；螨虫
+
+burglar:   
+  title: burglar
+  text: __burglar__ [ˈbɜːglə(r)] n. 窃贼
+
+scheme:   
+  title: scheme
+  text: |
+    __scheme__ [skiːm] n. 计划，方案；体系，体制；阴谋  
+
+    __scheme__ v. 计划，策划；密谋
+
+addition:   
+  title: addition
+  text: __addition__ [əˈdɪʃn] n. 加，增加（物）
+
+sensory:   
+  title: sensory
+  text: __sensory__ [ˈsensəri] a. 感觉的，感官的
+
+grove:   
+  title: grove
+  text: __grove__ [grəuv] n. 树丛，小树丛
+
+materialistic:   
+  title: materialistic
+  text: __materialistic__ [məˌtɪəriəˈlɪstɪk] a. 唯物主义的；物质享乐主义的，贪图享乐的
+
+detach:   
+  title: detach
+  text: __detach__ [dɪˈtætʃ] v. 分开，分离；分遣
+
+torrent:   
+  title: torrent
+  text: __torrent__ [ˈtɔrənt] n. 洪流；爆发；（讲话等的）连发
+
+clarify:   
+  title: clarify
+  text: __clarify__ [ˈklærɪfaɪ] vt. 澄清；阐明
+
+thirsty:   
+  title: thirsty
+  text: __thirsty__ ['θɜ:stɪ] a. 口渴的；饥渴的
+
+inspect:   
+  title: inspect
+  text: __inspect__ [ɪnˈspekt] vt. 检查，检阅
+
+seam:   
+  title: seam
+  text: __seam__ [siːm] n. 缝，接缝；煤层
+
+agriculture:   
+  title: agriculture
+  text: __agriculture__ [ˈægrɪkʌltʃə(r)] n. 农业；农学
+
+microcosm:   
+  title: microcosm
+  text: __microcosm__ [ˈmaɪkrəukɔzəm] n. 微观世界；缩影
