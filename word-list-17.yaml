@@ -1,0 +1,356 @@
+# ==============================================================================
+# Word List 17
+# ==============================================================================
+
+
+impulse:   
+  title: impulse
+  text: __impulse__ [ˈɪmpʌls] n. 冲动，突如其来的念头；刺激，驱使；脉冲
+
+wax:   
+  title: wax
+  text: |
+    __wax__ [wæks] n. 蜡；蜂蜡  
+
+    __wax__ v. 给……上蜡，给……打蜡；（月亮）渐圆，渐满
+
+incapacitate:   
+  title: incapacitate
+  text: __incapacitate__ [ˏɪnkəˈpæsɪteɪt] vt. 使无能力；使伤残；使不适合；使无资格
+
+appear:   
+  title: appear
+  text: __appear__ [əˈpɪə(r)] v. 出现，显露，公开露面；出场，问世；仿佛，似乎
+
+check:   
+  title: check
+  text: |
+    __check__ [tʃek] v. 检查，核对；阻止，制止  
+
+    __check__ n. 检查，核对；制止，抵制；支票，帐单
+
+collect:   
+  title: collect
+  text: __collect__ [kəˈlekt] v. 收集，搜集；领取，接走；收（税等）；聚焦；积累
+
+attract:   
+  title: attract
+  text: __attract__ [əˈtrækt] vt. 吸引，招引，引诱，引起（注意等）
+
+describe:   
+  title: discribe
+  text: __discribe__ [dɪˈskraɪb] vt. 描述，描写，形容
+
+chunk:   
+  title: chunk
+  text: __chunk__ [tʃʌŋk] n. 大块；相当大的部分（或数量）
+
+agency:   
+  title: agency
+  text: __agency__ [ˈeɪdʒənsɪ] n. 机构；代理，代办
+
+blend:   
+  title: blend
+  text: |
+    __blend__ [blend] v. （使）混合，（使）混杂  
+
+    __blend__ n. 混合物；混合，交融
+
+conceive:   
+  title: conceive
+  text: __conceive__ [kənˈsiːv] v. （构）想出，构想，设想；怀孕
+
+affect:   
+  title: affect
+  text: __affect__ [əˈfekt] v. 影响；感染
+
+frustrate:   
+  title: frustrate
+  text: __frustrate__ [frʌˈstreɪt] vt. 使沮丧；挫败
+
+extend:   
+  title: extend
+  text: __extend__ [ɪkˈstend] v. 延长；扩大
+
+introduce:   
+  title: introduce
+  text: __introduce__ [ˏɪntrəˈdjuːs] vt. 介绍；传入，引进；提出；采用，推行
+
+advice:   
+  title: advice
+  text: __advice__ [ədˈvaɪs] n. 劝告，忠告；建议，（医生等的）意见
+
+attitude:   
+  title: attitude
+  text: __attitude__ [ˈætɪtjuːd] n. 态度，看法；姿势
+
+deliver:   
+  title: deliver
+  text: __deliver__ [dɪˈlɪvə(r)] v. 交付，递送；发表，表达；释放；接生
+
+course:   
+  title: course
+  text: |
+    __course__ [kɔːs] n. 过程，进程；路线，方针；跑道；课程  
+
+    __course__ v. 追猎；运行；流动
+
+match:   
+  title: match
+  text: |
+    __match__ [mætʃ] n. 火柴；比赛，竞赛；对手，敌手  
+
+    __match__ v. 匹配，相称
+
+employ:   
+  title: employ
+  text: __employ__ [ɪmˈplɔɪ] n./vt. 雇用；用，使用
+
+pedal:   
+  title: pedal
+  text: |
+    __pedal__ [ˈpedl] v. 骑车；踩踏板  
+
+    __pedal__ n. 踏板
+
+resident:   
+  title: resident
+  text: |
+    __resident__ [ˈrezɪdənt] n. 居民，住户  
+
+    __resident__ a. 常驻的，居住的
+
+optometrist:   
+  title: optometrist
+  text: __optometrist__ [ɒpˈtɒmətrɪst] n. 验光师，视力测定者
+
+degrade:   
+  title: degrade
+  text: __degrade__ [dɪˈgreɪd] v. （使）降级；（使）堕落；（使）降解；（使）退化
+
+particle:   
+  title: particle
+  text: __particle__ [ˈpɑːtɪkl] n. 极少量；微粒
+
+downpour:   
+  title: downpour
+  text: __downpour__ [ˈdaunpɔː(r)] n. 暴雨
+
+telescope:   
+  title: telescope
+  text: __telescope__ [ˈtelɪskəup] n. 望远镜
+
+transport:   
+  title: transport
+  text: |
+    __transport__ [ˈtrænspɔːt] n. 运输，运送；运输系统，运载工具
+
+    __transport__ [trænˈspɔːt] vt. 运输，运送，搬运
+
+prepare:   
+  title: prepare
+  text: __prepare__ [prɪˈpeə(r)] v. 准备，预备
+
+registration:   
+  title: registration
+  text: __registration__ [ˏredʒɪˈstreɪʃn] n. 登记，注册；（邮件等的）挂号；登记或注册的项目
+
+chaos:   
+  title: chaos
+  text: __chaos__ [ˈkeɪɔs] n. 混乱
+
+gorge:   
+  title: gorge
+  text: |
+    __gorge__ [gɔːdʒ] v. 狼吞虎咽，塞饱  
+
+    __gorge__ n. 山峡，峡谷
+
+recreational:   
+  title: recreational
+  text: __recreational__ [ˌrekriˈeɪʃənl] a. 消遣的，娱乐的；游戏的
+
+systematic:   
+  title: systematic
+  text: __systamatic__ [ˌsɪstəˈmætɪk] a. 系统的，体系的
+
+subtropical:   
+  title: subtropical
+  text: __subtropical__ [ˏsʌbˈtrɔpɪkl] a. 亚热带的
+
+detract:   
+  title: detract
+  text: __detract__ [dɪˈtrækt] v. 去掉，减损
+
+seal:   
+  title: seal
+  text: |
+    __seal__ [siːl] vt. 封，密封  
+
+    __seal__ n. 封铅，封条；印，图章；海豹
+
+depress:   
+  title: depress
+  text: __depress__ [dɪˈpres] vt. 使沮丧；使不景气；降低，减少
+
+scarce:   
+  title: scarce
+  text: __scarce__ [skeəs] a. 缺乏的，不足的；稀少的，罕见的
+
+evidence:   
+  title: evidence
+  text: __evidence__ [ˈevɪdəns] n. 根据，证据 ；形迹，迹象
+
+besides:   
+  title: besides
+  text: |
+    __besides__ [bɪˈsaɪdz] prep. 除……之外  
+
+    __besides__ ad. 而且
+
+waterproof:   
+  title: waterproof
+  text: __waterproof__ ['wɔ:təpru:f] a. 不透水的；防水的
+
+exclusive:   
+  title: exclusive
+  text: |
+    __exclusive__ [ɪkˈskluːsɪv] a. 奢华的；独有的；排他的  
+
+    __exclusive__ n. 独家新闻
+
+majority:   
+  title: majority
+  text: __majority__ [məˈdʒɔrətɪ] n. 多数，大多数
+
+despite:   
+  title: despite
+  text: __despite__ [dɪˈspaɪt] prep. 不管，尽管
+
+dissolve:   
+  title: desolve
+  text: __desolve__ [dɪˈzɔlv] v. 溶解；解散；结束
+
+release:   
+  title: release
+  text: |
+    __release__ [rɪˈliːs] vt. 释放，解放；发表，发行  
+
+    __release__ n. 释放；发表，发布；排放，泄露
+
+deploy:   
+  title: deploy
+  text: __deploy__ [dɪˈplɔɪ] vt. 部署；使用，运用
+
+original:   
+  title: orginal
+  text: |
+    __original__ [əˈrɪdʒənl] a. 最初的，原始的；新颖的，有独创性的  
+
+    __original__ n. 原物，原作
+
+branch:   
+  title: branch
+  text: __branch__ [brɑːntʃ] n. 树枝；分部，分科
+
+chancellor:   
+  title: chancellor
+  text: __chansellor__ [ˈtʃɑːnsələ(r)] n. 大臣；总理；首席法官；大学校长
+
+vertical:   
+  title: vertical
+  text: |
+    __vertical__ [ˈvɜːtɪkl] a. 垂直的；竖式的  
+
+    __vertical__ n. 垂直线
+
+herbivore:   
+  title: herbivore
+  text: __herbivore__ [ˈhɜːbɪvɔː(r)] n. 食草动物
+
+flat:   
+  title: flat
+  text: |
+    __flat__ [flæt] a. 平的；（价格）固定的  
+
+    __flat__ n. 单元住宅
+
+occasionally:   
+  title: occasionally
+  text: __occasionally__ [əˈkeɪʒnəli] ad. 有时候，偶尔
+
+harridan:   
+  title: harridan
+  text: __harridan__ [ˈhærɪdən] n. 凶恶的老妇；老巫婆
+
+accommodation:   
+  title: accommodation
+  text: __accommodation__ [əˏkɔməˈdeɪʃn] n. 住处，膳宿；适应，调节
+
+static:   
+  title: static
+  text: |
+    __static__ [ˈstætɪk] n. 静电；[-s] 静力学  
+
+    __static__ a. 静止的，静态的；呆板的
+
+section:   
+  title: section
+  text: __section__ [ˈsekʃn] n. 部分；部门；截面
+
+scale:   
+  title: scale
+  text: |
+    __scale__ [skeɪl] n. 规模，大小；[pl.] 天平，磅秤；刻度，标度；（鱼等的）鳞；（音乐）音阶；等级，级别；比例（尺）  
+
+    __scale__ vt. 攀登，爬越
+
+constantly:   
+  title: constantly
+  text: __constantly__ [ˈkɒnstəntli] ad. 经常；不断地
+
+ailment:   
+  title: ailment
+  text: __ailment__ [ˈeɪlmənt] n. （不严重的）疾病
+
+adhere:   
+  title: adhere
+  text: __adhere__ [ədˈhɪə(r)] vi. 黏附；遵守；坚持
+
+extracurricular:   
+  title: extracurricular
+  text: __extracurricular__ [ˌekstrəkə'rɪkjʊlə] a. 课外的
+
+propel:   
+  title: propel
+  text: __propel__ [prəˈpel] vt. 推进，推动；驱使
+
+posture:   
+  title: posture
+  text: __posture__ [ˈpɔstʃə(r)] n. 姿势；心情；态度
+
+overseas:   
+  title: overseas
+  text: |
+    __overseas__ [ˏəuvəˈsiːz] a. 在海外的  
+
+    __overseas__ ad. 在海外
+
+industrialise:   
+  title: industrialise
+  text: __industrialise__ [ɪn'dʌstrɪəlaɪz] v. （使）工业化
+
+empire:   
+  title: empire
+  text: __empire__ [ˈempaɪə(r)] n. 帝国
+
+mechanic:   
+  title: mechanic
+  text: __mechanic__ [mɪˈkænɪk] n. 机修工；[-s] 力学，机械学
+
+fracture:   
+  title: fracture
+  text: |
+    __fracture__ [ˈfræktʃə(r)] n. 断裂，折断；骨折  
+
+    __fracture__ v. （使）断裂

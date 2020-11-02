@@ -1,0 +1,374 @@
+# ==============================================================================
+# Word List 16
+# ==============================================================================
+
+
+surgery:   
+  title: surgery
+  text: __surgery__ [ˈsɜːdʒərɪ] n. 外科学；外科手术；手术室，诊疗室
+
+catastrophe:   
+  title: catastrophe
+  text: __catrastrophe__ [kəˈtæstrəfɪ] n. 大灾难
+
+overwork:   
+  title: overwork
+  text: |
+    __overwork__ [ˏəuvəˈwɜːk] v. 使劳累过分；对……使用过度；滥用（词等）  
+
+    __overwork__ n. 过重的工作；工作过度
+
+parental:   
+  title: parental
+  text: __parental__ [pəˈrentl] a. 父的；母的；父母（般）的
+
+sediment:   
+  title: sediment
+  text: __sedimant__ [ˈsedɪmənt] n. 沉淀物；沉积物（如沙、砾、石、泥等）
+
+various:   
+  title: various
+  text: __various__ [ˈveərɪəs] a. 各种各样的；不同的；多方面的
+
+resit:   
+  title: resit
+  text: __resit__ [ˏriːˈsɪt] v./n. 重修，补考
+
+menace:   
+  title: menace
+  text: |
+    __menace__ [ˈmenəs] n. 威胁；危险的人（或物）  
+
+    __menace__ vt. 威胁到，危及
+
+contain:   
+  title: contain
+  text: __contain__ [kənˈteɪn] vt. 包含，容纳，装有；控制，阻止，遏制
+
+fasten:   
+  title: fasten
+  text: __fasten__ [ˈfɑːsn] v. 扎牢，扣住
+
+establish:   
+  title: establish
+  text: __establish__ [ɪˈstæblɪʃ] vt. 建立；确立；安置，使安居
+
+position:   
+  title: position
+  text: |
+    __position__ [pəˈzɪʃn] n. 位置，方位；职位，职务；姿势，姿态；见解，立场  
+
+    __position__ vt. 安放，安置
+
+simulate:   
+  title: simulate
+  text: __simulate__ [ˈsɪmjuleɪt] vt. 模仿，模拟；假装，伪装；扮演
+
+scratch:   
+  title: scratch
+  text: |
+    __scratch__ [skrætʃ] n. 划伤，抓痕  
+
+    __scratch__ v. 抓，掻；划破，划损
+
+flexitime:   
+  title: flexitime
+  text: __flexitime__ [ˈfleksɪtaɪm] n. 弹性工作制
+
+assist:   
+  title: assist
+  text: __assist__ [əˈsɪst] v. 帮助，援助，协助
+
+mammal:   
+  title: mammal
+  text: __mammal__ [ˈmæml] n. 哺乳动物
+
+illegal:   
+  title: illegal
+  text: __illegal__ [ɪˈliːgl] a. 不合法的，违法的
+
+ultimately:   
+  title: ultimately
+  text: __ultimately__ [ˈʌltɪmətli] ad. 最终地
+
+sinew:   
+  title: sinew
+  text: __sinew__ [ˈsɪnjuː] n. 肌腱；力量的来源
+
+artificial:   
+  title: artificial
+  text: __artificial__ [ˏɑːtɪˈfɪʃl] a. 人工的，人造的；假的，矫揉造作的；模拟的
+
+veil:   
+  title: veil
+  text: |
+    __veil__ [veɪl] n. 面纱；遮蔽物  
+
+    __veil__ vt. 蒙着面纱；掩饰
+
+tend:   
+  title: tend
+  text: __tend__ [tend] v. 倾向于，趋于；照料；招待
+
+removal:   
+  title: removal
+  text: __removal__ [rɪ'mu:vl] n. 除去；免职；搬迁
+
+parallel:   
+  title: parallel
+  text: |
+    __parallel__ [ˈpærəlel] n. 可相比拟的事物（或人），相似处；纬线  
+
+    __parallel__ a. 平行的；类似的，相对应的；并行的  
+
+    __parallel__ vt. 与……相似；比得上
+
+compel:   
+  title: compel
+  text: __compel__ [kəmˈpel] vt. 强迫
+
+immediately:   
+  title: immediately
+  text: __immediately__ [ɪˈmi:diətli] ad. 立即，马上；紧接地；直接地
+
+institute:   
+  title: institute
+  text: |
+    __institute__ [ˈɪnstɪtjuːt] n. 研究所，学院  
+
+    __institute__ vt. 建立，设立
+
+serial:   
+  title: serial
+  text: |
+    __serial__ [ˈsɪərɪəl] n. 连续剧  
+
+    __serial__ a. 连续的；顺序排列的
+
+oversee:   
+  title: oversee
+  text: __oversee__ [ˏəuvəˈsiː] vt. 监督，监视（某人或某物）；俯瞰，眺望
+
+reinforce:   
+  title: reinforce
+  text: __reinforce__ [ˏriːɪnˈfɔːs] vt. 加强；增援
+
+commitment:   
+  title: commitment
+  text: __commitment__ [kə'mɪtmənt] n. 委托；许诺；承担义务
+
+donation:   
+  title: donation
+  text: __donation__ [dəʊˈneɪʃn] n. 捐款；捐赠
+
+curious:   
+  title: curious
+  text: __curious__ [ˈkjuərɪəs] a. 好奇的；奇怪的
+
+jungle:   
+  title: jungle
+  text: __jungle__ [ˈdʒʌŋgl] n. 丛林
+
+overdraft:   
+  title: overdraft
+  text: __overdraft__ [ˈəuvədrɑːft] n. 透支；透支额
+
+optical:   
+  title: optical
+  text: __optical__ [ˈɔptɪkl] a. 视力的；光学的
+
+otherwise:   
+  title: ohterwise
+  text: |
+    __otherwise__ [ˈʌðəwaɪz] ad. 另样，用别的方法；在其他方面  
+
+    __otherwise__ conj. 要不然，否则
+
+possession:   
+  title: possession
+  text: __possession__ [pəˈzeʃn] n. 持有，拥有；所有权；所有物，财产，财富；领土
+
+however:   
+  title: however
+  text: |
+    __however__ [hauˈevə(r)] conj. 不管用什么方法，然而  
+
+    __however__ ad. 无论如何，不管怎样；可是；仍然
+
+retail:   
+  title: retail
+  text: |
+    __retail__ [ˈriːteɪl] n. 零售  
+
+    __retail__ v. 零售，以……价格销售
+
+cultural:   
+  title: cultural
+  text: __cultural__ [ˈkʌltʃərəl] a. 文化的，人文的
+
+morality:   
+  title: morality
+  text: __morality__ [məˈrælətɪ] n. 道德，美德
+
+transaction:   
+  title: transaction
+  text: __transaction__ [trænˈzækʃn] n. 办理；处理；交易，业务；[pl.] 会报，学报
+
+twofold:   
+  title: twofold
+  text: |
+    __twofold__ [ˈtu:fəʊld] a. 两位的，双重的；两部分的  
+
+    __twofold__ ad. 两倍地，双重地
+
+solution:   
+  title: solution
+  text: __solution__ [səˈluːʃn] n. 解答，解决办法；溶解，溶液
+
+embassy:   
+  title: embassy
+  text: __embassy__ [ˈembəsɪ] n. 大使馆；大使馆全体官员
+
+remark:   
+  title: remark
+  text: |
+    __remark__ [rɪˈmɑːk] v. 评论，谈论；注意到，察觉  
+
+    __remark__ n. 评语，评论；注释
+
+delay:   
+  title: delay
+  text: __delay__ [dɪˈleɪ] n./v. 耽搁，延迟，延期，迟滞
+
+congress:   
+  title: congress
+  text: __congress__ ['kɒŋɡres] n. （代表）大会；（美国等国的）国会，议会
+
+germ:   
+  title: germ
+  text: __germ__ [dʒɜːm] n. 微生物，细菌；起源，萌芽
+
+fashion:   
+  title: fashion
+  text: __fashion__ [ˈfæʃn] n. 方式；流行款式；时装
+
+carousel:   
+  title: carousel
+  text: __carousel__ [ˏkærəˈsel] n. 行李式传送带
+
+splash:   
+  title: splash
+  text: __splash__ [splæʃ] v. 溅；泼
+
+beforehand:   
+  title: beforehand
+  text: __beforehand__ [bɪˈfɔːhænd] ad. 预先，事先
+
+spade:   
+  title: spade
+  text: __spade__ [speɪd] n. 铁锹
+
+filter:   
+  title: filter
+  text: |
+    __filter__ [ˈfɪltə(r)] n. 过滤器  
+
+    __filter__ v. 过滤；（消息等）走漏
+
+aspect:   
+  title: aspect
+  text: __aspect__ [ˈæspekt] n. 方面；（建筑物的）朝向，方向；外貌，外观样子
+
+objection:   
+  title: objection
+  text: __objection__ [əbˈdʒekʃn] n. 反对；反对的理由
+
+tunnel:   
+  title: tunnel
+  text: |
+    __tunnel__ [ˈtʌnl] n. 隧道；地道  
+
+    __tunnel__ v. 挖（地道），开（隧道）
+
+contrast:   
+  title: contrast
+  text: |
+    __contrast__ [ˈkɔntrɑːst] n. 对比；对照
+
+    __contrast__ [kənˈtrɑːst] v. 对比；对照；形成对比
+
+effect:   
+  title: effect
+  text: |
+    __effect__ [ɪˈfekt] n. 作用，影响；结果；效果  
+
+    __effect__ vt. 使产生，招致；实现
+
+parcel:   
+  title: parcel
+  text: __parcel__ [ˈpɑːsl] n. 包裹
+
+distance:   
+  title: distance
+  text: __distance__ [ˈdɪstəns] n. 距离；远方；一长段时间
+
+stem:   
+  title: stem
+  text: |
+    __stem__ [stem] n. 茎；（树）干；词干  
+
+    __stem__ vt. 止住，抑止，堵住，阻止
+
+normal:   
+  title: normal
+  text: __normal__ [ˈnɔːml] a. 正常的，平常的；标准的，规范的，正规的
+
+sincere:   
+  title: sincere
+  text: __sincere__ [sɪnˈsɪə(r)] a. 真挚的，诚挚的，真诚的，诚恳的
+
+summarise:   
+  title: summarise
+  text: __summarise__ ['sʌməraɪz] v. 总结，概括
+
+vice-versa:   
+  title: vice versa
+  text: __vice__ __versa__ [ˏvaɪsɪ ˈvɜːsə] 反之亦然
+
+foetus:   
+  title: foetus
+  text: __foetus__ [ˈfiːtəs] n. 胎儿；胚胎
+
+merge:   
+  title: merge
+  text: __merge__ [mɜːdʒ] v. （使）结合
+
+aware:   
+  title: aware
+  text: __aware__ [əˈweə(r)] a. 知道的；意识到的
+
+label:   
+  title: label
+  text: |
+    __label__ [ˈleɪbl] vt. 贴标签于  
+
+    __label__ n. 标签，标记；称号；绰号，外号
+
+guarantee:   
+  title: guarantee
+  text: |
+    __guarantee__ [ˏgærənˈtiː] v. 保证；允诺  
+
+    __guarantee__ n. 保证；担保物
+
+interrelationship:   
+  title: interrelationship
+  text: __interrelationship__ [ˌɪntərɪˈleɪʃnʃɪp] n. 相互关联，相互影响
+
+stationery:   
+  title: stationery
+  text: __stationery__ [ˈsteɪʃənri] n. 文具
+
+limestone:   
+  title: limestone
+  text: __limestone__ ['laɪmstəʊn] n. 石灰石，石灰岩
