@@ -1,0 +1,354 @@
+# ==============================================================================
+# Word List 20
+# ==============================================================================
+
+
+
+postpone:   
+  title: postpone
+  text: __postpone__ [pəˈspəun] v. 延迟，延期
+
+skim:   
+  title: skim
+  text: __skim__ [skɪm] v. 撇去；掠过，擦过；浏览，略读
+
+preface:   
+  title: preface
+  text: |
+    __preface__ [ˈprefɪs] n. 序言，引言  
+
+    __preface__ vt. 为……写序言；以……为开端
+
+retain:   
+  title: retain
+  text: __retain__ [rɪˈteɪn] vt. 保留；保持
+
+culminate:   
+  title: culminate
+  text: __culminate__ [ˈkʌlmɪneɪt] vi. （以某种结果）告终；（在某一点）结束
+
+robotic:   
+  title: robotic
+  text: __robotic__ [rəʊ'bɒtɪk] a. 机器人的；像机器人的，呆板面机械的
+
+profile:   
+  title: profile
+  text: |
+    __profile__ [ˈprəufaɪl] n. 面部的侧影，侧面轮廓；传略，人物简介  
+
+    __profile__ vt. 扼要介绍；写传略（或简介）
+
+salinity:   
+  title: salinity
+  text: __salinity__ [sə'lɪnətɪ] n. 盐分，盐度
+
+aggravation:   
+  title: aggravation
+  text: __aggravation__ [ˌæɡrə'veɪʃn] n. 加重；恶化；愤怒，恼怒
+
+incident:   
+  title: incident
+  text: __incident__ [ˈɪnsɪdənt] n. 发生的事；事件，事变
+
+previous:   
+  title: previous
+  text: __previous__ [ˈpriːvɪəs] a. 以前的，在……之前的；早先的，稍前的
+
+spice:   
+  title: spice
+  text: |
+    __spicy__ [spaɪs] n. 香料，调味品  
+
+    __spicy__ vt. 使增添趣味；往……加香料
+
+bore:   
+  title: bore
+  text: |
+    __bore__ [bɔː(r)] v. 使厌烦；钻孔  
+
+    __bore__ n. 令人讨厌的人（或事）
+
+lull:   
+  title: lull
+  text: __lull__ [lʌl] n. 间歇，暂停；平静期
+
+county:   
+  title: county
+  text: __county__ [ˈkauntɪ] n. 郡，县
+
+betray:   
+  title: betray
+  text: __betray__ [bɪˈtreɪ] vt. 出卖，泄露（秘密等）；辜负；流露情感
+
+underlying:   
+  title: underlying
+  text: __underlying__ [ˌʌndəˈlaɪɪŋ] a. 表面下的，下层的，在下面的；根本的；潜在的，隐含的
+
+dispiriting:   
+  title: dispiriting
+  text: __dispiriting__ [dɪˈspɪrɪtɪŋ] a. 令人沮丧的，使人气馁的
+
+opulent:   
+  title: opulent
+  text: __opulent__ [ˈɔpjulənt] a. 豪华的，华丽的，富裕的；丰富的，丰饶的
+
+plush:   
+  title: plush
+  text: |
+    __plush__ [plʌʃ] a. 豪华的，舒适的  
+
+    __plush__ n. 长毛绒
+
+dispense:   
+  title: dispense
+  text: __dispense__ [dɪˈspens] vt. 分发，分配；提供
+
+behalf:   
+  title: behalf
+  text: __behalf__ [bɪˈhɑːf] n. 利益；代表
+
+initial:   
+  title: initial
+  text: |
+    __initial__ [ɪˈnɪʃl] a. 最初的，开始的；词首的  
+
+    __initial__ n. 词首大写字母
+
+govern:   
+  title: govern
+  text: __govern__ [ˈgʌvn] v. 统治，管理；控制，支配
+
+mingle:   
+  title: mingle
+  text: __mingle__ [ˈmɪŋgl] v. （使）混合，（使）联结；相往来；混杂其中
+
+charter:   
+  title: charter
+  text: |
+    __charter__ [tʃɑːtə(r)] n. 纲领，宣言；宪章；包租  
+
+    __charter__ vt. 包租（飞机，船等）；特许设立，给……发许可证，给予特权
+
+formidable:   
+  title: formidable
+  text: __formidable__ [ˈfɔːmɪdəbl] a. 可怕的；难以应付的，难以克服的
+
+belt:   
+  title: belt
+  text: __belt__ [belt] n. 腰带；地带
+
+relay:   
+  title: relay
+  text: |
+    __relay__ [ˈriːleɪ] n. 接力赛；中继设备
+
+    __relay__ [ˈriːleɪ; rɪˈleɪ] vt. 传送；转播
+
+crockery:   
+  title: crockery
+  text: __crockery__ [ˈkrɔkərɪ] n. 陶器；瓦器
+
+diversify:   
+  title: diversify
+  text: __diversify__ [daɪˈvɜːsɪfaɪ] v. （使）多样化
+
+threshold:   
+  title: threshold
+  text: __threshold__ [ˈθreʃhəuld] n. 入门，门槛；界限；开端，起点
+
+vacation:   
+  title: vacation
+  text: __vacation__ [vəˈkeɪʃn] n. 假期；休假
+
+skyscraper:   
+  title: skycraper
+  text: __skyscraper__ ['skaɪskreɪpə(r)] n. 摩天楼
+
+draft:   
+  title: draft
+  text: |
+    __draft__ [drɑːft] n. 草稿，草案；汇票；征兵，服役；通风，气流  
+
+    __draft__ vt. 起草，草拟；选派，抽调；征募，征召……入伍
+
+deter:   
+  title: deter
+  text: __deter__ [dɪˈtɜː(r)] v. 威慑，吓住，（使）断念
+
+promising:   
+  title: promising
+  text: __promising__ ['prɒmɪsɪŋ] a. 有希望的；有前途的
+
+goal:   
+  title: goal
+  text: __goal__ [gəul] n. 球门；射门，进球得分；目标
+
+crush:   
+  title: crush
+  text: __crush__ [krʌʃ] vt. 碾碎；压服，压垮；镇压，制服；压碎，压坏
+
+stream:   
+  title: stream
+  text: __stream__ [striːm] n. 溪流；一股  v. 流出
+
+urgent:   
+  title: urgent
+  text: __urgent__ [ˈɜːdʒənt] a. 紧急的，紧迫的；催促的，急切的
+
+thigh:   
+  title: thigh
+  text: __thigh__ [θaɪ] n. 大腿
+
+maximise:   
+  title: maximise
+  text: __maximise__ [ˈmæksɪmaɪz] vt. 使增加到最大限度，最佳化；充分利用
+
+sleek:   
+  title: sleek
+  text: |
+    __sleek__ [sliːk] a. （毛发等）光滑而有光泽的；时髦的；豪华的  
+
+    __sleek__ vt. 使（毛发等）光滑发亮
+
+entrust:   
+  title: entrust
+  text: __entrust__ [ɪnˈtrʌst] vt. 委托，交付，托付
+
+pamper:   
+  title: pamper
+  text: __pamper__ [ˈpæmpə(r)] vt. 纵容，娇惯；精心护理
+
+veterinarian:   
+  title: veterinarian
+  text: __veterinarian__ [ˌvetərɪˈneəriən] n. 兽医
+
+demolition:   
+  title: demolition
+  text: __demolition__ [ˌdemə'lɪʃn] n. 拆除；破坏，毁坏
+
+derelict:   
+  title: derelict
+  text: |
+    __derelict__ [ˈderəlɪkt] a. 被抛弃的；衰退的，破败的  
+
+    __derelict__ n. 遗弃物；无家可归者，社会弃儿
+
+synchronise:   
+  title: synchronise
+  text: __synchronise__ [ˈsɪŋkrənaɪz] v. （使）同步发生，同速进行
+
+ornamental:   
+  title: ornamental
+  text: __ornamental__ [ˌɔ:nəˈmentl] a. 装饰性的，装饰的
+
+estuary:   
+  title: estuary
+  text: __estuary__ [ˈestʃuərɪ] n. （江河入海口的）河口，河口湾
+
+leaflet:   
+  title: leaflet
+  text: |
+    __leaflet__ [ˈliːflɪt] n. 传单，散页印刷品；小册子  
+
+    __leaflet__ v. 散发传单（或小册子）
+
+cascade:   
+  title: cascade
+  text: __cascade__ [kæˈskeɪd] n. 小瀑布
+
+irritate:   
+  title: irritate
+  text: __irritate__ [ˈɪrɪteɪt] vt. 使烦躁；使疼痛；刺激
+
+hatch:   
+  title: hatch
+  text: |
+    __hatch__ [hætʃ] v. 孵出，孵化；策划  
+
+    __hatch__ n. （门、地板或天花板上的）开口；（飞机等的）舱门
+
+commence:   
+  title: commence
+  text: __commence__ [kəˈmens] v. 开始，着手
+
+initiative:   
+  title: initiative
+  text: __initiative__ [ɪˈnɪʃətɪv] n. 倡议，新方案；主动性，积极性；主动权
+
+track:   
+  title: track
+  text: |
+    __track__ [træk] n. 小路；跑道  
+
+    __track__ v. 跟踪，追踪
+
+fruitful:   
+  title: fruitful
+  text: __fruitful__ [ˈfruːtfl] a. 多产的，富饶的；富有成效的
+
+stationary:   
+  title: stationary 
+  text: __stationary__ [ˈsteɪʃənrɪ] a. 静止的，不动的，固定的；稳定的
+
+superficial:   
+  title: superficial
+  text: __superficial__ [ˏsuːpəˈfɪʃl] a. 表面的；肤浅的
+
+crawl:   
+  title: crawl
+  text: |
+    __crawl__ [krɔːl] vi. 爬，爬行；缓慢进行  
+
+    __crawl__ n. 缓慢（或费力）的进行；自由泳
+
+rotate:   
+  title: rotate
+  text: __rotate__ [rəuˈteɪt] v. （使）旋转，转动；轮流，轮换
+
+spoil:   
+  title: spoil
+  text: |
+    __spoil__ [spɔɪl] v. 损坏，破坏，糟蹋；宠坏，溺爱；（食物）变质  
+
+    __spoil__ n. [pl.] 战利品，掠夺物，赃物
+
+flask:   
+  title: flask
+  text: __flask__ [flɑːsk] n. 长颈瓶；烧瓶
+
+camper:   
+  title: camper
+  text: ___camper_ [ˈkæmpə(r)] n. 露营者，宿营者
+
+attend:   
+  title: attend
+  text: __attend__ [əˈtend] v. 出席，参加；随同，陪同；专心，注意
+
+rim:   
+  title: rim
+  text: __rim__ [rɪm] n. （圆形物体的）边，缘
+
+motivate:   
+  title: motivate
+  text: __motivate__ [ˈməutɪveɪt] vt. 使有动机；激励，激发
+
+patent:   
+  title: patent
+  text: |
+    __patent__ [ˈpætnt; ˈpeɪtnt] vt. 取得专利权  
+
+    __patent__ n. 专利（权）
+
+    __patent__ [ˈpeɪtnt] a. 显而易见的；有专利的，受专利保护的
+
+architect:   
+  title: architect
+  text: __architect__ [ˈɑːkɪtekt] n. 建筑师，设计师；创造者
+
+symptom:   
+  title: symptom
+  text: __symptom__ [ˈsɪmptəm] n. 症状；征候，征兆
+
+tremendous:   
+  title: tremendous
+  text: __tremendous__ [trɪˈmendəs] a. 极大的，巨大的；非常的，惊人的
