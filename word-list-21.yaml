@@ -121,7 +121,7 @@ design:
   text: |
     __design__ [dɪˈzaɪn] n. 设计，构想；图样，图案；企图，图谋  
 
-    v. 设计；谋划，构思
+    __design__ v. 设计；谋划，构思
 
 insist:   
   title: insist
@@ -176,7 +176,7 @@ commission:
   text: |
     __commission__ [kəˈmɪʃn] n. 委托；佣金  
 
-    v. 授权，委托
+    __commission__ v. 授权，委托
 
 beware:   
   title: beware
@@ -191,7 +191,7 @@ issue:
   text: |
     __issue__ [ˈɪʃuː] n. 问题，争论点；发行；（报刊的）一期；分发，流出  
 
-    vt. 颁布；发行；流出；分发，发给
+    __issue__ vt. 颁布；发行；流出；分发，发给
 
 finite:   
   title: finite
@@ -210,7 +210,7 @@ swallow:
   text: |
     __swallow__ [ˈswɔləu] v. 吞咽；忍受  
 
-    n. 燕子
+    __swallow__ n. 燕子
 
 hasty:   
   title: hasty
@@ -225,7 +225,7 @@ stuff:
   text: |
     __stuff__ [stʌf] n. 原料，材料  
 
-    vt. 填进；让……吃饱
+    __stuff__ vt. 填进；让……吃饱
 
 landward:   
   title: landward
@@ -240,9 +240,9 @@ subordinate:
   text: |
     __subordinate__ [səˈbɔːdɪnət] n. 下属  
 
-    a. 下级的；次要的  
+    __subordinate__ a. 下级的；次要的  
 
-    vt. 使处于次要地位，把……列在下级；使服从
+    __subordinate__ vt. 使处于次要地位，把……列在下级；使服从
 
 correspond:   
   title: correspond
@@ -313,7 +313,7 @@ sacrifice:
   text: |
     __sacrifice__ [ˈsækrɪfaɪs] n. 牺牲，牺牲品；献祭，供奉；祭品，供物  
 
-    v. 牺牲，献祭
+    __sacrifice__ v. 牺牲，献祭
 
 degenerate:   
   title: degenerate
@@ -335,6 +335,6 @@ fancy:
   text: |
     __fancy__ [ˈfænsɪ] a. 别致的  
 
-    vt. 想象  
+    __fancy__ vt. 想象  
 
-    n. 想象力
+    __fancy__ n. 想象力
