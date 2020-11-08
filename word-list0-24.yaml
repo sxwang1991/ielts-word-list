@@ -1,0 +1,348 @@
+# ==============================================================================
+# Word List 23
+# ==============================================================================
+
+
+
+pressure:   
+  title: pressure
+  text: |
+    __pressure__ [ˈpreʃə(r)] n. 压力，压强；强制，压迫  
+
+    __pressure__ vt. 对……施加压力（或影响）；迫使，说服
+
+conviction:   
+  title: conviction
+  text: __convinction__ [kənˈvɪkʃn] n. 定罪；坚信，确信
+
+tranquility:   
+  title: tranquility
+  text: __tranquility__ [træŋ'kwɪlɪtɪ] n. 宁静，安静
+
+facilitate:   
+  title: facilitate
+  text: ___facilitate_ [fəˈsɪlɪteɪt] vt. 使便利，使容易；推动，帮助
+
+grand:   
+  title: grand
+  text: __grand__ [grænd] a. 宏伟的；大的
+
+acumen:   
+  title: acumen
+  text: __acumen__ [ˈækjumen] n. 敏锐；精明
+
+dissertation:   
+  title: dissertatiom
+  text: __dissertation__ [ˏdɪsəˈteɪʃn] n. 专题论文
+
+heap:   
+  title: heap
+  text: |
+    __heap__ [hiːp] n. （一）堆；大量  
+
+    __heap__ vt. （使）成堆
+
+blame:   
+  title: blame
+  text: __blame__ [bleɪm] vt. 责怪，责备
+
+frame:   
+  title: frame
+  text: |
+    __frame__ [freɪm] n. 框架  
+
+    __frame__ vt. 给……镶框
+
+installment:   
+  title: installment
+  text: __intallment__ [ɪn'stɔ:lmənt] n. 分期付款；（连载或连播的）一集
+
+symbolism:   
+  title: symbolism
+  text: __symbolism__ [ˈsɪmbəlɪzəm] n. 符号的使用；（尤指文艺中的）象征主义，象征手法
+
+ascribe:   
+  title: ascribe
+  text: __ascribe__ [əˈskraɪb] vt. 把……归因于
+
+abstract:   
+  title: 
+  text: |
+    __abstract__ [ˈæbstrækt] a. 抽象的；抽象派的  
+
+    __abstract__ n. 摘要，梗概；抽象
+
+    __abstract__ [əbˈstrækt] vt. 摘要，提炼；抽象化
+
+disruption:   
+  title: disruption
+  text: __disruption__ [dɪs'rʌpʃn] n. 动乱；打乱；破坏
+
+self-esteem:   
+  title: self-esteem
+  text: self-esteem [ˏself ɪˈstiːm] n. 自尊；自负
+
+literate:   
+  title: literate
+  text: __literate__ [ˈlɪtərət] a. 有读写能力的；有文化的；博学的
+
+extinction:   
+  title: extinction
+  text: __extinction__ [ɪkˈstɪŋkʃn] n. 灭绝，绝种；熄灭
+
+endanger:   
+  title: endanger
+  text: __endanger__ [ɪnˈdeɪndʒə(r)] vt. 危及，危害
+
+perception:   
+  title: perception
+  text: __perception__ [pəˈsepʃn] n. 看法；感觉；洞察力
+
+prediction:   
+  title: prediction
+  text: __prediction__ [prɪˈdɪkʃn] n. 预言，预料，预报
+
+foster:   
+  title: foster
+  text: |
+    __foster__ [ˈfɔstə(r)] v. 培养，培育（某物）；鼓励，促进；领养  
+
+    __foster__ a. 收养
+
+ancestral:   
+  title: ancestral
+  text: __ancestral__ [æn'sestrəl] a. 祖先的；祖传的
+
+rekindle:   
+  title: rekindle
+  text: __rekindle__ [ˏriːˈkɪndl] vt. 重新点燃；使复苏
+
+revival:   
+  title: revival
+  text: __revivial__ [rɪˈvaɪvl] n. （健康、力量或知觉的）恢复，复原；苏醒，复活；复兴；重新使用；重新流行
+
+inevitable:   
+  title: inevitable
+  text: __inevitable__ [ɪnˈevɪtəbl] a. 不可避免的，必然（发生）的
+
+disenchantment:   
+  title: disenchantment
+  text: __disenchantment__ [ˌdɪsɪn'tʃɑ:ntmənt] n. 失望，不抱幻想
+
+acupuncture:   
+  title: acupuncture
+  text: __acupuncture__ [ˈækjupʌŋktʃə(r)] n. 针刺疗法，针灸
+
+loath:   
+  title: loath
+  text: __loath__ [ləuθ] a. 不情愿的，勉强的
+
+orthodox:   
+  title: orthodox
+  text: __orthodox__ [ˈɔːθədɔks] a. 正统的，传统的
+
+popularity:   
+  title: popularity
+  text: __popularity__ [ˏpɔpjuˈlærətɪ] n. 普及，流行
+
+amplify:   
+  title: amplify
+  text: __amplify__ [ˈæmplɪfaɪ] v. 详述；放大（声音等）
+
+reliance:   
+  title: reliance
+  text: __reliance__ [rɪˈlaɪəns] n. 依靠，依赖
+
+nightmare:   
+  title: nightmare
+  text: __nightmare__ [ˈnaɪtmeə(r)] n. 噩梦；可怕的事物
+
+leap:   
+  title: leap
+  text: |
+    __leap__ [liːp] n. 跳跃；激增  
+
+    __leap__ v. 跳；冲
+
+conscious:   
+  title: cautious
+  text: __cautious__ [ˈkɔnʃəs] a. 自觉的；意识到的；神志清醒的
+
+divine:   
+  title: divine
+  text: __divine__ [dɪˈvaɪn] a. 神的；神授的，天赐的
+
+decompose:   
+  title: decompose
+  text: __decompose__ [ˏdiːkəmˈpəuz] v. （使）分解，（使）腐烂
+
+spot-on:
+  title: spot on
+  text: spot on  恰好的（地），准确的（地）
+
+investigate:   
+  title: investigate
+  text: __investigate__ [ɪnˈvestɪgeɪt] v. 调查
+
+underneath:   
+  title: underneath
+  text: |
+    __underneath__ [ˏʌndəˈniːθ] ad. 在下面  
+
+    __underneath__ prep. 在……下面  
+
+    __underneath__ n. 下部
+
+division:   
+  title: division
+  text: __division__ [dɪˈvɪʒn] n. 分开，分隔；分配；分歧；除（法）；部门，科，司
+
+gamble:   
+  title: gamble
+  text: __gamble__ [ˈgæmbl] v. 赌博，打赌；投机；冒险
+
+ancient:   
+  title: ancient
+  text: __ancient__ [ˈeɪnʃənt] a. 古老的；年老的
+
+strand:   
+  title: strand
+  text: __strand__ [strænd] n. 股，缕；部分，方面
+
+specimen:   
+  title: specimen 
+  text: __specimen__ [ˈspesɪmən] n. 范例，样品；样本，标本
+
+motive:   
+  title: motive
+  text: __motive__ [ˈməutɪv] n. 动机，目的
+
+furious:   
+  title: furious
+  text: __furious__ [ˈfjuərɪəs] a. 狂怒的；激烈的
+
+alternative:   
+  title: alternative
+  text: |
+    __alternative__ [ɔːlˈtɜːnətɪv] a. 可供替代的；非传统的，另类的  
+
+    __alternative__ n. 可供选择的事物
+
+access:   
+  title: access
+  text: |
+    __access__ [ˈækses] vt. 进入；使用  
+
+    __access__ n. 通道，入径；机会；权利
+
+whaling:   
+  title: whaling
+  text: __whaling__ ['weɪlɪŋ] n. 捕鲸
+
+exhilaration:   
+  title: exhilaration
+  text: __exhilaration__ [ɪɡˌzɪlə'reɪʃn] n. 高兴；兴奋
+
+inland:   
+  title: 
+  text: __inland__ [ˈɪnlænd] a. 内陆的   
+  text: __inland__ [ˏɪnˈlænd] ad. 向内地（或内陆）
+
+migrate:   
+  title: mgrate
+  text: __migrate__ [maɪˈgreɪt] v. （候鸟等）迁徙；移居
+
+barrel:   
+  title: barrel
+  text: __barrel__ [ˈbærəl] n. 桶，圆筒
+
+claim:   
+  title: claim
+  text: |
+    __claim__ [kleɪm] v. 要求；声称，主张；索赔  
+
+    __claim__ n. 要求；主张，断言；索赔
+
+digest:   
+  title: digest
+  text: |
+    __digest__ [daɪˈdʒest] v. 消化；领会
+
+    __digest__ [ˈdaɪdʒest] n. 文摘
+
+decipher:   
+  title: decipher
+  text: __decipher__ [dɪˈsaɪfə(r)] vt. 破译；解释
+
+extraordinary:   
+  title: extraordinary
+  text: __extraordinary__ [ɪkˈstrɔːdnrɪ] a. 不同寻常的，非常的
+
+aluminium:   
+  title: aluminium
+  text: __aluminium__ [ˏæljəˋmɪnɪəm] n. 铝
+
+stale:   
+  title: stale
+  text: __stale__ [steɪl] a. 不新鲜的；陈腐的
+
+snap-up:
+  title: snap
+  text: snap up 抢购
+
+tan:   
+  title: tan
+  text: |
+    __tan__ [tæn] n. 棕褐色；晒黑  
+
+    __tan__ v. （使）晒成棕褐色，晒黑；硝（皮）
+
+hang-on:
+  title: hang on 
+  text: hang on  抓住；坚持下去；别挂断
+
+impair:   
+  title: impair
+  text: __impair__ [ɪmˈpeə(r)] vt. 损害；削弱
+
+inescapable:   
+  title: inescapble
+  text: __inescapable__ [ˌɪnɪˈskeɪpəbl] a. 不可逃避的；难免的
+
+adolescent:   
+  title: adolescent
+  text: |
+    __adolescent__ [ˌædəˈlesnt] n. 青少年  
+
+    __adolescent__ a. 青春期的；青少年的
+
+associate:   
+  title: associate
+  text: |
+    __associate__ [əˈsəuʃɪeɪt] v. 使联合；使有联系；交往   
+
+    __associate__ [əˈsəuʃɪət] n. 伙伴；同事  
+
+    __associate__ a. 副的；联合的，合伙的
+
+guinea:   
+  title: guinea
+  text: __guinea__ [ˈgɪnɪ] n. 几尼（英国的旧货币单位，现值1.05镑）  
+
+layer:   
+  title: layer
+  text: __layer__ [ˈleɪə(r)] n. 层，层次
+
+cable:   
+  title: cable
+  text: |
+    __cable__ [ˈkeɪbl] n. 缆绳；电缆；电报  
+
+    __cable__ v. （给……）发电报
+
+wedge:   
+  title: wedge
+  text: |
+    __wedge__ [wedʒ] n. 楔子，楔形  
+
+    __wedge__ vt. 楔入
