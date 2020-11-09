@@ -8121,6 +8121,7 @@ wedge:
 
 
 
+
 # ==============================================================================
 # Word List 24
 # ==============================================================================
@@ -8128,219 +8129,342 @@ wedge:
 
 
 judicious:   
-  title: 
-  text: ____ [dʒuːˈdɪʃəs] a. 明智的；有见识的
+  title: judicious
+  text: __judicious__ [dʒuːˈdɪʃəs] a. 明智的；有见识的
+
 landfill:   
-  title: 
-  text: ____ ['lændfɪl    n. 垃圾堆；垃圾填筑地，废渣埋填地
+  title: landfill
+  text: __landfill__ ['lændfɪl]    n. 垃圾堆；垃圾填筑地，废渣埋填地
+
 cast:   
-  title: 
-  text: ____ [kɑːst] v. 投射（光、视线等）；把……加于；投，扔；丢弃，剔除；脱落，蜕（皮）；浇铸，铸造  n. 演员表，全体演员；石膏绷带；铸模，铸件；外貌，特征
+  title: cast
+  text: |
+    __cast__ [kɑːst] v. 投射（光、视线等）；把……加于；投，扔；丢弃，剔除；脱落，蜕（皮）；浇铸，铸造  
+
+    __cast__ n. 演员表，全体演员；石膏绷带；铸模，铸件；外貌，特征
+
 curtain:   
-  title: 
-  text: ____ [ˈkɜːtn] n. 窗帘，门帘
+  title: curtain
+  text: __curtain__ [ˈkɜːtn] n. 窗帘，门帘
+
 uniform:   
-  title: 
-  text: ____ [ˈjuːnɪfɔːm] n. 制服  a. 相同的；一致的
+  title: uniform
+  text: |
+    __uniform__ [ˈjuːnɪfɔːm] n. 制服  
+
+    __uniform__ a. 相同的；一致的
+
 quartz:   
-  title: 
-  text: ____ [kwɔːts] n. 石英
+  title: quartz
+  text: __quartz__ [kwɔːts] n. 石英
+
 longitudinal:   
-  title: 
-  text: ____ [lɔndʒiˈtju:dinl] a. 经度的，经线的；纵的；长度的
+  title: longitudinal
+  text: __longitudinal__ [lɔndʒiˈtju:dinl] a. 经度的，经线的；纵的；长度的
+
 disillusion:   
-  title: 
-  text: ____ [ˏdɪsɪˈluːʒn] vt. 使醒悟
+  title: disillusion
+  text: __disillusion__ [ˏdɪsɪˈluːʒn] vt. 使醒悟
+
 clientele:   
-  title: 
-  text: ____ [ˏkliːənˈtel] n. （医生、律师等的）顾客，主顾，客户
+  title: clientele
+  text: __clientele__ [ˏkliːənˈtel] n. （医生、律师等的）顾客，主顾，客户
+
 holistic:   
-  title: 
-  text: ____ [həʊˈlɪstɪk] a. 整体的，全面的；功能整体性的
+  title: holistic
+  text: __holistic__ [həʊˈlɪstɪk] a. 整体的，全面的；功能整体性的
+
 exodus:   
-  title: 
-  text: ____ [ˈeksədəs] n. 大批离去，成群外出
+  title: exodus
+  text: __exodus__ [ˈeksədəs] n. 大批离去，成群外出
+
 concur:   
-  title: 
-  text: ____ [kənˈkɜː(r)] v. 同时发生；意见相同，一致
+  title: concur
+  text: __concur__ [kənˈkɜː(r)] v. 同时发生；意见相同，一致
+
 preventative:   
-  title: 
-  text: ____ [prɪ'ventətɪv] a. 预防性的
+  title: preventative
+  text: __preventative__ [prɪ'ventətɪv] a. 预防性的
+
 complementary:   
-  title: 
-  text: ____ [ˌkɒmplɪˈmentri] a. 互补的；补充的，补足的
+  title: complementary
+  text: __complementary__ [ˌkɒmplɪˈmentri] a. 互补的；补充的，补足的
+
 adjunct:   
-  title: 
-  text: ____ [ˈædʒʌŋkt] n. 附属物，附件；附加语，修饰语
+  title: adjunct
+  text: __adjunct__ [ˈædʒʌŋkt] n. 附属物，附件；附加语，修饰语
+
 simplistic:   
-  title: 
-  text: ____ [sɪmˈplɪstɪk] a. 过分单纯化的，过分简单化的
+  title: simplistic
+  text: __simplistic__ [sɪmˈplɪstɪk] a. 过分单纯化的，过分简单化的
+
 hiccup:   
-  title: 
-  text: ____ [ˈhɪkʌp] n. 嗝，呃逆；暂时（或小的）困难（或挫折）  vi. 打嗝
+  title: hiccup
+  text: |
+    __hiccup__ [ˈhɪkʌp] n. 嗝，呃逆；暂时（或小的）困难（或挫折）  
+
+    __hiccup__ vi. 打嗝
+
 prowess:   
-  title: 
-  text: ____ [ˈprauɪs] n. 杰出的才能，高超的技艺，专长，造诣
+  title: prowess
+  text: __prowess__ [ˈprauɪs] n. 杰出的才能，高超的技艺，专长，造诣
+
 engross:   
-  title: 
-  text: ____ [ɪnˈgrəus] vt. 使全神贯注，占去（某人的）全部注意力和时间
+  title: engross
+  text: __engross__ [ɪnˈgrəus] vt. 使全神贯注，占去（某人的）全部注意力和时间
+
 tease:   
-  title: 
-  text: ____ [tiːz] v. 逗乐，奚乐，戏弄；强求  n. 挪揄，戏弄，取笑；逗弄者，取笑者
+  title: tease
+  text: |
+    __tease__ [tiːz] v. 逗乐，奚乐，戏弄；强求  
+
+    __tease__ n. 挪揄，戏弄，取笑；逗弄者，取笑者
+
 exuberant:   
-  title: 
-  text: ____ [ɪgˈzjuːbərənt] a. 繁茂的，丰富的；非凡的；华而不实的
+  title: exuberant
+  text: __exuberant__ [ɪgˈzjuːbərənt] a. 繁茂的，丰富的；非凡的；华而不实的
+
 cavort:   
-  title: 
-  text: ____ [kəˈvɔːt] v. 欢跃，跳跃；嬉戏
+  title: cavort
+  text: __cavort__ [kəˈvɔːt] v. 欢跃，跳跃；嬉戏
+
 socialise:   
-  title: 
-  text: ____ [ˈsəuʃəlaɪz] v. （同他人）来往，交往，交际；使（某人）适应社会生活
+  title: socialise
+  text: __socialise__ [ˈsəuʃəlaɪz] v. （同他人）来往，交往，交际；使（某人）适应社会生活
+
 optimum:   
-  title: 
-  text: ____ [ˈɔptɪməm] a. 最好的；最有利的
+  title: optimum
+  text: __optimum__ [ˈɔptɪməm] a. 最好的；最有利的
+
 molecule:   
-  title: 
-  text: ____ [ˈmɔlɪkjuːl] n. 分子
+  title: molecule
+  text: __molecule__ [ˈmɔlɪkjuːl] n. 分子
+
 fitness:   
-  title: 
-  text: ____ [ˈfɪtnəs] n. 健康；适合（某事物）
+  title: fitness
+  text: __fitness__ [ˈfɪtnəs] n. 健康；适合（某事物）
+
 regarding:   
-  title: 
-  text: ____ [rɪˈgɑ:dɪŋ] prep. 关于
+  title: regarding
+  text: __regarding__ [rɪˈgɑ:dɪŋ] prep. 关于
+
 contact:   
-  title: 
-  text: ____ [ˈkɔntækt] n. 接触；联系  vt. 与……取得联系，联络
+  title: contact
+  text: |
+    __contact__ [ˈkɔntækt] n. 接触；联系  
+
+    __contact__ vt. 与……取得联系，联络
+
 creative:   
-  title: 
-  text: ____ [kriːˈeɪtɪv] a. 创造性的；创作的
+  title: creative
+  text: __creative__ [kriːˈeɪtɪv] a. 创造性的；创作的
+
 consultant:   
-  title: 
-  text: ____ [kənˈsʌltənt] n. 顾问；专科医生
+  title: consultant
+  text: __consultant__ [kənˈsʌltənt] n. 顾问；专科医生
+
 secondary:   
-  title: 
-  text: ____ [ˈsekəndrɪ] a. 次要的，二级的；（教育、学校等）中等的；辅助的、从属的
-in favour of 赞同，支持
+  title: secondary
+  text: __secondary__ [ˈsekəndrɪ] a. 次要的，二级的；（教育、学校等）中等的；辅助的、从属的
+
+in-favour-of:   
+  title: in favour of
+  text:  in favour of 赞同，支持
+
 fraction:   
-  title: 
-  text: ____ [ˈfrækʃn] n. 小部分，片断
+  title: fraction
+  text: __fraction__ [ˈfrækʃn] n. 小部分，片断
+
 dictation:   
-  title: 
-  text: ____ [dɪkˈteɪʃn] n. 听写
+  title: dictation
+  text: __ditation__ [dɪkˈteɪʃn] n. 听写
+
 engage:   
-  title: 
-  text: ____ [ɪnˈgeɪdʒ] v. 吸引（某人的注意力等）；占用（某人的时间）；使从事于，使忙于；雇用，聘用；与（某人）交战；（指机器零件等）啮合，衔接
+  title: engage
+  text: __engage__ [ɪnˈgeɪdʒ] v. 吸引（某人的注意力等）；占用（某人的时间）；使从事于，使忙于；雇用，聘用；与（某人）交战；（指机器零件等）啮合，衔接
+
 populate:   
-  title: 
-  text: ____ [ˈpɔpjuleɪt] vt. （大批地）居住于，生活于
+  title: populate
+  text: __populate__ [ˈpɔpjuleɪt] vt. （大批地）居住于，生活于
+
 merchandising:   
-  title: 
-  text: ____ [ˈmɜ:tʃəndaɪzɪŋ] n. 销售规划
+  title: merchandising
+  text: __merchandising__ [ˈmɜ:tʃəndaɪzɪŋ] n. 销售规划
+
 meteorology:   
-  title: 
-  text: ____ [ˏmiːtɪəˈrɔlədʒɪ] n. 气象学
+  title: meteorology
+  text: __metearology__ [ˏmiːtɪəˈrɔlədʒɪ] n. 气象学
+
 dealer:   
-  title: 
-  text: ____ [ˈdiːlə(r)] n. 商人，经销商
+  title: dealer
+  text: __dealer__ [ˈdiːlə(r)] n. 商人，经销商
+
 weapon:   
-  title: 
-  text: ____ [ˈwepən] n. 武器，兵器
+  title: weapon
+  text: __weapon__ [ˈwepən] n. 武器，兵器
+
 authorise:   
-  title: 
-  text: ____ [ˈɔːθəraɪz] vt. 批准，认可；授权
+  title: arthorise
+  text: __arthorise__ [ˈɔːθəraɪz] vt. 批准，认可；授权
+
 pore-over:   
-  title: 
-  text: ____ [pɔ: ˈəuvə] 仔细阅读
+  title: pore over 
+  text: pore over [pɔːˈəuvə] 仔细阅读
+
 spectator:   
-  title: 
-  text: ____ [spekˈteɪtə(r)] n. 观众；旁观者
+  title: spectator
+  text: __spectator__ [spekˈteɪtə(r)] n. 观众；旁观者
+
 compatriot:   
-  title: 
-  text: ____ [kəmˈpætrɪət] n. 同胞；同国人
+  title: compatriot
+  text: __compatriot__ [kəmˈpætrɪət] n. 同胞；同国人
+
 dreadful:   
-  title: 
-  text: ____ [ˈdredfl] a. 可怕的；令人不快的
+  title: dreadful
+  text: __dreadful__ [ˈdredfl] a. 可怕的；令人不快的
+
 laboratory:   
-  title: 
-  text: ____ [ləˈbɔrətrɪ] n. 实验室，研究室
+  title: laboratory
+  text: __laboratory__ [ləˈbɔrətrɪ] n. 实验室，研究室
+
 shuttle:   
-  title: 
-  text: ____ [ˈʃʌtl] n. 航天飞机
+  title: shuttle
+  text: __shuttle__ [ˈʃʌtl] n. 航天飞机
+
 entail:   
-  title: 
-  text: ____ [ɪnˈteɪl] vt. 牵涉；需要
+  title: entail
+  text: __entail__ [ɪnˈteɪl] vt. 牵涉；需要
+
 alchemist:   
-  title: 
-  text: ____ [ˈælkəmɪst] n. 炼金术士
+  title: alchemist
+  text: __alchemist__ [ˈælkəmɪst] n. 炼金术士
+
 contrary:   
-  title: 
-  text: ____ [ˈkɔntrərɪ] a. 相反的  n. 相反
+  title: contrary
+  text: |
+    __contrary__ [ˈkɔntrərɪ] a. 相反的  
+
+    __contrary__ n. 相反
+
 alert:   
-  title: 
-  text: ____ [əˈlɜːt] a. 警惕的  n. 警戒；警报  vt. 警告
+  title: alert
+  text: |
+    __alert__ [əˈlɜːt] a. 警惕的  
+
+    __alert__ n. 警戒；警报  
+
+    __alert__ vt. 警告
+
 shift:   
-  title: 
-  text: ____ [ʃɪft] v. 移动，转移；改变，转变  n. 转换，转变；轮（或换）班
+  title: shift
+  text: |
+    __shift__ [ʃɪft] v. 移动，转移；改变，转变  
+
+    __shift__ n. 转换，转变；轮（或换）班
+
 mere:   
-  title: 
-  text: ____ [mɪə(r)] a. 仅仅的；纯粹的
+  title: mere
+  text: __mere__ [mɪə(r)] a. 仅仅的；纯粹的
+
 monitor:   
-  title: 
-  text: ____ [ˈmɔnɪtə(r)] n. 班长；监视器  vt. 监视；监测
+  title: monitor
+  text: |
+    __monitor__ [ˈmɔnɪtə(r)] n. 班长；监视器  
+
+    __monitor__ vt. 监视；监测
+
 derive:   
-  title: 
-  text: ____ [dɪˈraɪv] v. 取得；起源
+  title: derive
+  text: __derive__ [dɪˈraɪv] v. 取得；起源
+
 desire:   
-  title: 
-  text: ____ [dɪˈzaɪə(r)] v./n. 想望，期望；要求
+  title: desire
+  text: __desire__ [dɪˈzaɪə(r)] v./n. 想望，期望；要求
+
 minimal:   
-  title: 
-  text: ____ [ˈmɪnɪməl] a. 最小的，最低限度的
+  title: minimal
+  text: __minimal__ [ˈmɪnɪməl] a. 最小的，最低限度的
+
 sketch:   
-  title: 
-  text: ____ [sketʃ] v. 画素描；概述  n. 素描；速写
+  title: sketch
+  text: |
+    __sketch__ [sketʃ] v. 画素描；概述  
+
+    __sketch__ n. 素描；速写
+
 lag:   
-  title: 
-  text: ____ [læg] v. 走得慢；落后  n. （时间上的）间隔；滞后
+  title: lag
+  text: |
+    __lag__ [læg] v. 走得慢；落后  
+
+    __lag__ n. （时间上的）间隔；滞后
+
 trigger:   
-  title: 
-  text: ____ [ˈtrɪgə(r)] vt. 引发，导致  n. 扳机
+  title: trigger
+  text: |
+    __trigger__ [ˈtrɪgə(r)] vt. 引发，导致  
+
+    __trigger__ n. 扳机
+
 supplement:   
-  title: 
-  text: ____ [ˈsʌplɪment] vt. 补充，增补:   
-  title: 
-  text: ____ [ˈsʌplɪmənt] n. 增补（物），补充（物）；补遗；增刊；附录
+  title: supplement
+  text: |
+    __supplement__ [ˈsʌplɪment] vt. 补充，增补
+
+    __supplement__ [ˈsʌplɪmənt] n. 增补（物），补充（物）；补遗；增刊；附录
+
 offend:   
-  title: 
-  text: ____ [əˈfend] v. 冒犯；使厌恶；违犯
+  title: offend
+  text: __offend__ [əˈfend] v. 冒犯；使厌恶；违犯
+
 vivid:   
-  title: 
-  text: ____ [ˈvɪvɪd] a. 鲜艳的；生动的
-as for/to 至于，关于
+  title: vivid
+  text: __vivid__ [ˈvɪvɪd] a. 鲜艳的；生动的
+
+as-for:   
+  title: as for ; as to  
+  text:  as for; as to 至于，关于
+
 enclose:   
-  title: 
-  text: ____ [ɪnˈkləuz] vt. 围住；附上；把……装入信封
+  title: enclose
+  text: __enclose__ [ɪnˈkləuz] vt. 围住；附上；把……装入信封
+
 dose:   
-  title: 
-  text: ____ [dəus] n. 剂量，一剂
+  title: dose
+  text: __dose__ [dəus] n. 剂量，一剂
+
 supply:   
-  title: 
-  text: ____ [səˈplaɪ] n. 供给，供应（量）；[常 pl.] 存货，必需品  vt. 供给，供应；满足（需要），弥补（不足）
-on the horizon 即将发生的
+  title: supply
+  text: |
+    __supply__ [səˈplaɪ] n. 供给，供应（量）；[常 pl.] 存货，必需品  
+
+    __supply__ vt. 供给，供应；满足（需要），弥补（不足）
+
+on-the-horizon:   
+  title: on the horizon
+  text:  on the horizon 即将发生的
+
 compress:   
-  title: 
-  text: ____ [kəmˈpres] v. 压紧；压缩:   
-  title: 
-  text: ____ [ˈkɔmpres] n. 敷布，压布
+  title: compress
+  text: |
+    __compress__ [kəmˈpres] v. 压紧；压缩
+
+    __compress__ [ˈkɔmpres] n. 敷布，压布
+
 interest:   
-  title: 
-  text: ____ [ˈɪntrəst] n. 兴趣；利息；利益  vt. 使感兴趣
+  title: interest
+  text: |
+    __interest__ [ˈɪntrəst] n. 兴趣；利息；利益  
+
+    __interest__ vt. 使感兴趣
+
 overcome:   
-  title: 
-  text: ____ [ˏəuvəˈkʌm] vt. 战胜，克服；（感情等）压倒
+  title: overcome
+  text: __overcome__ [ˏəuvəˈkʌm] vt. 战胜，克服；（感情等）压倒
+
 achievement:   
-  title: 
-  text: ____ [əˈtʃi:vmənt] n. 成就，成绩；达到，完成，实现
+  title: achievement
+  text: __achievement__ [əˈtʃi:vmənt] n. 成就，成绩；达到，完成，实现
 
 
 
