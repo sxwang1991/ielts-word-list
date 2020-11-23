@@ -6,243 +6,352 @@
 
 
 notorious:   
-  title: 
-  text: ____ [nəuˈtɔːrɪəs] a. 著名的，众所周知的；声名狼藉的
+  title: notorious
+  text: __notorious__ [nəuˈtɔːrɪəs] a. 著名的，众所周知的；声名狼藉的
+
 cash:   
-  title: 
-  text: ____ [kæʃ] n. 现金，现款  vt. 把……兑现
+  title: cash
+  text: |
+    __cash__ [kæʃ] n. 现金，现款  
+
+    __cash__ vt. 把……兑现
+
 valid:   
-  title: 
-  text: ____ [ˈvælɪd] a. 有效的，具有法律效力的；正当的；有根据的，有理的
+  title: valid
+  text: __valid__ [ˈvælɪd] a. 有效的，具有法律效力的；正当的；有根据的，有理的
+
 enrich:   
-  title: 
-  text: ____ [ɪnˈrɪtʃ] vt. 充实，使丰富；使富裕
+  title: enrich
+  text: __enrich__ [ɪnˈrɪtʃ] vt. 充实，使丰富；使富裕
+
 tab:   
-  title: 
-  text: ____ [tæb] n. 标签
+  title: tag
+  text: __tag__ [tæb] n. 标签
+
 equation:   
-  title: 
-  text: ____ [ɪˈkweɪʒn] n. 方程式，等式；平衡；等同，相等
+  title: equation
+  text: __equation__ [ɪˈkweɪʒn] n. 方程式，等式；平衡；等同，相等
+
 miracle:   
-  title: 
-  text: ____ [ˈmɪrəkl] n. 奇迹；奇事
+  title: miracle
+  text: __miracle__ [ˈmɪrəkl] n. 奇迹；奇事
+
 worthy:   
-  title: 
-  text: ____ [ˈwɜːðɪ] a. 有价值的；值得的
+  title: worthy
+  text: __worthy__ [ˈwɜːðɪ] a. 有价值的；值得的
+
 irrigation:   
-  title: 
-  text: ____ [ˌɪrɪ'ɡeɪʃn] n. 灌溉；冲洗
+  title: irrigation
+  text: __irrigation__ [ˌɪrɪ'ɡeɪʃn] n. 灌溉；冲洗
+
 chief:   
-  title: 
-  text: ____ [tʃiːf] a. 主要的；为首的
+  title: chief
+  text: __chief__ [tʃiːf] a. 主要的；为首的
+
 remedy:   
-  title: 
-  text: ____ [ˈremədɪ] n. 药品；治疗法；补救  vt. 治疗；补救
+  title: remedy
+  text: |
+    __remedy__ [ˈremədɪ] n. 药品；治疗法；补救  
+
+    __remedy__ vt. 治疗；补救
+
 accelerate:   
-  title: 
-  text: ____ [əkˈseləreɪt] v. 加速；促进
+  title: accelerate
+  text: __accelerate__ [əkˈseləreɪt] v. 加速；促进
+
 thoughtful:   
-  title: 
-  text: ____ [ˈθɔ:tfl] a. 沉思的；体贴的
+  title: thoughtful
+  text: __thoughtful__ [ˈθɔ:tfl] a. 沉思的；体贴的
+
 brunt:   
-  title: 
-  text: ____ [brʌnt] n. 冲击；冲力
+  title: brunt
+  text: __brunt__ [brʌnt] n. 冲击；冲力
+
 prominence:   
-  title: 
-  text: ____ [ˈprɒmɪnəns] n. 突出，显著；卓越；重要
+  title: prominence
+  text: __prominence__ [ˈprɒmɪnəns] n. 突出，显著；卓越；重要
+
 compass:   
-  title: 
-  text: ____ [ˈkʌmpəs] n. 罗盘，罗盘仪；界限，范围；:   
-  title: 
-  text: ____ [pl.] 圆规
+  title: compass
+  text: __compass__ [ˈkʌmpəs] n. 罗盘，罗盘仪；界限，范围；[pl.] 圆规
+
 inaugurate:   
-  title: 
-  text: ____ [ɪˈnɔːgjureɪt] vt. 开始，开创；为……举行就职典礼；为……举行开幕式；为……举行落成仪式
+  title: inaugurate
+  text: __inaugurate__ [ɪˈnɔːgjureɪt] vt. 开始，开创；为……举行就职典礼；为……举行开幕式；为……举行落成仪式
+
 suppress:   
-  title: 
-  text: ____ [səˈpres] vt. 压制，镇压；禁止发表；查禁；抑制（感情等），忍住；阻止……的生长（或发展）
+  title: suppress
+  text: __suppress__ [səˈpres] vt. 压制，镇压；禁止发表；查禁；抑制（感情等），忍住；阻止……的生长（或发展）
+
 perpetuate:   
-  title: 
-  text: ____ [pəˈpetʃueɪt] vt. 使永存；使持续
+  title: perpetuate
+  text: __perpetuate__ [pəˈpetʃueɪt] vt. 使永存；使持续
+
 configuration:   
-  title: 
-  text: ____ [kənˏfɪgəˈreɪʃn] n. 结构，配置；轮廓，外形
+  title: configuration
+  text: __configuraion__ [kənˏfɪgəˈreɪʃn] n. 结构，配置；轮廓，外形
+
 replenish:   
-  title: 
-  text: ____ [rɪˈplenɪʃ] vt. 再斟（或装）满；添加，补充
+  title: replenish
+  text: __replenish__ [rɪˈplenɪʃ] vt. 再斟（或装）满；添加，补充
+
 encompass:   
-  title: 
-  text: ____ [ɪnˈkʌmpəs] vt. 包含；包围；环绕
+  title: encompass
+  text: __encompass__ [ɪnˈkʌmpəs] vt. 包含；包围；环绕
+
 camouflage:   
-  title: 
-  text: ____ [ˈkæməflɑːʒ] v./n. 掩饰，伪装
+  title: camouflage
+  text: __camouflage__ [ˈkæməflɑːʒ] v./n. 掩饰，伪装
+
 encapsulate:   
   title: 
-  text: ____ [ɪnˈkæpsjuleɪt] vt. 装入胶囊；压缩；总结，概述
+  text: __encapsulate__ [ɪnˈkæpsjuleɪt] vt. 装入胶囊；压缩；总结，概述
+
 reinvigorate:   
-  title: 
-  text: ____ [ˌri:ɪn'vɪɡəreɪt] vt. 使重新振作；使恢复活力
+  title: reinvigorate
+  text: __reinvagorate__ [ˌri:ɪn'vɪɡəreɪt] vt. 使重新振作；使恢复活力
+
 repatriate:   
-  title: 
-  text: ____ [riːˈpætrɪeɪt] v. 把（某人）遣返回国；归国
+  title: repatriate
+  text: __repatriate__ [riːˈpætrɪeɪt] v. 把（某人）遣返回国；归国
+
 tensile:   
-  title: 
-  text: ____ [ˈtensaɪl] a. 拉力的，张力的；可延展的，可伸长的
+  title: tensile
+  text: __tensile__ [ˈtensaɪl] a. 拉力的，张力的；可延展的，可伸长的
+
 solidify:   
-  title: 
-  text: ____ [səˈlɪdɪfaɪ] v. 巩固，确保；凝固，（使）固化；团结
+  title: solidify
+  text: __solidify__ [səˈlɪdɪfaɪ] v. 巩固，确保；凝固，（使）固化；团结
+
 propagate:   
-  title: 
-  text: ____ [ˈprɔpəgeɪt] v. 繁殖，增殖；传播，宣传，使普及
+  title: propagate
+  text: __propagate__ [ˈprɔpəgeɪt] v. 繁殖，增殖；传播，宣传，使普及
+
 germinate:   
-  title: 
-  text: ____ [ˈdʒɜːmɪneɪt] v. （使）发芽，（使）生长；发展
+  title: germinate
+  text: __germinate__ [ˈdʒɜːmɪneɪt] v. （使）发芽，（使）生长；发展
+
 unbeatable:   
-  title: 
-  text: ____ [ˏʌnˈbiːtəbl] a. 无敌的，不可战胜的
+  title: unbeatable
+  text: __unbeatable__ [ˏʌnˈbiːtəbl] a. 无敌的，不可战胜的
+
 accredit:   
-  title: 
-  text: ____ [əˈkredɪt] vt. 信任，相信，委任，授权；把……归于
+  title: accredit
+  text: __accredit__ [əˈkredɪt] vt. 信任，相信，委任，授权；把……归于
+
 disorientate:   
-  title: 
-  text: ____ [dɪsˈɔːrɪənteɪt] vt. 使失去方向感；使迷茫，使不知所措（= disorient）
+  title: disorientate
+  text: __disorientate__ [dɪsˈɔːrɪənteɪt] vt. 使失去方向感；使迷茫，使不知所措（= disorient）
+
 slumber:   
-  title: 
-  text: ____ [ˈslʌmbə(r)] v. 睡眠（尤指睡得安稳而舒服），安睡  n.:   
-  title: 
-  text: ____ [常pl.] 睡眠，安睡
+  title: slumber
+  text: |
+    __slumber__ [ˈslʌmbə(r)] v. 睡眠（尤指睡得安稳而舒服），安睡  
+
+    __slumber__ n.[常pl.] 睡眠，安睡
+
 sufficient:   
-  title: 
-  text: ____ [səˈfɪʃnt] a. 足够的，充分的
+  title: sufficient
+  text: __sufficient__ [səˈfɪʃnt] a. 足够的，充分的
+
 antiquity:   
-  title: 
-  text: ____ [ænˈtɪkwətɪ] n. 古，古老；古代；古人；古迹，古物
+  title: antiquity
+  text: __antiquity__ [ænˈtɪkwətɪ] n. 古，古老；古代；古人；古迹，古物
+
 pretend:   
-  title: 
-  text: ____ [prɪˈtend] v. 装作，假装
+  title: pretend
+  text: __pretend__ [prɪˈtend] v. 装作，假装
+
 dominant:   
-  title: 
-  text: ____ [ˈdɔmɪnənt] a. 占优势的；统治的；居高临下的
+  title: dominant
+  text: __dominant__ [ˈdɔmɪnənt] a. 占优势的；统治的；居高临下的
+
 privacy:   
-  title: 
-  text: ____ [ˈprɪvəsɪ] n. 隐私，私事；隐私权
+  title: privacy
+  text: __privacy__ [ˈprɪvəsɪ] n. 隐私，私事；隐私权
+
 pilot:   
-  title: 
-  text: ____ [ˈpaɪlət] n. 飞行员，引航员  vt. 驾驶，为……引航
+  title: pilot
+  text: |
+    __pilot__ [ˈpaɪlət] n. 飞行员，引航员  
+
+    __pilot__ vt. 驾驶，为……引航
+
 advance:   
-  title: 
-  text: ____ [ədˈvɑːns] a. 预先的；先行的  v. 前进，向前移动；取得进展；预付  n. 前进，前移；增长，提高；预付（款等）
+  title: advance
+  text: |
+    __advance__ [ədˈvɑːns] a. 预先的；先行的  
+
+    __advance__ v. 前进，向前移动；取得进展；预付  
+
+    __advance__ n. 前进，前移；增长，提高；预付（款等）
+
 efficiency:   
-  title: 
-  text: ____ [ɪ'fɪʃnsɪ] n. 效率；功效，效能
+  title: efficiency
+  text: __efficiency__ [ɪ'fɪʃnsɪ] n. 效率；功效，效能
+
 drainage:   
-  title: 
-  text: ____ [ˈdreɪnɪdʒ] n. 排水（系统）
+  title: drainage
+  text: __drainage__ [ˈdreɪnɪdʒ] n. 排水（系统）
+
 credible:   
-  title: 
-  text: ____ [ˈkredəbl] a. 可信的，可靠的
+  title: credible
+  text: __credible__ [ˈkredəbl] a. 可信的，可靠的
+
 elaborate:   
-  title: 
-  text: ____ [ɪˈlæbərət] a. 详尽的；复杂的；精心制作的:   
-  title: 
-  text: ____ [ɪˈlæbəreɪt] v. 详述；详细制定
+  title: elaborate
+  text: |
+    __elaborate__ [ɪˈlæbərət] a. 详尽的；复杂的；精心制作的 
+
+    __elaborate__ [ɪˈlæbəreɪt] v. 详述；详细制定
+
 consult:   
-  title: 
-  text: ____ [kənˈsʌlt] v. 请教；查阅；商议
+  title: consult
+  text: __consult__ [kənˈsʌlt] v. 请教；查阅；商议
+
 fare:   
-  title: 
-  text: ____ [feə(r)] n. 费，票价  vi. 进展
+  title: fare
+  text: |
+    __fare__ [feə(r)] n. 费，票价  
+
+    __fare__ vi. 进展
+
 foundation:   
-  title: 
-  text: ____ [faunˈdeɪʃn] n. 基础；地基；创立
+  title: foundation
+  text: __foundation__ [faunˈdeɪʃn] n. 基础；地基；创立
+
 principal:   
-  title: 
-  text: ____ [ˈprɪnsəpl] a. 主要的  n. 校长；资本；主角
+  title: principal
+  text: |
+    __principal__ [ˈprɪnsəpl] a. 主要的  
+
+    __principal__ n. 校长；资本；主角
+
 collection:   
-  title: 
-  text: ____ [kəˈlekʃn] n. 收集，积聚；收藏（品）
+  title: collection
+  text: __collection__ [kəˈlekʃn] n. 收集，积聚；收藏（品）
+
 comparatively:   
-  title: 
-  text: ____ [kəmˈpærətɪvli] ad. 相对地；比较地
+  title: comparatively
+  text: __comparatively__ [kəmˈpærətɪvli] ad. 相对地；比较地
+
 victim:   
-  title: 
-  text: ____ [ˈvɪktɪm] n. 牺牲者；受害者
+  title: victim
+  text: __victim__ [ˈvɪktɪm] n. 牺牲者；受害者
+
 aisle:   
-  title: 
-  text: ____ [aɪl] n. 走廊，通道；（教堂的）侧廊
+  title: aisle
+  text: __aisle__ [aɪl] n. 走廊，通道；（教堂的）侧廊
+
 lime:   
-  title: 
-  text: ____ [laɪm] n. 石灰
+  title: lime
+  text: __lime__ [laɪm] n. 石灰
+
 scan:   
-  title: 
-  text: ____ [skæn] v. 扫描；浏览  n. 扫描
+  title: scan
+  text: 
+    __scan__ [skæn] v. 扫描；浏览  
+
+    __scan__ n. 扫描
+
 sculpture:   
-  title: 
-  text: ____ [ˈskʌlptʃə(r)] n. 雕塑品
+  title: sculpture
+  text: __sculpture__ [ˈskʌlptʃə(r)] n. 雕塑品
+
 rigorous:   
-  title: 
-  text: ____ [ˈrɪgərəs] a. 严密的；严格的，严厉的；严酷的
+  title: rigorous
+  text: __rigorous__ [ˈrɪgərəs] a. 严密的；严格的，严厉的；严酷的
+
 fragment:   
-  title: 
-  text: ____ [ˈfrægmənt] n. 碎片，小部分，片断:   
-  title: 
-  text: ____ [frægˈment] v. 分裂；破碎
+  title: fragment
+  text: |
+    __fragment__ [ˈfrægmənt] n. 碎片，小部分，片断  
+
+    __fragment__ [frægˈment] v. 分裂；破碎
+
 audio:   
-  title: 
-  text: ____ [ˈɔ:diəʊ] a. 听觉的；声音的
+  title: audio
+  text: __audio__ [ˈɔ:diəʊ] a. 听觉的；声音的
+
 landmark:   
-  title: 
-  text: ____ [ˈlændmɑ:k] n. 路标，地标；里程碑
+  title: landmark
+  text: __landmark__ [ˈlændmɑ:k] n. 路标，地标；里程碑
+
 biography:   
-  title: 
-  text: ____ [baɪˈɔgrəfɪ] n. 传记
+  title: biography
+  text: __biography__ [baɪˈɔgrəfɪ] n. 传记
+
 dubious:   
-  title: 
-  text: ____ [ˈdjuːbɪəs] a. 怀疑的；靠不住的，不确定的
+  title: dubious
+  text: __dubious__ [ˈdjuːbɪəs] a. 怀疑的；靠不住的，不确定的
+
 boulder:   
-  title: 
-  text: ____ [ˈbəuldə(r)] n. 大石头；鹅卵石
+  title: boulder
+  text: __boulder__ [ˈbəuldə(r)] n. 大石头；鹅卵石
+
 drill:   
-  title: 
-  text: ____ [drɪl] v./n. 钻；训练
+  title: drill
+  text: __drill__ [drɪl] v./n. 钻；训练
+
 batch:   
-  title: 
-  text: ____ [bætʃ] n. 一批，一组，一群；一批生产量
+  title: batch
+  text: __batch__ [bætʃ] n. 一批，一组，一群；一批生产量
+
 camel:   
-  title: 
-  text: ____ [ˈkæml] n. 骆驼
+  title: camel
+  text: __camel__ [ˈkæml] n. 骆驼
+
 shell:   
-  title: 
-  text: ____ [ʃel] n. 壳；炮弹  v. 给……去壳；炮击
+  title: shell
+  text: |
+    __shell__ [ʃel] n. 壳；炮弹  
+
+    __shell__ v. 给……去壳；炮击
+
 triangle:   
-  title: 
-  text: ____ [ˈtraɪæŋgl] n. 三角（形）
+  title: triangle
+  text: __triangle__ [ˈtraɪæŋgl] n. 三角（形）
+
 subsidy:   
-  title: 
-  text: ____ [ˈsʌbsɪdɪ] n. 津贴，补助金
+  title: subsidy
+  text: __subsidy__ [ˈsʌbsɪdɪ] n. 津贴，补助金
+
 contrived:   
-  title: 
-  text: ____ [kənˈtraɪvd] a. 不自然的；人为的
+  title: contrived
+  text: __contrived__ [kənˈtraɪvd] a. 不自然的；人为的
+
 multiply:   
-  title: 
-  text: ____ [ˈmʌltɪplaɪ] v. （使）增加，（使）繁殖；乘
+  title: multiply
+  text: __multiply__ [ˈmʌltɪplaɪ] v. （使）增加，（使）繁殖；乘
+
 joint:   
-  title: 
-  text: ____ [dʒɔɪnt] n. 接头；关节  a. 连接的；联合的
+  title: joint
+  text: |
+    __joint__ [dʒɔɪnt] n. 接头；关节  
+
+    __joint__ a. 连接的；联合的
+
 spray:   
-  title: 
-  text: ____ [spreɪ] n. 浪花；喷雾；飞沫  v. 喷射；（使）溅洒
+  title: spray
+  text: |
+    __spray__ [spreɪ] n. 浪花；喷雾；飞沫  
+
+    __spray__ v. 喷射；（使）溅洒
+
 meanwhile:   
-  title: 
-  text: ____ [ˈmiːnwaɪl] ad. 与此同时
+  title: meanwhile
+  text: __meanwhile__ [ˈmiːnwaɪl] ad. 与此同时
+
 force:   
-  title: 
-  text: ____ [fɔːs] vt. 强迫  n.:   
-  title: 
-  text: ____ [pl.] 军队；力气；影响力
+  title: force
+  text: |
+    __force__ [fɔːs] vt. 强迫  
+
+    __force__ n. [pl.] 军队；力气；影响力
+
 evolve:   
-  title: 
-  text: ____ [ɪˈvɔlv] v. （使）逐渐形成；（使）演变，（使）进化
+  title: evolve
+  text: __evolve__ [ɪˈvɔlv] v. （使）逐渐形成；（使）演变，（使）进化
 
 
 
