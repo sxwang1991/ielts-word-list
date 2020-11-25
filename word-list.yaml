@@ -9872,231 +9872,368 @@ generalise:
 
 
 remarkable:   
-  title: 
-  text: ____ [rɪˈmɑ:kəbl] a. 引人注目的，显著的，值得注意的；异常的，非凡的
+  title: remarkable
+  text: __remarkable__ [rɪˈmɑ:kəbl] a. 引人注目的，显著的，值得注意的；异常的，非凡的
+
 clot:   
-  title: 
-  text: ____ [klɔt] n. （血液）凝块  v. 凝结成块
+  title: clot
+  text: |
+    __clot__ [klɔt] n. （血液）凝块  
+
+    __clot__ v. 凝结成块
+
 prior:   
-  title: 
-  text: ____ [ˈpraɪə(r)] a. 在前的，优先的
+  title: prior
+  text: __prior__ [ˈpraɪə(r)] a. 在前的，优先的
+
 integrate:   
-  title: 
-  text: ____ [ˈɪntɪgreɪt] v. （使）合并，（使）成为一体
+  title: integrate
+  text: __integrate__ [ˈɪntɪgreɪt] v. （使）合并，（使）成为一体
+
 exemplify:   
-  title: 
-  text: ____ [ɪgˈzemplɪfaɪ] vt. 作为……的典型；例证，举例说明
+  title: exemplify
+  text: __exemplify__ [ɪgˈzemplɪfaɪ] vt. 作为……的典型；例证，举例说明
+
 herdsman:   
-  title: 
-  text: ____ ['hɜ:dzmən] n. 牧人
+  title: herdsman
+  text: __herdsman__ ['hɜ:dzmən] n. 牧人
+
 formulation:   
-  title: 
-  text: ____ [ˌfɔ:mjʊ'leɪʃn] n. 公式化，格式化；确切的表达
+  title: formulation
+  text: __formulation__ [ˌfɔ:mjʊ'leɪʃn] n. 公式化，格式化；确切的表达
+
 exploratory:   
-  title: 
-  text: ____ [eksˈplɔ:rətɵrɪ] a. 探测的；勘探的；探索的
+  title: exploratory
+  text: __exploratory__ [eksˈplɔ:rətɵrɪ] a. 探测的；勘探的；探索的
+
 pasture:   
-  title: 
-  text: ____ [ˈpɑːstʃə(r)] n. 牧场，草原  vt. 放牧
+  title: pasture
+  text: |
+    __pasture__ [ˈpɑːstʃə(r)] n. 牧场，草原  
+
+    __pasture__ vt. 放牧
+
 nutrient:   
-  title: 
-  text: ____ [ˈnjuːtrɪənt] n. 滋养物，营养品
+  title: nutrient
+  text: __nutrient__ [ˈnjuːtrɪənt] n. 滋养物，营养品
+
 plough:   
-  title: 
-  text: ____ [plau] n. 犁  v. 耕地；开（路）；破（浪）
+  title: plough
+  text: |
+    __plough__ [plau] n. 犁  
+
+    __plough__ v. 耕地；开（路）；破（浪）
+
 patriotic:   
-  title: 
-  text: ____ [ˌpætriˈɔtik] a. 爱国的，有爱国心的；显示出爱国精神的
+  title: patriotic
+  text: __patriotic__ [ˌpætriˈɔtik] a. 爱国的，有爱国心的；显示出爱国精神的
+
 scrub:   
-  title: 
-  text: ____ [skrʌb] v. 用力擦洗，把……擦净；取消（计划等）  n. 矮树丛，灌木丛
+  title: scrub
+  text: |
+    __scrub__ [skrʌb] v. 用力擦洗，把……擦净；取消（计划等）  
+
+    __scrub__ n. 矮树丛，灌木丛
+
 formality:   
-  title: 
-  text: ____ [fɔːˈmælətɪ] n. 认真遵循规范、礼节等；例行公事；正式手续
+  title: formality
+  text: __formality__ [fɔːˈmælətɪ] n. 认真遵循规范、礼节等；例行公事；正式手续
+
 perquisite:   
-  title: 
-  text: ____ [ˈpɜːkwɪzɪt] n. 利益；特权
+  title: perquisite
+  text: __perquisite__ [ˈpɜːkwɪzɪt] n. 利益；特权
+
 heighten:   
-  title: 
-  text: ____ [ˈhaɪtn] v. （使）增强，（使）加剧
+  title: heighten
+  text: __heighten__ [ˈhaɪtn] v. （使）增强，（使）加剧
+
 assimilation:   
-  title: 
-  text: ____ [əˌsɪməˈleɪʃn] n. 吸收；（被）吸收和同化的过程
+  title: assimilation
+  text: __assimilation__ [əˌsɪməˈleɪʃn] n. 吸收；（被）吸收和同化的过程
+
 necessity:   
-  title: 
-  text: ____ [nɪˈsesətɪ] n. 必然，必要；必需品；必要性
+  title: necessity
+  text: __necessity__ [nɪˈsesətɪ] n. 必然，必要；必需品；必要性
+
 disposable:   
-  title: 
-  text: ____ [dɪˈspəuzəbl] a. 一次性的；可动用的
+  title: disposable
+  text: __disposable__ [dɪˈspəuzəbl] a. 一次性的；可动用的
+
 ingenuity:   
-  title: 
-  text: ____ [ˌɪndʒə'nju:ətɪ] n. 心灵手巧，足智多谋；巧妙，精巧
+  title: ingenuity
+  text: __ingenuity__ [ˌɪndʒə'nju:ətɪ] n. 心灵手巧，足智多谋；巧妙，精巧
+
 simplicity:   
-  title: 
-  text: ____ [sɪmˈplɪsətɪ] n. 简单（性），简易；朴素；直率，单纯
+  title: simplicity
+  text: __simplicity__ [sɪmˈplɪsətɪ] n. 简单（性），简易；朴素；直率，单纯
+
 luxuriant:   
-  title: 
-  text: ____ [lʌgˈʒuərɪənt] a. 繁茂的；肥沃的；丰富的
+  title: luxuriant
+  text: __luxuriant__ [lʌgˈʒuərɪənt] a. 繁茂的；肥沃的；丰富的
+
 consequential:   
-  title: 
-  text: ____ [ˏkɔnsɪˈkwenʃl] a. 结果的，随之发生的
+  title: consequential
+  text: __consequential__ [ˏkɔnsɪˈkwenʃl] a. 结果的，随之发生的
+
 scour:   
-  title: 
-  text: ____ [ˈskauə(r)] vt. 四处搜寻，细查；擦洗，擦亮；冲刷出，冲刷成
+  title: scour
+  text: __scour__ [ˈskauə(r)] vt. 四处搜寻，细查；擦洗，擦亮；冲刷出，冲刷成
+
 seasonal:   
-  title: 
-  text: ____ [ˈsiːzənl] a. 季节性的，随季节而变化的；节令性的
+  title: seasonal
+  text: __seasonal__ [ˈsiːzənl] a. 季节性的，随季节而变化的；节令性的
+
 murky:   
-  title: 
-  text: ____ [ˈmɜ:ki:] a. 浑浊的；黑暗的；朦胧的；隐晦的
+  title: murky
+  text: __murky__ [ˈmɜ:ki:] a. 浑浊的；黑暗的；朦胧的；隐晦的
+
 melatonin:   
-  title: 
-  text: ____ [ˌmelə'təʊnɪn] n. 褪黑激素
+  title: melatonin
+  text: __melatonin__ [ˌmelə'təʊnɪn] n. 褪黑激素
+
 cue:   
-  title: 
-  text: ____ [kjuː] n. 暗示，提示
+  title: cue
+  text: __cue__ [kjuː] n. 暗示，提示
+
 thermal:   
-  title: 
-  text: ____ [ˈθɜːml] a. 热的，热量的  n. 热气流
+  title: thermal
+  text: |
+    __thermal__ [ˈθɜːml] a. 热的，热量的  
+
+    __thermal__ n. 热气流
+
 revolution:   
   title: 
   text: ____ [ˏrevəˈluːʃn] n. 革命；巨变，大变革
-ID card  身份证（= identity card）
+
+ID-card:   
+  title: ID card
+  text: ID card 身份证（= identity card）
+
 romance:   
-  title: 
-  text: ____ [rəuˈmæns] n. 恋爱；浪漫爱情；爱情小说，传奇故事
+  title: romance
+  text: __romance__ [rəuˈmæns] n. 恋爱；浪漫爱情；爱情小说，传奇故事
+
 currently:   
-  title: 
-  text: ____ [ˈkʌrəntli] ad. 当前，现时，目前
+  title: currently
+  text: __currently__ [ˈkʌrəntli] ad. 当前，现时，目前
+
 inferential:   
-  title: 
-  text: ____ [ˌɪnfə'renʃəl] a. 可推断的，推理的
+  title: inferential
+  text: __inferential__ [ˌɪnfə'renʃəl] a. 可推断的，推理的
+
 persist:   
-  title: 
-  text: ____ [pəˈsɪst] vi. 坚持；维持，保持，持续
+  title: persist
+  text: __persist__ [pəˈsɪst] vi. 坚持；维持，保持，持续
+
 minimum:   
-  title: 
-  text: ____ [ˈmɪnɪməm] n. 最小值，最低限度  a. 最低的，最小的
+  title: minimum
+  text: |
+    __minimum__ [ˈmɪnɪməm] n. 最小值，最低限度  
+
+    __minimum__ a. 最低的，最小的
+
 output:   
-  title: 
-  text: ____ [ˈautput] n. 产量；输出量；输出功率  vt. 输出
+  title: output
+  text: |
+    __output__ [ˈautput] n. 产量；输出量；输出功率  
+
+    __output__ vt. 输出
+
 stash:   
-  title: 
-  text: ____ [stæʃ] vt. 藏匿；贮藏
+  title: stach
+  text: __stach__ [stæʃ] vt. 藏匿；贮藏
+
 species:   
-  title: 
-  text: ____ [ˈspiːʃiːz] n. 种，物种
+  title: species
+  text: __species__ [ˈspiːʃiːz] n. 种，物种
+
 subtle:   
-  title: 
-  text: ____ [ˈsʌtl] a. 细微的，微妙的，难以捉摸的；隐约的；精巧的，巧妙的；诡秘的，狡诈的
+  title: subtle
+  text: __subtle__ [ˈsʌtl] a. 细微的，微妙的，难以捉摸的；隐约的；精巧的，巧妙的；诡秘的，狡诈的
+
 competent:   
-  title: 
-  text: ____ [ˈkɔmpɪtənt] a. 有能力的；能胜任的
+  title: competent
+  text: __competent__ [ˈkɔmpɪtənt] a. 有能力的；能胜任的
+
 select:   
-  title: 
-  text: ____ [sɪˈlekt] v. 选择，挑选  a. 精选的，优等的
+  title: select
+  text: |
+    __select__ [sɪˈlekt] v. 选择，挑选  
+
+    __select__ a. 精选的，优等的
+
 loose:   
-  title: 
-  text: ____ [luːs] a. 松的；散漫的；不精确的
+  title: loose
+  text: __loose__ [luːs] a. 松的；散漫的；不精确的
+
 available:   
-  title: 
-  text: ____ [əˈveɪləbl] a. 可获得的，可得到的；可用的；有空的
+  title: available
+  text: _available___ [əˈveɪləbl] a. 可获得的，可得到的；可用的；有空的
+
 illustration:   
-  title: 
-  text: ____ [ˌɪləˈstreɪʃn] n. 说明；实例；图解，插图
+  title: illustration
+  text: __illustration__ [ˌɪləˈstreɪʃn] n. 说明；实例；图解，插图
+
 slice:   
-  title: 
-  text: ____ [slaɪs] v. 把……切成片，削  n. 薄片，切片；份，部分
+  title: slice
+  text: |
+    __slice__ [slaɪs] v. 把……切成片，削  
+
+    __slice__ n. 薄片，切片；份，部分
+
 waterfront:   
-  title: 
-  text: ____ [ˈwɔ:təfrʌnt] n. 滨水路，滨水区，码头区
+  title: waterfront
+  text: __waterfront__ [ˈwɔ:təfrʌnt] n. 滨水路，滨水区，码头区
+
 generic:   
-  title: 
-  text: ____ [dʒɪˈnerɪk] a. 一般的，普通的，通用的；种的，属的
+  title: generic
+  text: __generic__ [dʒɪˈnerɪk] a. 一般的，普通的，通用的；种的，属的
+
 cricket:   
-  title: 
-  text: ____ [ˈkrɪkɪt] n. 板球；蟋蟀
+  title: cricket
+  text: __cricket__ [ˈkrɪkɪt] n. 板球；蟋蟀
+
 exhale:   
-  title: 
-  text: ____ [eksˈheɪl] v. 呼出（气）；散发（气味、蒸气等）
+  title: exhale
+  text: __exhale__ [eksˈheɪl] v. 呼出（气）；散发（气味、蒸气等）
+
 creation:   
-  title: 
-  text: ____ [kriːˈeɪʃn] n. 创造；作品
+  title: creation
+  text: __creation__ [kriːˈeɪʃn] n. 创造；作品
+
 corporate:   
-  title: 
-  text: ____ [ˈkɔːpərət] a. 团体的，共同的；法人的，公司的
+  title: corporate
+  text: __corpeorate__ [ˈkɔːpərət] a. 团体的，共同的；法人的，公司的
+
 swell:   
-  title: 
-  text: ____ [swel] v. 膨胀；增长，增强
+  title: swell
+  text: __swell__ [swel] v. 膨胀；增长，增强
+
 synthesis:   
-  title: 
-  text: ____ [ˈsɪnθəsɪs] n. 综合，合成；综合体
+  title: synthesis
+  text: __synthesis__ [ˈsɪnθəsɪs] n. 综合，合成；综合体
+
 excreta:   
-  title: 
-  text: ____ [ɪkˈskriːtə] n. 排泄物
+  title: excreta
+  text: __excreta__ [ɪkˈskriːtə] n. 排泄物
+
 decapitate:   
-  title: 
-  text: ____ [dɪˈkæpɪteɪt] vt. 斩首
+  title: decapitate
+  text: __decapitate__ [dɪˈkæpɪteɪt] vt. 斩首
+
 pepper:   
-  title: 
-  text: ____ [ˈpepə(r)] n. 胡椒（粉）  vt. 在……上撒（胡椒粉等）
+  title: pepper
+  text: |
+    __pepper__ [ˈpepə(r)] n. 胡椒（粉）  
+
+    __pepper__ vt. 在……上撒（胡椒粉等）
+
 groan:   
-  title: 
-  text: ____ [grəun] vi. 呻吟；叹息  n. 呻吟声，叹息声
+  title: groan
+  text: |
+    __groan__ [grəun] vi. 呻吟；叹息  
+
+    __groan__ n. 呻吟声，叹息声
+
 diminish:   
-  title: 
-  text: ____ [dɪˈmɪnɪʃ] v. 减少；降低；贬低，轻视
+  title: diminish
+  text: __diminish__ [dɪˈmɪnɪʃ] v. 减少；降低；贬低，轻视
+
 naive:   
-  title: 
-  text: ____ [naɪˈiːv] a. 幼稚的，天真的，不成熟的
+  title: naive
+  text: __naive__ [naɪˈiːv] a. 幼稚的，天真的，不成熟的
+
 upset:   
   title: 
-  text: ____ [ʌpˈset] vt. 使苦恼；搅乱；推翻，颠倒:   
-  title: 
-  text: ____ [ˏʌpˈset] a. 心烦的；（肠胃等）不适的
+  text: |
+    __upset__ [ʌpˈset] vt. 使苦恼；搅乱；推翻，颠倒
+
+    __upset__ [ˏʌpˈset] a. 心烦的；（肠胃等）不适的
+
 appeal:   
-  title: 
-  text: ____ [əˈpiːl] vi. 呼吁；起诉，上诉；吸引  n. 上诉，申诉；呼吁；感染力，吸引力
+  title: appeal
+  text: |
+    __appeal__ [əˈpiːl] vi. 呼吁；起诉，上诉；吸引  
+
+    __appeal__ n. 上诉，申诉；呼吁；感染力，吸引力
+
 consumption:   
-  title: 
-  text: ____ [kənˈsʌmpʃn] n. 消耗（量）；消费（量）
+  title: consumption
+  text: __comsumption__ [kənˈsʌmpʃn] n. 消耗（量）；消费（量）
+
 caution:   
-  title: 
-  text: ____ [ˈkɔːʃn] n. 谨慎，小心  v. 提醒，警告
+  title: caution
+  text: |
+    __caution__ [ˈkɔːʃn] n. 谨慎，小心  
+
+    __caution__ v. 提醒，警告
+
 average:   
-  title: 
-  text: ____ [ˈævərɪdʒ] n. 平均（数）  a. 平均的；平常的，普通的  v. 平均达到；平均为
+  title: average
+  text: |
+    __average__ [ˈævərɪdʒ] n. 平均（数）  
+
+    __average__ a. 平均的；平常的，普通的  
+
+    __average__ v. 平均达到；平均为
+
 blonde:   
-  title: 
-  text: ____ [blɒnd] a. （人）白肤金发碧眼的  n. 白肤金发碧眼的女人
+  title: blonde
+  text: |
+    __blonde__ [blɒnd] a. （人）白肤金发碧眼的  
+
+    __blonde__ n. 白肤金发碧眼的女人
+
 burst:   
-  title: 
-  text: ____ [bɜːst] v. （使）爆炸；突然发作；破裂  n. 爆炸
+  title: burst
+  text: |
+    __burst__ [bɜːst] v. （使）爆炸；突然发作；破裂  
+
+    __burst__ n. 爆炸
+
 ecology:   
-  title: 
-  text: ____ [iːˈkɔlədʒɪ] n. 生态，生态学；生态环境
+  title: ecology
+  text: __ecology__ [iːˈkɔlədʒɪ] n. 生态，生态学；生态环境
+
 profession:   
-  title: 
-  text: ____ [prəˈfeʃn] n. 行业，职业；宣称，表白
-for instance 例如
+  title: profession
+  text: __profession__ [prəˈfeʃn] n. 行业，职业；宣称，表白
+
+for-instance:   
+  title: for instance
+  text: for instance 例如
+
 transit:   
-  title: 
-  text: ____ [ˈtrænsɪt; ˈtrænzɪt] n. 运输，运载  v. 通过，经过；中转
+  title: transit
+  text: |
+    __transit__ [ˈtrænsɪt; ˈtrænzɪt] n. 运输，运载  
+
+    __transit__ v. 通过，经过；中转
+
 medieval:   
-  title: 
-  text: ____ [ˏmedɪˈiːvl] a. 中世纪的；中古（时代）的
+  title: medieval
+  text: __medieval__ [ˏmedɪˈiːvl] a. 中世纪的；中古（时代）的
+
 behave:   
-  title: 
-  text: ____ [bɪˈheɪv] v. 表现；（机器等）运转；（事物）起作用；表现得体；使检点
+  title: behave
+  text: __behave__ [bɪˈheɪv] v. 表现；（机器等）运转；（事物）起作用；表现得体；使检点
+
 devastating:   
-  title: 
-  text: ____ [ˈdevəsteɪtɪŋ] a. 毁灭性的；强有力的
+  title: devastating
+  text: __devastationg__ [ˈdevəsteɪtɪŋ] a. 毁灭性的；强有力的
+
 dredge:   
-  title: 
-  text: ____ [dredʒ] v. 挖掘；疏浚；挖出，吸出；重提（不愉快或令人难堪的）旧事
+  title: dredge
+  text: __dredge__ [dredʒ] v. 挖掘；疏浚；挖出，吸出；重提（不愉快或令人难堪的）旧事
+
 launch:   
-  title: 
-  text: ____ [lɔːntʃ] vt. 将……投放市场；开始从事，发动，发起；发射  n. 发射；（产品）上市
+  title: launch
+  text: |
+    __launch__ [lɔːntʃ] vt. 将……投放市场；开始从事，发动，发起；发射  
+
+    __launch__ n. 发射；（产品）上市
+
 
 
 
