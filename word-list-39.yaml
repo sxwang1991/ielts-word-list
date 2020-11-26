@@ -7,250 +7,371 @@
 
 estimate:   
   title: 
-  text: ____ [ˈestɪmeɪt] v. 估计，估量；估价；评价:   
-  title: 
-  text: ____ [ˈestɪmət] n. 估计，估量；估价；评价
-tick off:   
-  title: 
-  text: ____ [tik ɔf] 用记号勾出，给……打核对号
+  text: |
+    __estimate__ [ˈestɪmeɪt] v. 估计，估量；估价；评价
+
+    __estimate__ [ˈestɪmət] n. 估计，估量；估价；评价
+
+tick-off:   
+  title: tick off
+  text: __tick off__ [tik ɔf] 用记号勾出，给……打核对号
+
 livelihood:   
-  title: 
-  text: ____ [ˈlaɪvlɪhud] n. 生活，生计
+  title: livelihood
+  text: __livelihood__ [ˈlaɪvlɪhud] n. 生活，生计
+
 manufacture:   
-  title: 
-  text: ____ [ˌmænjʊ'fæktʃə(r)] vt. 大量制造，成批生产  n. 大量制造；工业品
+  title: manufacture
+  text: |
+    __manufactory__ [ˌmænjʊ'fæktʃə(r)] vt. 大量制造，成批生产  
+
+    __manufactory__ n. 大量制造；工业品
+
 censure:   
-  title: 
-  text: ____ [ˈsenʃə(r)] vt./n. 指责，谴责，责难
+  title: censure
+  text: __censure__ [ˈsenʃə(r)] vt./n. 指责，谴责，责难
+
 voltage:   
-  title: 
-  text: ____ [ˈvəʊltɪdʒ] n. 电压
+  title: voltage
+  text: __voltage__ [ˈvəʊltɪdʒ] n. 电压
+
 logic:   
-  title: 
-  text: ____ [ˈlɔdʒɪk] n. 逻辑；逻辑学
+  title: logic
+  text: __logic__ [ˈlɔdʒɪk] n. 逻辑；逻辑学
+
 metro:   
-  title: 
-  text: ____ [ˈmetrəu] n. 地下铁路
+  title: metro
+  text: __metro__ [ˈmetrəu] n. 地下铁路
+
 enroll:   
-  title: 
-  text: ____ [ɪn'rəʊl] v. 入学，登记；加入；招收
+  title: enroll
+  text: __enroll__ [ɪn'rəʊl] v. 入学，登记；加入；招收
+
 civilization:   
-  title: 
-  text: ____ [ˏsɪvəlaɪˈzeɪʃn] n. 文明（社会），文化
+  title: civilization
+  text: __civilization__ [ˏsɪvəlaɪˈzeɪʃn] n. 文明（社会），文化
+
 compendium:   
-  title: 
-  text: ____ [kəmˈpendɪəm] n. 简要，概略
+  title: compendium
+  text: __compendium__ [kəmˈpendɪəm] n. 简要，概略
+
 embark:   
-  title: 
-  text: ____ [ɪmˈbɑːk] v. （使）上船或飞机；（使）从事
+  title: embark
+  text: __embark__ [ɪmˈbɑːk] v. （使）上船或飞机；（使）从事
+
 deserve:   
-  title: 
-  text: ____ [dɪˈzɜːv] v. 应得；值得
+  title: deserve
+  text: __deserve__ [dɪˈzɜːv] v. 应得；值得
+
 eject:   
-  title: 
-  text: ____ [ɪˈdʒekt] v. 弹出；喷出；驱逐，逐出
+  title: eject
+  text: __eject__ [ɪˈdʒekt] v. 弹出；喷出；驱逐，逐出
+
 verification:   
-  title: 
-  text: ____ [ˌverɪfɪ'keɪʃn] n. 确认
+  title: verification
+  text: __verification__ [ˌverɪfɪ'keɪʃn] n. 确认
+
 autoimmune:   
-  title: 
-  text: ____ [ˌɔ:təʊɪˈmju:n] a. 自身免疫的
+  title: autoimmune
+  text: __autoimmune__ [ˌɔ:təʊɪˈmju:n] a. 自身免疫的
+
 inheritance:   
-  title: 
-  text: ____ [ɪn'herɪtəns] n. 遗传；继承，继承物；遗产，遗赠
+  title: inheritance
+  text: __inheritance__ [ɪn'herɪtəns] n. 遗传；继承，继承物；遗产，遗赠
+
 relentless:   
-  title: 
-  text: ____ [rɪˈlentləs] a. 无情的，残酷的
+  title: relentless
+  text: __relentless__ [rɪˈlentləs] a. 无情的，残酷的
+
 requisite:   
-  title: 
-  text: ____ [ˈrekwɪzɪt] a. （情况）需要的；（成功）必要的  n. 必需品；要素
+  title: requisite
+  text: |
+    __requisite__ [ˈrekwɪzɪt] a. （情况）需要的；（成功）必要的  
+
+    __requisite__ n. 必需品；要素
+
 dizziness:   
-  title: 
-  text: ____ ['dɪzɪnəs] n. 头昏眼花，眩晕
+  title: dizziness
+  text: __dizziness__ ['dɪzɪnəs] n. 头昏眼花，眩晕
+
 periphery:   
-  title: 
-  text: ____ [pəˈrɪfərɪ] n. 不重要的部分；外围
+  title: periphery
+  text: __periphery__ [pəˈrɪfərɪ] n. 不重要的部分；外围
+
 credential:   
-  title: 
-  text: ____ [krəˈdenʃl] n. 证明书；（学历、资历）资格证书；证件
+  title: credential
+  text: __credential__ [krəˈdenʃl] n. 证明书；（学历、资历）资格证书；证件
+
 facsimile:   
-  title: 
-  text: ____ [fækˈsɪməlɪ] n. 复制品；副本
+  title: facsimile
+  text: __facsimile__ [fækˈsɪməlɪ] n. 复制品；副本
+
 reel:   
-  title: 
-  text: ____ [riːl] n. 卷轴，卷筒，卷盘，线轴  v. 摇摇晃晃地移动，蹒跚；眩晕，发昏；卷，绕
+  title: reel
+  text: |
+    __reel__ [riːl] n. 卷轴，卷筒，卷盘，线轴  
+
+    __reel__ v. 摇摇晃晃地移动，蹒跚；眩晕，发昏；卷，绕
+
 churn:   
-  title: 
-  text: ____ [tʃɜːn] n. （制作黄油用的）搅乳器；  v. 用搅乳器搅拌；剧烈搅动；猛烈翻滚；反胃，恶心
+  title: churn
+  text: |
+    __churn__ [tʃɜːn] n. （制作黄油用的）搅乳器；  
+
+    __churn__ v. 用搅乳器搅拌；剧烈搅动；猛烈翻滚；反胃，恶心
+
 nocturnal:   
-  title: 
-  text: ____ [nɔkˈtɜːnl] a. 夜晚的；夜晚发生的；夜晚活动的
+  title: nocturnal
+  text: __nocturnal__ [nɔkˈtɜːnl] a. 夜晚的；夜晚发生的；夜晚活动的
+
 obstruct:   
-  title: 
-  text: ____ [əbˈstrʌkt] v. 妨碍，阻止；阻塞；截断
+  title: obstruct
+  text: __obstruct__ [əbˈstrʌkt] v. 妨碍，阻止；阻塞；截断
+
 prohibitive:   
-  title: 
-  text: ____ [prəˈhɪbətɪv] a. 禁止的，抑制的；令人望而却步的
+  title: prohibitive
+  text: __prohibitive__ [prəˈhɪbətɪv] a. 禁止的，抑制的；令人望而却步的
+
 navigation:   
-  title: 
-  text: ____ [ˌnævɪˈgeɪʃn] n. 航空，航海，航行；导航，领航
+  title: navigation
+  text: __navigation__ [ˌnævɪˈgeɪʃn] n. 航空，航海，航行；导航，领航
+
 entwine:   
-  title: 
-  text: ____ [ɪnˈtwaɪn] vt. 使缠住，使盘绕
+  title: entwine
+  text: __entwine__ [ɪnˈtwaɪn] vt. 使缠住，使盘绕
+
 monumental:   
-  title: 
-  text: ____ [ˏmɔnjuˈmentl] a. 纪念碑的，纪念物的；不朽的，有重大意义的
+  title: monumental
+  text: __monumental__ [ˏmɔnjuˈmentl] a. 纪念碑的，纪念物的；不朽的，有重大意义的
+
 reiterate:   
-  title: 
-  text: ____ [riːˈɪtəreɪt] vt. 重复，反复；反复地说，重申
+  title: reiterate
+  text: __reiterate__ [riːˈɪtəreɪt] vt. 重复，反复；反复地说，重申
+
 jeopardise:   
-  title: 
-  text: ____ [ˈdʒepədaɪz] vt. 危害，使受危困
+  title: jeopardise
+  text: __jeopardise__ [ˈdʒepədaɪz] vt. 危害，使受危困
+
 peripheral:   
-  title: 
-  text: ____ [pəˈrɪfərəl] a. 外围的；次要的，附带的  n. 外围设备
+  title: peripheral
+  text: |
+    __peripheral__ [pəˈrɪfərəl] a. 外围的；次要的，附带的  
+
+    __peripheral__ n. 外围设备
+
 elusive:   
-  title: 
-  text: ____ [ɪˈluːsɪv] a. 难懂的，难捉摸的；易忘的
+  title: elusive
+  text: __elusive__ [ɪˈluːsɪv] a. 难懂的，难捉摸的；易忘的
+
 distinctive:   
-  title: 
-  text: ____ [dɪˈstɪŋktɪv] a. 出众的；有特色的
+  title: distinctive
+  text: __distinctive_ [dɪˈstɪŋktɪv] a. 出众的；有特色的
+
 board:   
-  title: 
-  text: ____ [bɔːd] n. 板；委员会
+  title: board
+  text: __board__ [bɔːd] n. 板；委员会
+
 decompression:   
-  title: 
-  text: ____ [ˌdi:kəmˈpreʃn] n. 减压；减压室
+  title: decompression
+  text: __decompression__ [ˌdi:kəmˈpreʃn] n. 减压；减压室
+
 prevalent:   
-  title: 
-  text: ____ [ˈprevələnt] a. 流行的，普遍的
+  title: prevalent
+  text: __prevalent__ [ˈprevələnt] a. 流行的，普遍的
+
 twist:   
-  title: 
-  text: ____ [twɪst] v. 缠绕；捻；扭曲，弯曲  n. 弯曲
+  title: twist
+  text: |
+    __twist__ [twɪst] v. 缠绕；捻；扭曲，弯曲  
+
+    __twist__ n. 弯曲
+
 rent:   
-  title: 
-  text: ____ [rent] v. 租借；出租  n. 租金
+  title: rent
+  text: |
+    __rent__ [rent] v. 租借；出租  
+
+    __rent__ n. 租金
+
 eminent:   
-  title: 
-  text: ____ [ˈemɪnənt] a. 杰出的，显赫的
+  title: eminent
+  text: __eminent__ [ˈemɪnənt] a. 杰出的，显赫的
+
 crescent:   
-  title: 
-  text: ____ [ˈkresnt] n. 新月，月牙；新月形（物）  a. 新月形的
+  title: crescent
+  text: |
+    __crescent__ [ˈkresnt] n. 新月，月牙；新月形（物）  
+
+    __crescent__ a. 新月形的
+
 sucker:   
-  title: 
-  text: ____ [ˈsʌkə(r)] n. 吸盘；吸根，根出条
+  title: sucker
+  text: __sucker__ [ˈsʌkə(r)] n. 吸盘；吸根，根出条
+
 calm:   
-  title: 
-  text: ____ [kɑːm] a. 镇静的；平静的  v. （使）平静，（使）镇静
+  title: calm
+  text: |
+    __calm__ [kɑːm] a. 镇静的；平静的  
+
+    __calm__ v. （使）平静，（使）镇静
+
 scope:   
-  title: 
-  text: ____ [skəup] n. 眼界，见识；（活动、影响等的）范围；（发挥能力等的）余地，机会
+  title: scope
+  text: __scope__ [skəup] n. 眼界，见识；（活动、影响等的）范围；（发挥能力等的）余地，机会
+
 cooperate:   
-  title: 
-  text: ____ [kəuˈɔpəreɪt] vi. 合作，协作
+  title: cooperate
+  text: __cooperate__ [kəuˈɔpəreɪt] vi. 合作，协作
+
 applaud:   
-  title: 
-  text: ____ [əˈplɔːd] v. （向……）鼓掌，喝彩；称赞
+  title: applaud
+  text: __applaud__ [əˈplɔːd] v. （向……）鼓掌，喝彩；称赞
+
 appraisal:   
-  title: 
-  text: ____ [əˈpreɪzl] n. 评估，评价
+  title: appraisal
+  text: __appraisal__ [əˈpreɪzl] n. 评估，评价
+
 allowance:   
-  title: 
-  text: ____ [əˈlauəns] n. 津贴；允许，容忍
+  title: allowance
+  text: __allowance__ [əˈlauəns] n. 津贴；允许，容忍
+
 heir:   
-  title: 
-  text: ____ [eə(r)] n. 继承人
+  title: heir
+  text: __heir__ [eə(r)] n. 继承人
+
 exploit:   
-  title: 
-  text: ____ [ɪkˈsplɔɪt] vt. 剥削；开发，开拓；利用:   
-  title: 
-  text: ____ [ˈeksplɔɪt] n. 英勇行为；业绩，功绩
+  title: exploit
+  text: |
+    __exploit__ [ɪkˈsplɔɪt] vt. 剥削；开发，开拓；利用
+
+    __exploit__ [ˈeksplɔɪt] n. 英勇行为；业绩，功绩
+
 domestic:   
-  title: 
-  text: ____ [dəˈmestɪk] a. 本国的；家庭的；驯养的
+  title: domestic
+  text: __domestic__ [dəˈmestɪk] a. 本国的；家庭的；驯养的
+
 unexpected:   
-  title: 
-  text: ____ [ʌnɪkˈspektɪd] a. 想不到的，意外的
+  title: unexpected
+  text: __unexpected__ [ʌnɪkˈspektɪd] a. 想不到的，意外的
+
 counsel:   
-  title: 
-  text: ____ [ˈkaunsl] n. 律师，法律顾问；建议，忠告  v. 商议，劝告
+  title: counsel
+  text: |
+    __counsel__ [ˈkaunsl] n. 律师，法律顾问；建议，忠告  
+
+    __counsel__ v. 商议，劝告
+
 sticky:   
-  title: 
-  text: ____ [ˈstɪkɪ] a. 黏性的；（天气）湿热的
+  title: sticky
+  text: __sticky__ [ˈstɪkɪ] a. 黏性的；（天气）湿热的
+
 competition:   
-  title: 
-  text: ____ [ˏkɔmpəˈtɪʃn] n. 竞争；比赛
+  title: competition
+  text: __competition__ [ˏkɔmpəˈtɪʃn] n. 竞争；比赛
+
 responsible:   
-  title: 
-  text: ____ [rɪˈspɔnsəbl] a. 有责任感的；可靠的
+  title: responsible
+  text: __responsible__ [rɪˈspɔnsəbl] a. 有责任感的；可靠的
+
 critic:   
-  title: 
-  text: ____ [ˈkrɪtɪk] n. 批评家；爱挑剔的人
+  title: critic
+  text: __critic__ [ˈkrɪtɪk] n. 批评家；爱挑剔的人
+
 extensive:   
-  title: 
-  text: ____ [ɪkˈstensɪv] a. 广大的，广阔的；广泛的
+  title: extensive
+  text: __extensive__ [ɪkˈstensɪv] a. 广大的，广阔的；广泛的
+
 corridor:   
-  title: 
-  text: ____ [ˈkɔrɪdɔː(r)] n. 过道，走廊
+  title: corridor
+  text: __corridor__ [ˈkɔrɪdɔː(r)] n. 过道，走廊
+
 imagine:   
-  title: 
-  text: ____ [ɪˈmædʒɪn] v. 想象；猜想
+  title: imagine
+  text: __imagine__ [ɪˈmædʒɪn] v. 想象；猜想
+
 interact:   
-  title: 
-  text: ____ [ˏɪntərˈækt] vt. 相互作用；相互影响
+  title: interact
+  text: __interact__ [ˏɪntərˈækt] vt. 相互作用；相互影响
+
 starchy:   
-  title: 
-  text: ____ ['stɑ:tʃɪ] a. 含淀粉的
+  title: starchy
+  text: __starchy__ ['stɑ:tʃɪ] a. 含淀粉的
+
 trivial:   
-  title: 
-  text: ____ [ˈtrɪvɪəl] a. 无价值的，琐屑的；平庸的，普通的
+  title: trivial
+  text: __trivial__ [ˈtrɪvɪəl] a. 无价值的，琐屑的；平庸的，普通的
+
 exorbitant:   
-  title: 
-  text: ____ [ɪgˈzɔːbɪtənt] a. 过分的，不合理的
+  title: exorbitant
+  text: __exorbitant__ [ɪgˈzɔːbɪtənt] a. 过分的，不合理的
+
 large-scale:   
-  title: 
-  text: ____ [lɑ:dʒ skeɪl] a. 大规模的，大范围的
+  title: large-scale
+  text: __large-scale__ [lɑ:dʒ skeɪl] a. 大规模的，大范围的
+
 region:   
-  title: 
-  text: ____ [ˈriːdʒən] n. 地区；范围
+  title: region
+  text: __region__ [ˈriːdʒən] n. 地区；范围
+
 alternate:   
-  title: 
-  text: ____ [ˈɔːltəneɪt] v. （使）轮流，（使）交替:   
-  title: 
-  text: ____ [ɔːlˈtɜːnət] a. 轮流的；间隔的；交替的
+  title: alternate
+  text: |
+    __alternate__ [ˈɔːltəneɪt] v. （使）轮流，（使）交替
+
+    __alternate__ [ɔːlˈtɜːnət] a. 轮流的；间隔的；交替的
+
 steer:   
-  title: 
-  text: ____ [stɪə(r)] v. 引导；驾驶
+  title: steer
+  text: __steer__ [stɪə(r)] v. 引导；驾驶
+
 bargain:   
-  title: 
-  text: ____ [ˈbɑːgɪn] vi. 讨价还价  n. 协议；交易；便宜货
+  title: bargain
+  text: |
+    __bargain__ [ˈbɑːgɪn] vi. 讨价还价  
+
+    __bargain__ n. 协议；交易；便宜货
+
 infection:   
-  title: 
-  text: ____ [ɪnˈfekʃn] n. 传染，感染，侵染，传播；传染病
+  title: infection
+  text: __infection__ [ɪnˈfekʃn] n. 传染，感染，侵染，传播；传染病
+
 conservative:   
-  title: 
-  text: ____ [kənˈsɜːvətɪv] a. 保守的；传统的；守旧的  n. 保守的人
+  title: conservative
+  text: |
+    __conservative__ [kənˈsɜːvətɪv] a. 保守的；传统的；守旧的  
+
+    __conservative__ n. 保守的人
+
 spin:   
-  title: 
-  text: ____ [spɪn] v. （使）旋转  n. 旋转
+  title: spin
+  text: |
+    __spin__ [spɪn] v. （使）旋转  
+
+    __spin__ n. 旋转
+
 personnel:   
-  title: 
-  text: ____ [ˏpɜːsəˈnel] n. 全体人员，员工
+  title: personnel
+  text: __personnel__ [ˏpɜːsəˈnel] n. 全体人员，员工
+
 liver:   
-  title: 
-  text: ____ [ˈlɪvə(r)] n. 生活者，居住者；肝脏
+  title: liver
+  text: __liver__ [ˈlɪvə(r)] n. 生活者，居住者；肝脏
+
 inflammable:   
-  title: 
-  text: ____ [ɪnˈflæməbl] a. 易燃的；易怒的
+  title: inflammable
+  text: __inflammable__ [ɪnˈflæməbl] a. 易燃的；易怒的
+
 disfigure:   
-  title: 
-  text: ____ [dɪsˈfɪgə(r)] vt. 使毁容，使变丑
+  title: disfigure
+  text: __disfigure__ [dɪsˈfɪgə(r)] vt. 使毁容，使变丑
+
 surf:   
-  title: 
-  text: ____ [sɜːf] v. 冲浪
+  title: surf
+  text: __surf__ [sɜːf] v. 冲浪
+
 swear:   
-  title: 
-  text: ____ [sweə(r)] v. 宣（誓）；诅咒
+  title: swear
+  text: __swear__ [sweə(r)] v. 宣（誓）；诅咒
 
 
 
