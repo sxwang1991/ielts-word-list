@@ -6,244 +6,358 @@
 
 
 create:   
-  title: 
-  text: ____ [kriːˈeɪt] vt. 创造，创作；产生
+  title: create
+  text: __create__ [kriːˈeɪt] vt. 创造，创作；产生
+
 mime:   
-  title: 
-  text: ____ [maɪm] v. 模拟，模仿  n. 哑剧表演；哑剧演员
+  title: mime
+  text: |
+    __mime__ [maɪm] v. 模拟，模仿  
+
+    __mime__ n. 哑剧表演；哑剧演员
+
 impose:   
-  title: 
-  text: ____ [ɪmˈpəuz] v. 把……强加于；征（税等）；处以（罚款、监禁等）
+  title: impose
+  text: __impose__ [ɪmˈpəuz] v. 把……强加于；征（税等）；处以（罚款、监禁等）
+
 likelihood:   
-  title: 
-  text: ____ [ˈlaɪklihʊd] n. 可能；可能性
+  title: likelihood
+  text: __likelihood__ [ˈlaɪklihʊd] n. 可能；可能性
+
 explode:   
-  title: 
-  text: ____ [ɪkˈspləud] v. （使）爆炸；爆发；激增
+  title: explode
+  text: __explode__ [ɪkˈspləud] v. （使）爆炸；爆发；激增
+
 spectacular:   
-  title: 
-  text: ____ [spekˈtækjulə(r)] a. 壮观的；令人惊叹的  n. 壮观的场面；精彩的表演
+  title: spectacular
+  text: |
+    __spectacular__ [spekˈtækjulə(r)] a. 壮观的；令人惊叹的  
+
+    __spectacular__ n. 壮观的场面；精彩的表演
+
 enormous:   
-  title: 
-  text: ____ [ɪˈnɔːməs] a. 巨大的，庞大的，极大的
+  title: enormous
+  text: __enormous__ [ɪˈnɔːməs] a. 巨大的，庞大的，极大的
+
 counterproductive:   
-  title: 
-  text: ____ [ˌkaʊntəprəˈdʌktɪv] a. 产生相反效果的，适得其反的
+  title: counterproductive
+  text: __counterproductive__ [ˌkaʊntəprəˈdʌktɪv] a. 产生相反效果的，适得其反的
+
 variant:   
-  title: 
-  text: ____ [ˈveərɪənt] a. 不同的  n. 变量；变体
+  title: variant
+  text: |
+    __variant__ [ˈveərɪənt] a. 不同的  
+
+    __variant__ n. 变量；变体
+
 healing:   
-  title: 
-  text: ____ ['hi:lɪŋ] n. 康复，复原  a. 有治疗作用的
+  title: healing
+  text: |
+    __healing__ ['hi:lɪŋ] n. 康复，复原  
+
+    __healing__ a. 有治疗作用的
+
 autocratic:   
-  title: 
-  text: ____ [ˌɔ:tə'krætɪk] a. 独裁的，专制的
+  title: autocratic
+  text: __autocratic__ [ˌɔ:tə'krætɪk] a. 独裁的，专制的
+
 emulate:   
-  title: 
-  text: ____ [ˈemjuleɪt] vt. 与……竞争，赶上；仿真，模仿
+  title: emulate
+  text: __emulate__ [ˈemjuleɪt] vt. 与……竞争，赶上；仿真，模仿
+
 disastrous:   
-  title: 
-  text: ____ [dɪˈzɑ:strəs] a. 损失惨重的，灾难性的；极坏的
+  title: disastrous
+  text: __disastrous__ [dɪˈzɑ:strəs] a. 损失惨重的，灾难性的；极坏的
+
 topple:   
-  title: 
-  text: ____ [ˈtɔpl] v. 倒塌，倒下；打倒，推翻
+  title: topple
+  text: __topple__ [ˈtɔpl] v. 倒塌，倒下；打倒，推翻
+
 resilience:   
-  title: 
-  text: ____ [rɪˈzɪliəns] n. 弹性，弹力；复原力；适应性；（指人）乐观的性情
+  title: resilience
+  text: __resilience__ [rɪˈzɪliəns] n. 弹性，弹力；复原力；适应性；（指人）乐观的性情
+
 collateral:   
-  title: 
-  text: ____ [kəˈlætərəl] a. 并行的；间接的，附带的
+  title: collateral
+  text: __collateral__ [kəˈlætərəl] a. 并行的；间接的，附带的
+
 colossal:   
-  title: 
-  text: ____ [kəˈlɔsl] a. 巨大的，庞大的
+  title: colossal
+  text: __colossal__ [kəˈlɔsl] a. 巨大的，庞大的
+
 tackle:   
-  title: 
-  text: ____ [ˈtækl] v. 对付，处理；向某人提起（问题或困难情况）；（足球等比赛中）抢截，抢球
+  title: tackle
+  text: _tackle___ [ˈtækl] v. 对付，处理；向某人提起（问题或困难情况）；（足球等比赛中）抢截，抢球
+
 coordinate:   
-  title: 
-  text: ____ [kəʊ'ɔ:dɪneɪt] v. 调整，协调:   
-  title: 
-  text: ____ [kəuˈɔːdɪnət] n. 同等者，同等物  a. 同等的，并列的
+  title: coordinate
+  text: |
+    __coordinate__ [kəʊ'ɔ:dɪneɪt] v. 调整，协调
+
+    __coordinate__ [kəuˈɔːdɪnət] n. 同等者，同等物  
+
+    __coordinate__ a. 同等的，并列的
+
 supplementary:   
-  title: 
-  text: ____ [ˏsʌplɪˈmentrɪ] a. 增补的，补充的
+  title: supplementary
+  text: __supplementary__ [ˏsʌplɪˈmentrɪ] a. 增补的，补充的
+
 scrutiny:   
-  title: 
-  text: ____ [ˈskruːtɪnɪ] n. 详细检查，细看；监视
+  title: scrutiny
+  text: __scrutiny__ [ˈskruːtɪnɪ] n. 详细检查，细看；监视
+
 cognition:   
-  title: 
-  text: ____ [kɔgˈnɪʃn] n. 感知，认知；认识力
+  title: cognition
+  text: __cognition__ [kɔgˈnɪʃn] n. 感知，认知；认识力
+
 repel:   
-  title: 
-  text: ____ [rɪˈpel] vt. 击退，驱逐；抵制，拒绝；使反感，使厌恶
+  title: repel
+  text: __repel__ [rɪˈpel] vt. 击退，驱逐；抵制，拒绝；使反感，使厌恶
+
 domesticate:   
-  title: 
-  text: ____ [dəˈmestɪkeɪt] vt. 驯养，教化；使喜爱家居生活
+  title: domesticate
+  text: __domesticate__ [dəˈmestɪkeɪt] vt. 驯养，教化；使喜爱家居生活
+
 exhaustive:   
-  title: 
-  text: ____ [ɪgˈzɔːstɪv] a. 包揽无遗的，彻底的，详尽的
+  title: exhaustive
+  text: __exhaustive__ [ɪgˈzɔːstɪv] a. 包揽无遗的，彻底的，详尽的
+
 calibrate:   
-  title: 
-  text: ____ [ˈkælɪbreɪt] vt. 标定，划分；校准刻度
+  title: calibrate
+  text: __calibrate__ [ˈkælɪbreɪt] vt. 标定，划分；校准刻度
+
 descend:   
-  title: 
-  text: ____ [dɪˈsend] v. 下来，下降；遗传
+  title: descend
+  text: __descend__ [dɪˈsend] v. 下来，下降；遗传
+
 frontier:   
-  title: 
-  text: ____ [ˈfrʌntɪə(r)] n. 边境，边界；开发地区的边缘地带；:   
-  title: 
-  text: ____ [常pl.] 前沿，新领域
+  title: frontier
+  text: __frontier__ [ˈfrʌntɪə(r)] n. 边境，边界；开发地区的边缘地带；[常pl.] 前沿，新领域
+
 fascinating:   
-  title: 
-  text: ____ [ˈfæsɪneɪtɪŋ] a. 迷人的
+  title: fascinating
+  text: __fascinating__ [ˈfæsɪneɪtɪŋ] a. 迷人的
+
 stroke:   
   title: 
-  text: ____ [strəuk] n. 击，打；（病）突然发作，中风；（体育中的）击球；笔触，一笔；（游泳或划船的）划，划法；一击；报时的钟声；抚摸  vt. 抚摸
+  text: |
+    __stroke__ [strəuk] n. 击，打；（病）突然发作，中风；（体育中的）击球；笔触，一笔；（游泳或划船的）划，划法；一击；报时的钟声；抚摸  
+
+    __stroke__ vt. 抚摸
+
 solar:   
-  title: 
-  text: ____ [ˈsəulə(r)] a. 太阳的；（利用）太阳能的
+  title: solar
+  text: __solar__ [ˈsəulə(r)] a. 太阳的；（利用）太阳能的
+
 sympathise:   
-  title: 
-  text: ____ ['sɪmpəθaɪz] vi. 同情；赞同
+  title: sympathise
+  text: __sympathise__ ['sɪmpəθaɪz] vi. 同情；赞同
+
 fusion:   
-  title: 
-  text: ____ [ˈfjuːʒn] n. 熔化，熔合；聚变
+  title: fusion
+  text: __fusion__ [ˈfjuːʒn] n. 熔化，熔合；聚变
+
 slash:   
-  title: 
-  text: ____ [slæʃ] n. 砍痕，伤痕；斜线号  v. 砍；大幅度消减
+  title: slash
+  text: |
+    __slash__ [slæʃ] n. 砍痕，伤痕；斜线号  
+
+    __slash__ v. 砍；大幅度消减
+
 diversity:   
-  title: 
-  text: ____ [daɪˈvɜːsətɪ] n. 多样性；差异
+  title: diversity
+  text: __diversity__ [daɪˈvɜːsətɪ] n. 多样性；差异
+
 decline:   
-  title: 
-  text: ____ [dɪˈklaɪn] n./v. 下降，减少；衰退，衰落
+  title: decline 
+  text: __decline__ [dɪˈklaɪn] n./v. 下降，减少；衰退，衰落
+
 crisis:   
-  title: 
-  text: ____ [ˈkraɪsɪs] n. 危机；紧要关头，关键阶段
+  title: crisis
+  text: __crisis__ [ˈkraɪsɪs] n. 危机；紧要关头，关键阶段
+
 edible:   
-  title: 
-  text: ____ [ˈedəbl] a. 可食用的
+  title: edible
+  text: __edible__ [ˈedəbl] a. 可食用的
+
 collaboration:   
-  title: 
-  text: ____ [kəˌlæbəˈreɪʃn] n. 合作，协作；勾结，通敌
+  title: collaboration
+  text: __collaboration__ [kəˌlæbəˈreɪʃn] n. 合作，协作；勾结，通敌
+
 decouple:   
-  title: 
-  text: ____ [di:'kʌpl] v. 减弱，减少
+  title: decouple
+  text: __decouple__ [di:'kʌpl] v. 减弱，减少
+
 participant:   
-  title: 
-  text: ____ [pɑ:ˈtɪsɪpənt] n. 参加者，参与者
+  title: participant
+  text: __participant__ [pɑ:ˈtɪsɪpənt] n. 参加者，参与者
+
 weaken:   
-  title: 
-  text: ____ ['wi:kən] v. （使）变弱，（使）减弱
+  title: weaken
+  text: __weaken__ ['wi:kən] v. （使）变弱，（使）减弱
+
 distract:   
-  title: 
-  text: ____ [dɪˈstrækt] vt. 转移（注意力）；使分心
+  title: distract
+  text: __distract__ [dɪˈstrækt] vt. 转移（注意力）；使分心
+
 frown:   
-  title: 
-  text: ____ [fraun] vi. （表示愤怒或烦心而）皱眉
+  title: frown
+  text: __frown__ [fraun] vi. （表示愤怒或烦心而）皱眉
+
 skew:   
-  title: 
-  text: ____ [skjuː] vt. 使偏；曲解  a. 歪斜的
+  title: skew
+  text: |
+    __skew__ [skjuː] vt. 使偏；曲解  
+
+    __skew__ a. 歪斜的
+
 glove:   
-  title: 
-  text: ____ [glʌv] n. 手套
+  title: glove
+  text: __glove__ [glʌv] n. 手套
+
 beehive:   
-  title: 
-  text: ____ [ˈbi:haɪv] n. 蜂窝；蜂箱
+  title: beehive
+  text: __beehive__ [ˈbi:haɪv] n. 蜂窝；蜂箱
+
 astray:   
-  title: 
-  text: ____ [əˈstreɪ] ad. 迷路地；误入歧途地
+  title: astray
+  text: __astray__ [əˈstreɪ] ad. 迷路地；误入歧途地
+
 theory:   
-  title: 
-  text: ____ [ˈθɪərɪ] n. 理论，原理；学说；意见，看法
+  title: theory
+  text: __theory__ [ˈθɪərɪ] n. 理论，原理；学说；意见，看法
+
 weakness:   
-  title: 
-  text: ____ [ˈwi:knəs] n. 虚弱；缺点；偏好，嗜好
+  title: weakness
+  text: __weakness__ [ˈwi:knəs] n. 虚弱；缺点；偏好，嗜好
+
 portion:   
-  title: 
-  text: ____ [ˈpɔːʃn] n. 部分；一份  vt. 划分，分配
+  title: portion
+  text: |
+    __portion__ [ˈpɔːʃn] n. 部分；一份  
+
+    __portion__ vt. 划分，分配
+
 compound:   
-  title: 
-  text: ____ [kəmˈpaund] vt. 使恶化，加重；使化合，使合成:   
-  title: 
-  text: ____ [ˈkɔmpaund] n. 化合物，复合物；（有围墙或篱笆等的）楼群，大院  a. 复合的，化合的；综合的
+  title: compound
+  text: |
+    __compound__ [kəmˈpaund] vt. 使恶化，加重；使化合，使合成
+
+    __compound__ [ˈkɔmpaund] n. 化合物，复合物；（有围墙或篱笆等的）楼群，大院  
+
+    __compound__ a. 复合的，化合的；综合的
+
 span:   
-  title: 
-  text: ____ [spæn] n. 跨距；一段时间  v. 横跨；持续
+  title: span
+  text: |
+    __span__ [spæn] n. 跨距；一段时间  
+
+    __span__ v. 横跨；持续
+
 vacancy:   
-  title: 
-  text: ____ [ˈveɪkənsɪ] n. 空位，空房间；（职位的）空缺，空职；无主意，空虚，茫然若失
+  title: vacancy
+  text: __vacancy__ [ˈveɪkənsɪ] n. 空位，空房间；（职位的）空缺，空职；无主意，空虚，茫然若失
+
 locality:   
-  title: 
-  text: ____ [ləuˈkælətɪ] n. 位置；地区
+  title: locality
+  text: __locality__ [ləuˈkælətɪ] n. 位置；地区
+
 circle:   
-  title: 
-  text: ____ [ˈsɜːkl] n. 圆；圈，环状物；圈子，阶层；周期，循环  v. 圈出；盘旋，环绕……移动
+  title: circle
+  text: |
+    __circle__ [ˈsɜːkl] n. 圆；圈，环状物；圈子，阶层；周期，循环  
+
+    __circle__ v. 圈出；盘旋，环绕……移动
+
 accuracy:   
-  title: 
-  text: ____ [ˈækjərəsɪ] n. 准确（性），精确（性）
+  title: accuracy
+  text: __accuracy__ [ˈækjərəsɪ] n. 准确（性），精确（性）
+
 tolerate:   
-  title: 
-  text: ____ [ˈtɔləreɪt] vt. 容忍，宽容；容许，承认
+  title: tolerate
+  text: __tolerate__ [ˈtɔləreɪt] vt. 容忍，宽容；容许，承认
+
 afford:   
-  title: 
-  text: ____ [əˈfɔːd] v. 负担得起
+  title: afford
+  text: __afford__ [əˈfɔːd] v. 负担得起
+
 excellent:   
-  title: 
-  text: ____ [ˈeksələnt] a. 极好的；杰出的
+  title: excellent
+  text: __excellent__ [ˈeksələnt] a. 极好的；杰出的
+
 connect:   
-  title: 
-  text: ____ [kəˈnekt] v. 连接，衔接；联合，关联；由……联想到；给……接通电话
+  title: connect
+  text: __connect__ [kəˈnekt] v. 连接，衔接；联合，关联；由……联想到；给……接通电话
+
 cylinder:   
-  title: 
-  text: ____ [ˈsɪlɪndə(r)] n. 圆柱体；圆筒；汽缸
+  title: cylinder
+  text: __cylinder__ [ˈsɪlɪndə(r)] n. 圆柱体；圆筒；汽缸
+
 disadvantage:   
-  title: 
-  text: ____ [ˏdɪsədˈvɑːntɪdʒ] n. 缺点，不利
+  title: disadvantage
+  text: __disadvantage__ [ˏdɪsədˈvɑːntɪdʒ] n. 缺点，不利
+
 participate:   
-  title: 
-  text: ____ [pɑːˈtɪsɪpeɪt] vi. 参加，参与
+  title: participate
+  text: __participate__ [pɑːˈtɪsɪpeɪt] vi. 参加，参与
+
 principle:   
-  title: 
-  text: ____ [ˈprɪnsəpl] n. 原则，原理；规范，准则；基本信念，信条
+  title: principle
+  text: __principle__ [ˈprɪnsəpl] n. 原则，原理；规范，准则；基本信念，信条
+
 refreshment:   
-  title: 
-  text: ____ [rɪˈfreʃmənt] n. （精力的）恢复；:   
-  title: 
-  text: ____ [pl.] 茶点，点心，饮料
+  title: refreshment
+  text: __refreshment__ [rɪˈfreʃmənt] n. （精力的）恢复；[pl.] 茶点，点心，饮料
+
 deteriorate:   
-  title: 
-  text: ____ [dɪˈtɪərɪəreɪt] v. 变坏，恶化；退化
+  title: deteriorate
+  text: __deteriorate__ [dɪˈtɪərɪəreɪt] v. 变坏，恶化；退化
+
 scorching:   
-  title: 
-  text: ____ [ˈskɔ:tʃɪŋ] a. 酷热的；激烈的
+  title: sorching
+  text: __scorching__ [ˈskɔ:tʃɪŋ] a. 酷热的；激烈的
+
 meantime:   
-  title: 
-  text: ____ [ˈmiːntaɪm] n. 其时  ad. 同时，当时
+  title: meantime
+  text: |
+    __meantime__ [ˈmiːntaɪm] n. 其时  
+
+    __meantime__ ad. 同时，当时
+
 townscape:   
-  title: 
-  text: ____ [ˈtaʊnskeɪp] n. 市镇风光
+  title: townscape
+  text: __townscape__ [ˈtaʊnskeɪp] n. 市镇风光
+
 upper:   
-  title: 
-  text: ____ [ˈʌpə(r)] a. 上面的；地位较高的
+  title: upper
+  text: __upper__ [ˈʌpə(r)] a. 上面的；地位较高的
+
 innocent:   
-  title: 
-  text: ____ [ˈɪnəsnt] a. 清白的；无害的；天真的
+  title: innocent
+  text: __innocent__ [ˈɪnəsnt] a. 清白的；无害的；天真的
+
 emphasis:   
-  title: 
-  text: ____ [ˈemfəsɪs] n. 强调；重要性
+  title: emphasis
+  text: __emphasis__ [ˈemfəsɪs] n. 强调；重要性
+
 approach:   
-  title: 
-  text: ____ [əˈprəutʃ] v. 靠近，接近；来临  n. 靠近，接近；方法，途径
+  title: approach
+  text: |
+    __approach__ [əˈprəutʃ] v. 靠近，接近；来临  
+
+    __approach__ n. 靠近，接近；方法，途径
+
 duration:   
-  title: 
-  text: ____ [djuˈreɪʃn] n. 持续，持续的时间，期间
+  title: duration
+  text: __duration__ [djuˈreɪʃn] n. 持续，持续的时间，期间
+
 primarily:   
-  title: 
-  text: ____ [praɪˈmerəli] ad. 首先；主要地，首要地
+  title: primarily
+  text: __primarily__ [praɪˈmerəli] ad. 首先；主要地，首要地
+
 due:   
-  title: 
-  text: ____ [djuː] a. 到期的，预期的；应有的，应得的；正当的
+  title: due
+  text: __due__ [djuː] a. 到期的，预期的；应有的，应得的；正当的
 
 
 
