@@ -15654,228 +15654,337 @@ insert:
 
 
 
-in-addition-to 除……之外
+in-addition-to:   
+  title: in addition to 
+  text:  in addition to 除……之外
+
 certificate:   
-  title: 
-  text: ____ [səˈtɪfɪkət] n. 证书，执照
+  title: certificate
+  text: __certificate__ [səˈtɪfɪkət] n. 证书，执照
+
 severe:   
-  title: 
-  text: ____ [sɪˈvɪə(r)] a. 严重的；严厉的；剧烈的
+  title: severe
+  text: __severe__ [sɪˈvɪə(r)] a. 严重的；严厉的；剧烈的
+
 diameter:   
-  title: 
-  text: ____ [daɪˈæmɪtə(r)] n. 直径
+  title: diameter
+  text: __diamiter__ [daɪˈæmɪtə(r)] n. 直径
+
 gesture:   
-  title: 
-  text: ____ [ˈdʒestʃə(r)] n. 姿势，姿态；手势  v. 做手势
+  title: gesture
+  text: |
+    __gesture__ [ˈdʒestʃə(r)] n. 姿势，姿态；手势  
+
+    __gesture__ v. 做手势
+
 disclose:   
-  title: 
-  text: ____ [dɪsˈkləuz] vt. 揭露；透露；公开
+  title: disclose
+  text: __disclose__ [dɪsˈkləuz] vt. 揭露；透露；公开
+
 sheer:   
-  title: 
-  text: ____ [ʃɪə(r)] a. 十足的；纯粹的；陡峭的
+  title: sheer
+  text: __sheer__ [ʃɪə(r)] a. 十足的；纯粹的；陡峭的
+
 successive:   
-  title: 
-  text: ____ [səkˈsesɪv] a. 连续的
+  title: successive
+  text: __successive__ [səkˈsesɪv] a. 连续的
+
 balance:   
-  title: 
-  text: ____ [ˈbæləns] n. 平衡；余额  vt. 平衡
+  title: balance
+  text: |
+    __balance__ [ˈbæləns] n. 平衡；余额  
+
+    __banlance__ vt. 平衡
+
 adjust:   
-  title: 
-  text: ____ [əˈdʒʌst] v. 校准；调节；使……适应
+  title: adjust
+  text: __adjust__ [əˈdʒʌst] v. 校准；调节；使……适应
+
 require:   
-  title: 
-  text: ____ [rɪˈkwaɪə(r)] vt. 需要；命令；规定，要求
+  title: require
+  text: __require__ [rɪˈkwaɪə(r)] vt. 需要；命令；规定，要求
+
 fairly:   
-  title: 
-  text: ____ [feəlɪ] ad. 相当地；公平地；简直，完全地
+  title: fairly
+  text: __fairly__ [feəlɪ] ad. 相当地；公平地；简直，完全地
+
 precise:   
-  title: 
-  text: ____ [prɪˈsaɪs] a. 精确的，准确的；严谨的
+  title: precise
+  text: __precise__ [prɪˈsaɪs] a. 精确的，准确的；严谨的
+
 colour-blind:   
-  title: 
-  text: ____ ['kʌlə(r) blaɪnd] a. 色盲的
+  title: colour-blind
+  text: __colour-blind__ ['kʌlə(r) blaɪnd] a. 色盲的
+
 trustworthy:   
-  title: 
-  text: ____ [ˈtrʌstwɜ:ði] a. 值得信赖的，可靠的
+  title: trustworthy
+  text: __trustworthy__ [ˈtrʌstwɜ:ði] a. 值得信赖的，可靠的
+
 vomit:   
-  title: 
-  text: ____ [ˈvɔmɪt] n. 呕吐，呕吐物；催吐剂  v. 呕吐，恶心；喷出
+  title: vomit 
+  text: |
+    __vomit__ [ˈvɔmɪt] n. 呕吐，呕吐物；催吐剂  
+
+    __vomit__ v. 呕吐，恶心；喷出
+
 wrestle:   
-  title: 
-  text: ____ [ˈresl] v. 摔跤；全力对付；用力移动
+  title: wrestle
+  text: __wrestle__ [ˈresl] v. 摔跤；全力对付；用力移动
+
 adolescence:   
-  title: 
-  text: ____ [ˏædəˈlesns] n. 青春，青春期
+  title: adolescence
+  text: __adolescence__ [ˏædəˈlesns] n. 青春，青春期
+
 captivity:   
-  title: 
-  text: ____ [kæpˈtɪvəti] n. 囚禁，拘留
+  title: captivity
+  text: __captivity__ [kæpˈtɪvəti] n. 囚禁，拘留
+
 commerce:   
-  title: 
-  text: ____ [ˈkɔmɜːs] n. 贸易，商业；交往，交流
+  title: commerce
+  text: __commerce__ [ˈkɔmɜːs] n. 贸易，商业；交往，交流
+
 condensation:   
-  title: 
-  text: ____ [ˏkɔndenˈseɪʃn] n. 浓缩，凝结
+  title: condensation
+  text: __condensatioin__ [ˏkɔndenˈseɪʃn] n. 浓缩，凝结
+
 facial:   
-  title: 
-  text: ____ [ˈfeɪʃl] a. 面部的；面部用的
+  title: facial
+  text: __facial__ [ˈfeɪʃl] a. 面部的；面部用的
+
 herbal:   
-  title: 
-  text: ____ [ˈhɜ:bəl] a. 草本植物的；药草（制）的  n. 草本植物志；药草书
+  title: herbal
+  text: |
+    __herbal__ [ˈhɜ:bəl] a. 草本植物的；药草（制）的  
+
+    __herbal__ n. 草本植物志；药草书
+
 hover:   
-  title: 
-  text: ____ [ˈhɔvə(r)] v. （鸟等）翱翔，盘旋；逗留在近旁，徘徊；彷徨，犹豫
+  title: hover
+  text: __hover__ [ˈhɔvə(r)] v. （鸟等）翱翔，盘旋；逗留在近旁，徘徊；彷徨，犹豫
+
 imprecise:   
-  title: 
-  text: ____ [ˏɪmprɪˈsaɪs] a. 不精确的，不严密的
+  title: imprecise
+  text: __imprecise__ [ˏɪmprɪˈsaɪs] a. 不精确的，不严密的
+
 inactive:   
-  title: 
-  text: ____ [ɪnˈæktɪv] a. 不活动的；懒散的
+  title: inactive
+  text: __inactive__ [ɪnˈæktɪv] a. 不活动的；懒散的
+
 initiate:   
-  title: 
-  text: ____ [ɪˈnɪʃɪeɪt] vt. 开始，创造，发起；接纳（成员），让……加入:   
-  title: 
-  text: ____ [ɪˈnɪʃɪət] n. （新）加入组织者
+  title: initiate
+  text: |
+    __initiate__ [ɪˈnɪʃɪeɪt] vt. 开始，创造，发起；接纳（成员），让……加入
+
+    __initiate__ [ɪˈnɪʃɪət] n. （新）加入组织者
+
 longitude:   
-  title: 
-  text: ____ [ˈlɔndʒɪtjuːd] n. 经度，经线
+  title: longitude
+  text: __longitude__ [ˈlɔndʒɪtjuːd] n. 经度，经线
+
 procrastinate:   
-  title: 
-  text: ____ [prəuˈkræstɪneɪt] v. 耽搁，拖延
+  title: porscrastinate
+  text: __proscrastinate__ [prəuˈkræstɪneɪt] v. 耽搁，拖延
+
 rarity:   
-  title: 
-  text: ____ [ˈreərətɪ] n. 稀有；稀有的事物
+  title: rarity
+  text: __rarity__ [ˈreərətɪ] n. 稀有；稀有的事物
+
 seclude:   
-  title: 
-  text: ____ [sɪˈkluːd] vt. 使隔离，使孤立
+  title: seclude
+  text: __seclude__ [sɪˈkluːd] vt. 使隔离，使孤立
+
 ongoing:   
-  title: 
-  text: ____ [ˈɔngəuɪŋ] a. 进行中的  n. 前进，发展
+  title: ongoing
+  text: |
+    __ongoing_ [ˈɔngəuɪŋ] a. 进行中的  
+
+    __ongoing__ n. 前进，发展
+
 almond:   
-  title: 
-  text: ____ [ˈɑːmənd] n. 杏树；杏仁
+  title: almond
+  text: __almond__ [ˈɑːmənd] n. 杏树；杏仁
+
 feed:   
-  title: 
-  text: ____ [fiːd] v. 喂养，为……提供食物；吃，以……为食  n. 饲料
+  title: feed
+  text: |
+    __feed__ [fiːd] v. 喂养，为……提供食物；吃，以……为食  
+
+    __feed__ n. 饲料
+
 scenery:   
-  title: 
-  text: ____ [ˈsiːnərɪ] n. 舞台布景；风景，景色
+  title: scenery
+  text: __scenery__ [ˈsiːnərɪ] n. 舞台布景；风景，景色
+
 stagnate:   
-  title: 
-  text: ____ [stægˈneɪt] v. （使）停滞；不发展
+  title: stagnate
+  text: __stagnate__ [stægˈneɪt] v. （使）停滞；不发展
+
 ozone:   
-  title: 
-  text: ____ [ˈəuzəun] n. 臭氧
+  title: ozone
+  text: __ozone__ [ˈəuzəun] n. 臭氧
+
 tap:   
-  title: 
-  text: ____ [tæp] v. 轻拍；利用，开发
+  title: tap
+  text: __tap__ [tæp] v. 轻拍；利用，开发
+
 owe:   
-  title: 
-  text: ____ [əu] vt. 欠；把……归功于
+  title: owe
+  text: __owe__ [əu] vt. 欠；把……归功于
+
 ministry:   
-  title: 
-  text: ____ [ˈmɪnɪstrɪ] n. （政府的）部
+  title: ministry
+  text: __ministry__ [ˈmɪnɪstrɪ] n. （政府的）部
+
 laser:   
-  title: 
-  text: ____ [ˈleɪzə(r)] n. 激光
+  title: laser
+  text: __laser__ [ˈleɪzə(r)] n. 激光
+
 individual:   
-  title: 
-  text: ____ [ˏɪndɪˈvɪdʒuəl] a. 个别的，单独的；独特的  n. 个人，个体
+  title: individual
+  text: |
+    __individual__ [ˏɪndɪˈvɪdʒuəl] a. 个别的，单独的；独特的  
+
+    __individual__ n. 个人，个体
+
 association:   
-  title: 
-  text: ____ [əˏsəusɪˈeɪʃn] n. 协会
+  title: association
+  text: __association__ [əˏsəusɪˈeɪʃn] n. 协会
+
 tempt:   
-  title: 
-  text: ____ [tempt] vt. 引诱；吸引
+  title: tempt
+  text: __tempt__ [tempt] vt. 引诱；吸引
+
 beneath:   
-  title: 
-  text: ____ [bɪˈniːθ] prep./ad. 在下方
+  title: beneath
+  text: __beneath__ [bɪˈniːθ] prep./ad. 在下方
+
 naturally:   
-  title: 
-  text: ____ [ˈnætʃrəlɪ] ad. 当然，自然；天生地
+  title: naturally
+  text: __naturally__ [ˈnætʃrəlɪ] ad. 当然，自然；天生地
+
 microscope:   
-  title: 
-  text: ____ [ˈmaɪkrəskəup] n. 显微镜
+  title: microscope
+  text: __micorscope__ [ˈmaɪkrəskəup] n. 显微镜
+
 estate:   
-  title: 
-  text: ____ [ɪˈsteɪt] n. 个人财产，（尤指）遗产；土地，地产，（尤指）庄园
+  title: estate
+  text: __estate__ [ɪˈsteɪt] n. 个人财产，（尤指）遗产；土地，地产，（尤指）庄园
+
 discourage:   
-  title: 
-  text: ____ [dɪˈskʌrɪdʒ] vt. 使泄气，使灰心；阻止，劝阻
+  title: discourage
+  text: __discourage__ [dɪˈskʌrɪdʒ] vt. 使泄气，使灰心；阻止，劝阻
+
 briefcase:   
-  title: 
-  text: ____ [ˈbriːfkeɪs] n. 公文包
+  title: briefcase
+  text: __briefcase__ [ˈbriːfkeɪs] n. 公文包
+
 candidate:   
-  title: 
-  text: ____ [ˈkændɪdət] n. 候选人，候补者；申请求职者；报考者
+  title: candidate
+  text: __candidate__ [ˈkændɪdət] n. 候选人，候补者；申请求职者；报考者
+
 melt:   
-  title: 
-  text: ____ [melt] v. （使）融化；（使）消散
+  title: melt
+  text: __melt__ [melt] v. （使）融化；（使）消散
+
 shrug:   
-  title: 
-  text: ____ [ʃrʌg] n./v. 耸肩
+  title: shrug
+  text: __shrug__ [ʃrʌg] n./v. 耸肩
+
 frightened:   
-  title: 
-  text: ____ [ˈfraɪtnd] a. 受惊的；受恐吓的
+  title: fringhtened
+  text: __frightened__ [ˈfraɪtnd] a. 受惊的；受恐吓的
+
 relax:   
-  title: 
-  text: ____ [rɪ'læks] v. （使）放松
+  title: relax
+  text: __relax__ [rɪ'læks] v. （使）放松
+
 aerospace:   
-  title: 
-  text: ____ [ˈeərəuspeɪs] n. 宇宙空间；航空航天技术
+  title: aerospace
+  text: __aerospace__ [ˈeərəuspeɪs] n. 宇宙空间；航空航天技术
+
 suppose:   
-  title: 
-  text: ____ [səˈpəuz] v. 假想，假定，猜想，推测；[用于祈使句] 假定，让；[常用于被动语态] 期望做（某事），认为应该做（某事）
+  title: suppose
+  text: __suppose__ [səˈpəuz] v. 假想，假定，猜想，推测；[用于祈使句] 假定，让；[常用于被动语态] 期望做（某事），认为应该做（某事）
+
 tenable:   
-  title: 
-  text: ____ [ˈtenəbl] a. 站得住脚的；可防守的
+  title: tenable
+  text: __tenable__ [ˈtenəbl] a. 站得住脚的；可防守的
+
 sustain:   
-  title: 
-  text: ____ [səˈsteɪn] v. 支撑，撑住，承受住；维持，保持；经受，遭受，忍耐
+  title: sustain
+  text: __sustain__ [səˈsteɪn] v. 支撑，撑住，承受住；维持，保持；经受，遭受，忍耐
+
 straw:   
-  title: 
-  text: ____ [strɔː] n. 稻草；吸管
+  title: straw
+  text: __straw__ [strɔː] n. 稻草；吸管
+
 border:   
-  title: 
-  text: ____ [ˈbɔːdə(r)] n. 边缘；边界  v. 与……接壤；接近，毗邻
+  title: border
+  text: |
+    __border__ [ˈbɔːdə(r)] n. 边缘；边界  
+
+    __border__ v. 与……接壤；接近，毗邻
+
 dispenser:   
-  title: 
-  text: ____ [dɪˈspensə(r)] n. 药剂师，配药师；分配者，施予者；自动售货机
+  title: dispenser
+  text: __dispenser__ [dɪˈspensə(r)] n. 药剂师，配药师；分配者，施予者；自动售货机
+
 receiver:   
-  title: 
-  text: ____ [rɪˈsiːvə(r)] n. （电话）听筒；接收器
+  title: receiver
+  text: __receiver__ [rɪˈsiːvə(r)] n. （电话）听筒；接收器
+
 monopoly:   
-  title: 
-  text: ____ [məˈnɔpəlɪ] n. 垄断，专卖；垄断商品，专卖商品
+  title: monopoly
+  text: __monopoly__ [məˈnɔpəlɪ] n. 垄断，专卖；垄断商品，专卖商品
+
 bureaucracy:   
-  title: 
-  text: ____ [bjuəˈrɔkrəsɪ] n. 官僚主义；官僚机构
+  title: bureaucracy
+  text: __bureaucracy__ [bjuəˈrɔkrəsɪ] n. 官僚主义；官僚机构
+
 construction:   
-  title: 
-  text: ____ [kənˈstrʌkʃn] n. 建造；建筑物；构造
+  title: construction
+  text: __construction__ [kənˈstrʌkʃn] n. 建造；建筑物；构造
+
 endorse:   
-  title: 
-  text: ____ [ɪnˈdɔːs] vt. 支持，赞同
+  title: endorse
+  text: __endorse__ [ɪnˈdɔːs] vt. 支持，赞同
+
 embryo:   
-  title: 
-  text: ____ [ˈembrɪəu] n. 胚，胚胎；事物的萌芽期
+  title: embryo
+  text: __embryo__ [ˈembrɪəu] n. 胚，胚胎；事物的萌芽期
+
 silicon:   
-  title: 
-  text: ____ [ˈsɪlɪkən] n. 硅
+  title: silicon
+  text: __silicon__ [ˈsɪlɪkən] n. 硅
+
 intelligence:   
-  title: 
-  text: ____ [ɪnˈtelɪdʒəns] n. 智力，理解力；情报
+  title: intelligence
+  text: __intelligence__ [ɪnˈtelɪdʒəns] n. 智力，理解力；情报
+
 mature:   
-  title: 
-  text: ____ [məˈtjuə(r)] a. 成熟的；深思熟虑的  v. （使）成熟
+  title: mature
+  text: |
+    __mature__ [məˈtjuə(r)] a. 成熟的；深思熟虑的  
+    
+    __mature__ v. （使）成熟
+
 discard:   
-  title: 
-  text: ____ [dɪˈskɑːd] vt. 丢弃，遗弃
+  title: discard
+  text: __discard__ [dɪˈskɑːd] vt. 丢弃，遗弃
+
 membership:   
-  title: 
-  text: ____ [ˈmembəʃɪp] n. 会员身份；全体会员
+  title: membership
+  text: __membership__ [ˈmembəʃɪp] n. 会员身份；全体会员
+
 roast:   
   title: 
-  text: ____ [rəust] a. 烤过的  n. 烤肉  v. 烤，炙
+  text: |
+    __roast__ [rəust] a. 烤过的  
+
+    __roast__ n. 烤肉  
+
+    __roast__ v. 烤，炙
+
 
 
 
@@ -15890,251 +15999,379 @@ roast:
 
 
 computerize:   
-  title: 
-  text: ____ [kəm'pju:təraɪz] vt. 使计算机化；用计算机做；用计算机储存（信息）
+  title: computerize
+  text: __computarize__ [kəm'pju:təraɪz] vt. 使计算机化；用计算机做；用计算机储存（信息）
+
 popularize:   
-  title: 
-  text: ____ ['pɒpjələraɪz] vt. 宣扬，宣传，推广；使普及，使通俗化
+  title: popularize
+  text: __popularize__ ['pɒpjələraɪz] vt. 宣扬，宣传，推广；使普及，使通俗化
+
 devalue:   
-  title: 
-  text: ____ [ˏdiːˈvæljuː] v. 使（货币）贬值；贬低
+  title: devalue
+  text: __devalue__ [ˏdiːˈvæljuː] v. 使（货币）贬值；贬低
+
 ferry:   
-  title: 
-  text: ____ [ˈferɪ] n. 渡船；摆渡  v. 渡运
+  title: ferry
+  text: |
+    __ferry__ [ˈferɪ] n. 渡船；摆渡  
+
+    __ferry__ v. 渡运
+
 iron:   
-  title: 
-  text: ____ [ˈaɪən] n. 铁；烙铁，熨斗  v. （用熨斗）熨，烫平
+  title: iron
+  text: |
+    __iron__ [ˈaɪən] n. 铁；烙铁，熨斗  
+
+    __iron__ v. （用熨斗）熨，烫平
+
 bully:   
-  title: 
-  text: ____ [ˈbulɪ] n. 恃强凌弱者  vt. 恐吓；胁迫，欺负
+  title: bully
+  text: |
+    __bully__ [ˈbulɪ] n. 恃强凌弱者  
+
+    __bully__ vt. 恐吓；胁迫，欺负
+
 storyline:   
-  title: 
-  text: ____ [ˈstɔ:rilaɪn] n. 故事情节
+  title: storyline
+  text: __storyline__ [ˈstɔ:rilaɪn] n. 故事情节
+
 orbit:   
-  title: 
-  text: ____ [ˈɔːbɪt] n. 轨道；影响范围，势力范围  v. 沿轨道运行；围绕……运动
+  title: orbit
+  text: |
+    __orbit__ [ˈɔːbɪt] n. 轨道；影响范围，势力范围  
+
+    __orbit__ v. 沿轨道运行；围绕……运动
+
 combat:   
-  title: 
-  text: ____ [ˈkɔmbæt] n. 战斗，搏斗  vt. 战斗，与……搏斗；防止
+  title: combat
+  text: |
+    __combat__ [ˈkɔmbæt] n. 战斗，搏斗  
+
+    __combat__ vt. 战斗，与……搏斗；防止
+
 slothful:   
-  title: 
-  text: ____ [ˈsləuθfəl] a. 怠惰的，懒惰的；迟钝的
+  title: slothful
+  text: __slothful__ [ˈsləuθfəl] a. 怠惰的，懒惰的；迟钝的
+
 catastrophic:   
-  title: 
-  text: ____ [ˌkætə'strɒfɪk] a. 悲惨的；灾难性的
+  title: catastrophic
+  text: __catastrophic__ [ˌkætə'strɒfɪk] a. 悲惨的；灾难性的
+
 abide:   
-  title: 
-  text: ____ [əˈbaɪd] v. 停留，逗留；容忍，忍受
+  title: abide
+  text: __abide__ [əˈbaɪd] v. 停留，逗留；容忍，忍受
+
 allure:   
-  title: 
-  text: ____ [əˈluə(r)] n./v. 诱惑，吸引
+  title: allure
+  text: __allure__ [əˈluə(r)] n./v. 诱惑，吸引
+
 oxygen:   
-  title: 
-  text: ____ [ˈɔksɪdʒən] n. 氧，氧气
+  title: oxygen
+  text: __oxygen__ [ˈɔksɪdʒən] n. 氧，氧气
+
 pervasive:   
-  title: 
-  text: ____ [pəˈveɪsɪv] a. 遍布的，弥漫的
+  title: prevasive
+  text: __prevasive__ [pəˈveɪsɪv] a. 遍布的，弥漫的
+
 encroach:   
-  title: 
-  text: ____ [ɪnˈkrəutʃ] vi. 侵入，侵占，侵犯；侵蚀，蚕食（土地）
+  title: encroach
+  text: __encroach__ [ɪnˈkrəutʃ] vi. 侵入，侵占，侵犯；侵蚀，蚕食（土地）
+
 fantastic:   
-  title: 
-  text: ____ [fænˈtæstɪk] a. 极好的；荒诞的，奇异的；不切实际的
+  title: fantastic
+  text: __fantastic__ [fænˈtæstɪk] a. 极好的；荒诞的，奇异的；不切实际的
+
 abhorrent:   
-  title: 
-  text: ____ [əbˈhɒrənt] a. 可恶的，可恨的
+  title: abhorrent
+  text: __abhorrent__ [əbˈhɒrənt] a. 可恶的，可恨的
+
 inflict:   
-  title: 
-  text: ____ [ɪnˈflɪkt] vt. 把……强加给，使遭受，使承受
+  title: inflict
+  text: __inflict__ [ɪnˈflɪkt] vt. 把……强加给，使遭受，使承受
+
 tilt:   
-  title: 
-  text: ____ [tɪlt] v. （使）倾斜，倾侧；（使）倾向于，偏向  n. 倾斜，倾侧
+  title: tilt
+  text: |
+    __tilt__ [tɪlt] v. （使）倾斜，倾侧；（使）倾向于，偏向  
+
+    __tilt__ n. 倾斜，倾侧
+
 mosquito:   
-  title: 
-  text: ____ [məsˈkiːtəu] n. 蚊子
+  title: mosquito
+  text: __mosquito__ [məsˈkiːtəu] n. 蚊子
+
 offensive:   
-  title: 
-  text: ____ [əˈfensɪv] a. 冒犯的；使人不快的；无礼的；攻击性的，进攻性的  n. 进攻，攻击；攻势
+  title: offensive 
+  text: |
+    __offensive__ [əˈfensɪv] a. 冒犯的；使人不快的；无礼的；攻击性的，进攻性的  
+
+    __offensive__ n. 进攻，攻击；攻势
+
 extravagant:   
-  title: 
-  text: ____ [ɪkˈstrævəgənt] a. 奢侈的，铺张的；（言行等）无节制的，过分的，放肆的
+  title: extravagant
+  text: __extravagant__ [ɪkˈstrævəgənt] a. 奢侈的，铺张的；（言行等）无节制的，过分的，放肆的
+
 begrimed:   
-  title: 
-  text: ____ [bɪ'graɪmd] a. 污秽的
+  title: begrimed
+  text: __begrimed__ [bɪ'graɪmd] a. 污秽的
+
 ruthless:   
-  title: 
-  text: ____ [ˈru:θləs] a. 无情的，冷酷的，残忍的
+  title: ruthless
+  text: __ruthless__ [ˈru:θləs] a. 无情的，冷酷的，残忍的
+
 jargon:   
-  title: 
-  text: ____ [ˈdʒɑːgən] n. 行话，行业术语；黑话
+  title: jargon
+  text: __jargon__ [ˈdʒɑːgən] n. 行话，行业术语；黑话
+
 diverse:   
-  title: 
-  text: ____ [daɪˈvɜːs] a. 不同的，多样的
+  title: diverse
+  text: __diverse__ [daɪˈvɜːs] a. 不同的，多样的
+
 extinguish:   
-  title: 
-  text: ____ [ɪkˈstɪŋgwɪʃ] vt. 熄灭，扑灭；消灭，使破灭
+  title: extinguish
+  text: __extinguish__ [ɪkˈstɪŋgwɪʃ] vt. 熄灭，扑灭；消灭，使破灭
+
 estrange:   
-  title: 
-  text: ____ [ɪˈstreɪndʒ] vt. 使疏远，使分离
+  title: estrange
+  text: __estrange__ [ɪˈstreɪndʒ] vt. 使疏远，使分离
+
 neoclassical:   
-  title: 
-  text: ____ [ˏniːəuˈklæsɪkl] a. 新古典主义的
+  title: neoclassical
+  text: __neoclassical__ [ˏniːəuˈklæsɪkl] a. 新古典主义的
+
 biased:   
-  title: 
-  text: ____ [ˈbaɪəst] a. 有偏见的；片面的
+  title: biased
+  text: __biased__ [ˈbaɪəst] a. 有偏见的；片面的
+
 grimy:   
-  title: 
-  text: ____ ['ɡraɪmɪ] a. 积满污垢的，肮脏的
+  title: grimy
+  text: __grimy__ ['ɡraɪmɪ] a. 积满污垢的，肮脏的
+
 enhancer:   
-  title: 
-  text: ____ [ɪnˈhɑ:nsə(r)] n. 增强剂；放大器
+  title: enhancer
+  text: __enhancer__ [ɪnˈhɑ:nsə(r)] n. 增强剂；放大器
+
 ulterior:   
-  title: 
-  text: ____ [ʌlˈtɪərɪə(r)] a. 较远的；不可告人的，隐秘的，秘密的
+  title: ulterior
+  text: __ulterior__ [ʌlˈtɪərɪə(r)] a. 较远的；不可告人的，隐秘的，秘密的
+
 corrupt:   
-  title: 
-  text: ____ [kəˈrʌpt] v. 腐化，腐蚀；使堕落；破坏，损坏；（计算机文件等）出错  a. 堕落的，腐化的；腐败的，贪污的
+  title: corrupt
+  text: |
+    __corrupt__ [kəˈrʌpt] v. 腐化，腐蚀；使堕落；破坏，损坏；（计算机文件等）出错  
+
+    __corrupt__ a. 堕落的，腐化的；腐败的，贪污的
+
 stringent:   
-  title: 
-  text: ____ [ˈstrɪndʒənt] a. （法律、规则等）严格的，苛刻的；（财政状况）紧缩的，短缺的，银根紧的；迫切的
+  title: stringent
+  text: __stringent__ [ˈstrɪndʒənt] a. （法律、规则等）严格的，苛刻的；（财政状况）紧缩的，短缺的，银根紧的；迫切的
+
 novice:   
-  title: 
-  text: ____ [ˈnɔvɪs] n. 生手，新手；初学者；新信徒，初学修士（或修女）
+  title: novice
+  text: __novice__ [ˈnɔvɪs] n. 生手，新手；初学者；新信徒，初学修士（或修女）
+
 hinder:   
-  title: 
-  text: ____ [ˈhɪndə(r)] vt. 阻碍，妨碍
+  title: hinder
+  text: __hinder__ [ˈhɪndə(r)] vt. 阻碍，妨碍
+
 impoverished:   
-  title: 
-  text: ____ [ɪmˈpɒvərɪʃt] a. 穷困的，赤贫的；贫乏的，贫瘠的；枯竭的
+  title: impoverished
+  text: ___impoverished_ [ɪmˈpɒvərɪʃt] a. 穷困的，赤贫的；贫乏的，贫瘠的；枯竭的
+
 shallow:   
-  title: 
-  text: ____ [ˈʃæləu] a. 浅的；肤浅的，浅薄的
+  title: shallow
+  text: __shallow__ [ˈʃæləu] a. 浅的；肤浅的，浅薄的
+
 inundate:   
-  title: 
-  text: ____ [ˈɪnʌndeɪt] vt. 淹没，泛滥的；使不胜负荷，使应接不暇
+  title: inundate
+  text: __inundate__ [ˈɪnʌndeɪt] vt. 淹没，泛滥的；使不胜负荷，使应接不暇
+
 erode:   
-  title: 
-  text: ____ [ɪˈrəud] v. 侵蚀，腐蚀；削弱，损害
+  title: erode
+  text: __erode__ [ɪˈrəud] v. 侵蚀，腐蚀；削弱，损害
+
 doom:   
-  title: 
-  text: ____ [duːm] vt. 注定……失败（或遭殃、死亡等），使……在劫难逃  n. 毁灭；厄运，劫数
+  title: doom
+  text: |
+    __doom__ [duːm] vt. 注定……失败（或遭殃、死亡等），使……在劫难逃  
+
+    __doom__ n. 毁灭；厄运，劫数
+
 alienate:   
-  title: 
-  text: ____ [ˈeɪlɪəneɪt] vt. 使疏远，使不友好；转让，让渡（财产等）
+  title: alienate
+  text: __alienate__ [ˈeɪlɪəneɪt] vt. 使疏远，使不友好；转让，让渡（财产等）
+
 brazen:   
-  title: 
-  text: ____ [ˈbreɪzn] a. 黄铜制的，黄铜色的；厚颜无耻的
+  title: brazen
+  text: __brazen__ [ˈbreɪzn] a. 黄铜制的，黄铜色的；厚颜无耻的
+
 tortoise:   
-  title: 
-  text: ____ [ˈtɔːtəs] n. 龟，陆龟；行动迟缓的人
+  title: tortoise
+  text: __tortoise__ [ˈtɔːtəs] n. 龟，陆龟；行动迟缓的人
+
 commiserate:   
-  title: 
-  text: ____ [kəˈmɪzəreɪt] vi. 同情，怜悯
+  title: commiserate
+  text: __commiserate__ [kəˈmɪzəreɪt] vi. 同情，怜悯
+
 outlaw:   
-  title: 
-  text: ____ [ˈautlɔː] n. 亡命之徒，逃犯，被剥夺法律权益者  vt. 宣布……为非法，使……成为非法
+  title: outlaw
+  text: |
+    __outlaw__ [ˈautlɔː] n. 亡命之徒，逃犯，被剥夺法律权益者  
+
+    __outlaw__ vt. 宣布……为非法，使……成为非法
+
 pavement:   
-  title: 
-  text: ____ [ˈpeɪvmənt] n. 人行道；地面，路面
+  title: pavement
+  text: __pavement__ [ˈpeɪvmənt] n. 人行道；地面，路面
+
 antiquated:   
-  title: 
-  text: ____ [ˈæntɪkweɪtɪd] a. 陈旧的，过时的；废弃的
+  title: antiquated
+  text: __antiquated__ [ˈæntɪkweɪtɪd] a. 陈旧的，过时的；废弃的
+
 coral:   
-  title: 
-  text: ____ [ˈkɔrəl] n. 珊瑚；珊瑚虫  a. 珊瑚色的，红色的
+  title: coral
+  text: |
+    __coral__ [ˈkɔrəl] n. 珊瑚；珊瑚虫  
+
+    __coral__ a. 珊瑚色的，红色的
+
 incinerate:   
-  title: 
-  text: ____ [ɪnˈsɪnəreɪt] vt. 焚化，焚毁，把……烧成灰烬
+  title: incinerate
+  text: __incinerate__ [ɪnˈsɪnəreɪt] vt. 焚化，焚毁，把……烧成灰烬
+
 renewable:   
-  title: 
-  text: ____ [rɪˈnju:əbl] a. 可更新的，可再生的，可恢复的；可延长有效期的，可续期的
+  title: renewable
+  text: __renewable__ [rɪˈnju:əbl] a. 可更新的，可再生的，可恢复的；可延长有效期的，可续期的
+
 shin:   
-  title: 
-  text: ____ [ʃɪn] n. 胫，胫部，胫骨  v. （手脚并用沿某物）爬
+  title: shin
+  text: |
+    _shin__ [ʃɪn] n. 胫，胫部，胫骨  
+
+    __shin__ v. （手脚并用沿某物）爬
+
 enslave:   
-  title: 
-  text: ____ [ɪnˈsleɪv] vt. 奴役，征服，使受控制
+  title: enslave
+  text: __enslave__ [ɪnˈsleɪv] vt. 奴役，征服，使受控制
+
 timid:   
-  title: 
-  text: ____ [ˈtɪmɪd] a. 胆小的；羞怯的
+  title: timid
+  text: __timid__ [ˈtɪmɪd] a. 胆小的；羞怯的
+
 vile:   
-  title: 
-  text: ____ [vaɪl] a. 糟糕透顶的，可恶的；恶劣的，卑鄙的
+  title: vile
+  text: __vile__ [vaɪl] a. 糟糕透顶的，可恶的；恶劣的，卑鄙的
+
 diesel:   
-  title: 
-  text: ____ [ˈdiːzl] n. 柴油；柴油机；柴油车
+  title: diesel
+  text: __diesel__ [ˈdiːzl] n. 柴油；柴油机；柴油车
+
 guzzle:   
-  title: 
-  text: ____ [ˈgʌzl] v. 狂饮，暴饮；大量消耗
+  title: guzzle
+  text: __guzzle__ [ˈgʌzl] v. 狂饮，暴饮；大量消耗
+
 torment:   
-  title: 
-  text: ____ [ˈtɔːment] n. 痛苦，折磨；令人痛苦的东西:   
-  title: 
-  text: ____ [tɔːˈment] vt. 折磨，使痛苦，烦扰；纠缠；戏弄，捉弄
+  title: torment
+  text: |
+    __torment__ [ˈtɔːment] n. 痛苦，折磨；令人痛苦的东西 
+
+    __torment__ [tɔːˈment] vt. 折磨，使痛苦，烦扰；纠缠；戏弄，捉弄
+
 revive:   
-  title: 
-  text: ____ [rɪˈvaɪv] v. （使）苏醒，复活；重新使用
+  title: revive
+  text: __revive__ [rɪˈvaɪv] v. （使）苏醒，复活；重新使用
+
 inhumane:   
-  title: 
-  text: ____ [ˏɪnhjuːˈmeɪn] a. 不近人情的，残忍的，不人道的
+  title: inhumane
+  text: __inhumane__ [ˏɪnhjuːˈmeɪn] a. 不近人情的，残忍的，不人道的
+
 imperil:   
-  title: 
-  text: ____ [ɪmˈperəl] vt. 使陷于危险，危及
+  title: imperil
+  text: __imperil__ [ɪmˈperəl] vt. 使陷于危险，危及
+
 diverge:   
-  title: 
-  text: ____ [daɪˈvɜːdʒ] vi. （道路，线条等）分开，岔开；（意见、观点等）分歧，相异；偏离，违背
+  title: diverge
+  text: __diverge__ [daɪˈvɜːdʒ] vi. （道路，线条等）分开，岔开；（意见、观点等）分歧，相异；偏离，违背
+
 irrational:   
-  title: 
-  text: ____ [ɪˈræʃənl] a. 不合理的，不合逻辑的，荒谬的  n. 无理数
+  title: irrational
+  text: |
+    __irrational__ [ɪˈræʃənl] a. 不合理的，不合逻辑的，荒谬的  
+
+    __irrational__ n. 无理数
+
 verbal:   
-  title: 
-  text: ____ [ˈvɜːbl] a. 口头的；言辞的，文字的，词语的；动词的
+  title: verbal
+  text: __verbal__ [ˈvɜːbl] a. 口头的；言辞的，文字的，词语的；动词的
+
 saline:   
-  title: 
-  text: ____ [ˈseɪlaɪn] a. 含盐的，咸的  n.:   
-  title: 
-  text: ____ [医] 盐水
+  title: saline
+  text: |
+    __saline__ [ˈseɪlaɪn] a. 含盐的，咸的  
+
+    __saline__ n.[医] 盐水
+
 disable:   
-  title: 
-  text: ____ [dɪsˈeɪbl] vt. 使丧失能力，使伤残；使不能正常运转，使无效
+  title: disable
+  text: __disable__ [dɪsˈeɪbl] vt. 使丧失能力，使伤残；使不能正常运转，使无效
+
 seduce:   
-  title: 
-  text: ____ [sɪˈdjuːs] vt. 勾引，引诱；诱使，唆使
+  title: seduce
+  text: __seduce__ [sɪˈdjuːs] vt. 勾引，引诱；诱使，唆使
+
 relocate:   
-  title: 
-  text: ____ [ˏriːləuˈkeɪt] v. 重新安置，（使）搬迁，迁移
+  title: relocate
+  text: __relocate__ [ˏriːləuˈkeɪt] v. 重新安置，（使）搬迁，迁移
+
 angle:   
-  title: 
-  text: ____ [ˈæŋgl] n. 角；角度；观点，立场  v. 移向；使成角度移动；从（某角度）报道
+  title: angle
+  text: |
+    __angle__ [ˈæŋgl] n. 角；角度；观点，立场  
+
+    __angle__ v. 移向；使成角度移动；从（某角度）报道
+
 legitimate:   
-  title: 
-  text: ____ [lɪˈdʒɪtɪmət] a. 合法的，法定的；正当的，合情合理的:   
-  title: 
-  text: ____ [lɪˈdʒɪtɪmeɪt] vt. 使合法
+  title: legitimate
+  text: |
+    __legitimate__ [lɪˈdʒɪtɪmət] a. 合法的，法定的；正当的，合情合理的  
+
+    __legitimate__ [lɪˈdʒɪtɪmeɪt] vt. 使合法
+
 sedentary:   
-  title: 
-  text: ____ [ˈsedntrɪ] a. （工作、活动等）需要久坐的；（人）惯于久坐不动的；（人或动物）定居的，不迁徙的；沉积的
+  title: sedentary
+  text: __sedentary__ [ˈsedntrɪ] a. （工作、活动等）需要久坐的；（人）惯于久坐不动的；（人或动物）定居的，不迁徙的；沉积的
+
 water-borne:   
-  title: 
-  text: ____ ['wɔ:təbɔ:n] a. 水运的，水传播的，饮水传染的
+  title: water-borne
+  text: __water-borne__ ['wɔ:təbɔ:n] a. 水运的，水传播的，饮水传染的
+
 kindergarten:   
-  title: 
-  text: ____ [ˈkɪndəgɑːtn] n. 幼儿园
+  title: kindergarten
+  text: __kindergarten__ [ˈkɪndəgɑːtn] n. 幼儿园
+
 molten:   
-  title: 
-  text: ____ [ˈməultən] a. 熔化的
+  title: molten
+  text: __molten__ [ˈməultən] a. 熔化的
+
 processor:   
-  title: 
-  text: ____ [ˈprəʊsesə(r)] n. 加工机；加工工人；处理器
+  title: processor
+  text: __processor__ [ˈprəʊsesə(r)] n. 加工机；加工工人；处理器
+
 saturate:   
-  title: 
-  text: ____ [ˈsætʃəreɪt] vt. 使湿透，浸透；使充满，使饱和
+  title: saturate
+  text: __saturate__ [ˈsætʃəreɪt] vt. 使湿透，浸透；使充满，使饱和
+
 trivialize:   
-  title: 
-  text: ____ ['trɪvɪəlaɪz] vt. 使显得不重要，轻视，淡化
+  title: trivialize
+  text: __trivialize__ ['trɪvɪəlaɪz] vt. 使显得不重要，轻视，淡化
+
 assault:   
-  title: 
-  text: ____ [əˈsɔːlt] n. （武力或口头上的）攻击，袭击；侵犯人身罪；冲击；抨击  vt. 攻击，袭击；使难受 
+  title: assault
+  text: |
+    __assault__ [əˈsɔːlt] n. （武力或口头上的）攻击，袭击；侵犯人身罪；冲击；抨击  
+
+    __assault__ vt. 攻击，袭击；使难受 
+
 
 
 
