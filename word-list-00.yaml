@@ -3,279 +3,280 @@
 # ==============================================================================
 
 lunar:     
-  title: 
-  text: ____ 月(亮)的 
+  title: lunar
+  text: __lunar__ 月(亮)的 
 
 exact:     
-  title: 
-  text: ____ 确切的 
+  title: exact
+  text: __exact__ 确切的 
 
 calendar:     
-  title: 
-  text: ____ 日历 
+  title: calendar
+  text: __calendar__ 日历 
 
 rat:     
-  title: 
-  text: ____ 鼠 
+  title: rat
+  text: __rat__ 鼠 
 
 ox:     
-  title: 
-  text: ____ 公 牛 
+  title: ox
+  text: __ox__ 公 牛 
 
 rabbit:     
-  title: 
-  text: ____ 兔子 
+  title: rabbit
+  text: __rabbit__ 兔子 
 
 ram:     
-  title: 
-  text: ____ 公羊 
+  title: ram
+  text: __ram__ 公羊 
 
 rooster:     
-  title: 
-  text: ____ 公鸡 
+  title: rooster
+  text: __rooster__ 公鸡 
 
 legend:     
-  title: 
-  text: ____ 传说 
+  title: legend
+  text: __legend__ 传说 
 
 name-after:     
-  title: 
-  text: ____ 按....命名 
+  title: name after
+  text: __name after__ 按....命名 
 
 particular:     
-  title: 
-  text: ____ 特殊的 
+  title: particular
+  text: __particular__ 特殊的 
 
 characteristic:     
-  title: 
-  text: ____ 特征
+  title: characteristic
+  text: __characteristic__ 特征
 
 guideline:     
-  title: 
-  text: ____ 指导方针 
+  title: guideline
+  text: __guideline__ 指导方针 
 
 policy:     
-  title: 
-  text: ____ 政策 
+  title: policy
+  text: __policy__ 政策 
 
 per:     
-  title: 
-  text: ____ 每 
+  title: per
+  text: __per__ 每 
 
 assignment:     
-  title: 
-  text: ____ 作业 
+  title: assignment
+  text: __assignment__ 作业 
 
 mean:     
-  title: 
-  text: ____ 低劣的 
+  title: mean
+  text: __mean__ 低劣的 
 
 snack:     
-  title: 
-  text: ____ 小吃 
+  title: snack
+  text: __snack__ 小吃 
 
 TV-guide:     
-  title: 
-  text: ____ 电视指南 
+  title: TV guide
+  text: __TV guide__ 电视指南 
 
 toad:     
-  title: 
-  text: ____  蟾蜍,癞蛤蟆   
+  title: toad
+  text: __toad__  蟾蜍,癞蛤蟆   
 
 moan:     
-  title: 
-  text: ____  呻吟   
+  title: moan
+  text: __moan__  呻吟   
 
 hop:     
-  title: 
-  text: ____  跳跃   
+  title: hop
+  text: __hop__  跳跃   
 
 oak:     
-  title: 
-  text: ____  橡树   
+  title: oak
+  text: __oak__  橡树   
 
 croak:     
-  title: 
-  text: ____  一种低而嘶哑的声音 
-bit:     
-  title: 
-  text: ____  bite 咬的过去时   
+  title: croak
+  text: __croak__  一种低而嘶哑的声音 
 
-dealt-with-deal-with:     
-  title: 
-  text: ____  处理的过去时   
+bit:     
+  title: bit
+  text: __bit__  bite 咬的过去时   
+
+deal-with:     
+  title: deal with
+  text: __deal with__  处理的过去时   
 
 inspect:     
-  title: 
-  text: ____  检查
+  title: inspect
+  text: __inspect__  检查
 
 long-for:     
   title: 
-  text: ____  渴望   
+  text: __long for__  渴望   
 
 mourn:     
-  title: 
-  text: ____  哀悼   
+  title: mourn
+  text: __mourn__  哀悼   
 
 nod:     
-  title: 
-  text: ____  点头   
+  title: nod
+  text: __nod__  点头   
 
 peep:     
-  title: 
-  text: ____  窥视   
+  title: peep
+  text: __peep__  窥视   
 
 quarter:     
-  title: 
-  text: ____  分成四份
+  title: quarter
+  text: __quarter__  分成四份
 
 upset:     
-  title: 
-  text: ____  upset 弄翻的过去时   
+  title: upset
+  text: __upset__  upset 弄翻的过去时   
 
 view:     
-  title: 
-  text: ____  观察   
+  title: view
+  text: __view__  观察   
 
 ampersand:     
-  title: 
-  text: ____  记号名称
+  title: ampersand
+  text: __ampersand__  记号名称
 
 homestay:     
-  title: 
-  text: ____  家庭寄宿    
+  title: homestay
+  text: __homestay__  家庭寄宿    
 
 host:     
-  title: 
-  text: ____  东道主    
+  title: host
+  text: __host__  东道主    
 
 hug:     
-  title: 
-  text: ____  拥抱    
+  title: hug
+  text: __hug__  拥抱    
 
 shock:     
-  title: 
-  text: ____  震惊    
+  title: shock
+  text: __shock__  震惊    
 
 respond:     
-  title: 
-  text: ____  回应 
+  title: respond
+  text: __respond__  回应 
 
 challenge:     
-  title: 
-  text: ____  挑战    
+  title: challenge
+  text: __challenge__  挑战    
 
 straight:     
-  title: 
-  text: ____  直接地   
+  title: straight
+  text: __straight__  直接地   
 
 squeeze:     
-  title: 
-  text: ____  挤压 
+  title: squeeze
+  text: __squeeze__  挤压 
 
 firmly:     
-  title: 
-  text: ____  紧紧地    
+  title: firmly
+  text: __firmly__  紧紧地    
 
 informality:     
-  title: 
-  text: ____  随意
+  title: informality
+  text: __informality__  随意
 
 share:     
-  title: 
-  text: ____  分享   
+  title: share
+  text: __share__  分享   
 
 serious:     
-  title: 
-  text: ____  认真的     
+  title: serious
+  text: __serious__  认真的     
 
 cause:     
-  title: 
-  text: ____  原因  
+  title: cause
+  text: __cause__  原因  
 
 fight:     
-  title: 
-  text: ____  打架
+  title: fight
+  text: __fight__  打架
 
 particular:     
-  title: 
-  text: ____  特别的，特殊的
+  title: particular
+  text: __particular__  特别的，特殊的
 
 teddy-bear:     
-  title: 
-  text: ____  玩具熊    
+  title: teddy bear
+  text: __teddy bear__  玩具熊    
 
-teenage:     
-  title: 
-  text: ____  青少年    
+teenager:     
+  title: teenager
+  text: __teenager__  青少年    
 
 perfectly:     
-  title: 
-  text: ____  完全
+  title: perfectly
+  text: __perfectly__  完全
 
 hath:     
-  title: 
-  text: ____  （古英语）=has    
+  title: hath
+  text: __hath__  （古英语）=has    
 
 leap-year:     
-  title: 
-  text: ____  闰年 
+  title: leap year
+  text: __leap year__  闰年 
 
 dumpling:     
-  title: 
-  text: ____  饺子    
+  title: dumpling
+  text: __dumpling__  饺子    
 
 partner:     
-  title: 
-  text: ____  伙伴    
+  title: partner
+  text: __partner__  伙伴    
 
 waitress:     
-  title: 
-  text: ____  女服务员    
+  title: waitress
+  text: __waitress__  女服务员    
 
 pack:     
-  title: 
-  text: ____  包 
+  title: pack
+  text: __pack__  包 
 
 doggy-bag:     
-  title: 
-  text: ____  （饭店里客人将吃剩食物打包带走时用的）纸包
+  title: doggy-bag
+  text: __doggy-bag__  （饭店里客人将吃剩食物打包带走时用的）纸包
 
 stair:     
-  title: 
-  text: ____  楼梯    
+  title: stair
+  text: __stair__  楼梯    
 
 take-the-lift:     
-  title: 
-  text: ____  乘电梯    
+  title: the the lift
+  text: __take the lift__  乘电梯    
 
 balcony:     
-  title: 
-  text: ____  阳台    
+  title: banlcony
+  text: __balcony__  阳台    
 
 magnificent:     
-  title: 
-  text: ____  壮观的 
+  title: magnificent
+  text: __magnificent__  壮观的 
 
 stall:     
-  title: 
-  text: ____  摊点    
+  title: stall
+  text: __stall__  摊点    
 
 pedestrian:     
-  title: 
-  text: ____  行人    
+  title: pedestrian
+  text: __pedestrian__  行人    
 
 control:     
-  title: 
-  text: ____  控制
+  title: control
+  text: __control__  控制
 
 remain:     
-  title: 
-  text: ____  保持，逗留    
+  title: remain
+  text: __remain__  保持，逗留    
 
 permanently:     
-  title: 
-  text: ____  永远地 
+  title: permanently
+  text: __permanently__  永远地 
 
 
 
