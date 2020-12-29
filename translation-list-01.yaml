@@ -1,0 +1,130 @@
+# ==============================================================================
+# Translation List 01
+# ==============================================================================
+
+sentense00:   
+  word: ____ 
+  word: ____ 
+  text: []
+  fanyi: 
+  text: [] 
+  fanyi: [] 
+  text: [] 
+  fanyi: 
+  text: []
+  fanyi: 
+
+sentense01:   
+  word: __primary__ adj. 首要的，主要的
+  word: __decade__ n. 十年
+  text: [主语]the growth of the use of English
+  fanyi: 英语的使用的增长
+  text: [状语] as the world's __primary__ language for international communication
+  fanyi: [单独成句译法] 在国际交流中，英语是全世界范围内的首选语言
+  text: [谓语]has obviously been continuing 
+  fanyi: 很显然一直在增长
+  text: [状语]for server __decades__
+  fanyi: 在过去几十年间
+
+sentense02:   
+  word: __expend__ v. 扩大，增大
+  word: __predominance__ n. 主导地位，优势地位
+  word: __fade__ v. 使褪色，使变暗淡
+  word: __foreseeable__ adj. 可预知的，可预见的
+  text: [] but
+  fanyi: 但是，
+  text: [] even
+  fanyi: 甚至
+  text: [状语] as the number of English speckers __expends__ further
+  fanyi: 随着说英语的人越来越多
+  text: [主谓] there are signs 
+  fanyi: 有迹象表明
+  text: [同从] that the global __predominance__ of the language may __fade__
+  fanyi: [重译法] 这种语言的全球主导性地位+[状语]+也许会慢慢式微
+  text: [状语]within the __foreseeable__ future
+  fanyi: 在可预见的未来
+
+
+sentense03:   
+  word: __diminish__ v. 减小，减弱 
+  word: __breadth__ n. 广度，广泛性
+  word: __consequently__ adv. 所以，结果
+  text: [主语] complex international, economic, technological and cultural changes 
+  fanyi: 复杂的国际、经济、科技、和文化变化
+  text: [谓语] could start to __diminish__ the leading position of Enlish
+  fanyi: [] 可能会让英语+[方式状语]+地位下降
+  text: [方式状语] as the language of the world market,
+  fanyi: [放在句中] 作为世界市场主要语言地位
+  text: [定从先行词] and UK interets
+  fanyi: [后置译法]
+  text: [定从] which enjoy advantage from the __breadth__ of Enlish usage
+  fanyi: [后置译法] 英语原来可以从广泛使用英语中获得优势
+  text: [] would __consequently__ face new pressure
+  fanyi: 但是现在可能会面临新的压力了
+
+sentense04:   
+  word: __highlight__ 
+  text: [被动语态] those realistic possibilites are __highlighted__
+  fanyi: [被动变主动] 强调了这些现实的可能性
+  text: [过去分词作定语] in the study presented by David Graddol
+  fanyi: [前置译法] 大卫 格兰多在其主导的研究中
+
+sentense05:   
+  word: __self-contentedness__  满足的，知足的
+  word: __capability__ 能力，素质
+  text: [] his analysis should
+  fanyi: 大卫格兰多的分析可能会
+  text: [插入语] therefore
+  fanyi: [放在句首] 所以 
+  text: [] end any __self-contentedness__ among those
+  fanyi: 某些人的知足之感
+  text: [定从] who may believe
+  fanyi: [后置译法] 这些人认为
+  text: [宾从] that the global position of Enlish is so stable
+  fanyi: 英语在全世界的地位十分稳固
+  text: [so that结果状语] that the young generations of the United Kingdom do not need additional language __capabilites__
+  fanyi: [断句翻译] 英语的这代年轻人不需要在学习其他语言
+
+  sentense06:   
+  word: __monoglot__ 
+  word: __bleak__ 
+  word: __qualified__ 
+  word: __counterpart__ 
+  text: [] David Graddol concludes
+  fanyi: 大卫格兰多认为，
+  text: [] that __monoglot__ Enlish graduates face a __bleak__ future
+  fanyi: [] 只会一种语言的英国大学毕业生经济前景堪忧，
+  text: [原因状语] as __qualified__ multilingual youngsters from other countries
+  fanyi: 因为别的国家会多种语言的年轻人
+  text: [] are proving to have competitive advantage over their British __counterparts__
+  fanyi: 比这些英国年轻人在全球性的公司和组织中具有竞争性的优势
+
+  sentense07:   
+  word: __curriculum__ n. 学校、学院或大学的全部课程
+  word: __fluency__ n. 流利，流畅
+  text: [] alongside that 
+  fanyi: 
+  text: [] many countries are introducting Enlish into the primary-school __curriculum__
+  fanyi: [] 许多国家正在把英语引进到本国的小学课程中
+  text: [] but British school children and students do not appear to be gaining greater encouragement
+  fanyi: 但是，英国的中小学生似乎没有受到更多的鼓励
+  text: [] to achieve __fluency__ in other language
+  fanyi: 去掌握其他语言
+
+  sentense08:   
+  word: __mandarin__  n. 汉语普通话
+  word: __outsource__ v. 外包，外购
+  text: [] If left to themselves,
+  fanyi: 若弃之不管的话，
+  text: [] such trends will diminish the relative strength of the Enlish language in international education markets 
+  fanyi: [] 那么，这一趋势将会降低英语在国际教育市场中的相对优势，
+  text: [原因状语] as the demand for educational resources in language,
+  fanyi: 因为对于教育资源在语言上的需要，
+  text: [] such as Spanish,Arabic or __Mandarin__ grows 
+  fanyi: 比如西班牙语、阿拉伯语或是中文就会增长，
+  text: [现在分词作定语] and international business process __outsouring__ in other language
+  fanyi: 外包给其他语言，
+  text: [] such as Japanese,French and German,
+  fanyi: 比如日语、法语或是德语的国际商业进程，
+  text: [] spreads
+  fanyi: 也会增长
