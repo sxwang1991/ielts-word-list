@@ -1,0 +1,94 @@
+# ==============================================================================
+# Translation List 02 NCE chapter 01
+# ==============================================================================
+
+sentense01:   
+  word: __regularly__ 
+  collect: __be known as__
+  text: []English is known as a world language,
+  fanyi: 人们普遍认为英语是一种世界语言，
+  text: []__regularly__ used by many nations 
+  fanyi: [] 经常被许多【定语】国家使用。
+  text: [] whose English is not their first language.
+  fanyi: 【定语】不以英语为第一语言的
+
+
+sentense02:   
+  text: [] Like other language,
+  fanyi: 与其他语言一样，
+  text: [] English has changed greatly.
+  fanyi: [] 英语也发生了很大的变化。
+  
+
+
+sentense03:   
+  collect: __be divided into__
+  text: [] The history of English language
+  fanyi: 英语的历史
+  text: [] can be divided into three periods
+  fanyi: [] 可以分为三个主要阶段：
+  text: [] Old English, Middle English and Mordern English
+  fanyi: 古英语，中古英语和现代英语。
+
+
+sentense04:   
+  word: __invasion__ 
+  word: __contribute__
+  word: __Germantic__ 
+  collect: __start with__
+  text: [] The English language started with 
+  fanyi: 英语起源于【时间状语】
+  text: [] the invasion of Britain  
+  fanyi: [变被动为主动] 【by+...】 入侵英国
+  text: [] by three Germantic tribes
+  fanyi: 三个日耳曼部落
+  text: [] during the 5th century AD,
+  fanyi: 【时间状语】公元5世纪
+  text: [] and they contributed greatly to 
+  fanyi: [] 他们【对象】起了很大的作用
+  text: [] the formation of English language
+  fanyi: 【对象】对英语语言的形成
+
+
+
+sentense05:   
+  word: __medieval__ 
+  word: __Isles__
+  text: [] During the medieval and early modern periods,
+  fanyi: 在中世纪和现代社会初期， 
+  text: [] the influence of English 
+  fanyi: [] 英语的影响
+  text: [] spread throughout the British Isles,
+  fanyi: 遍及不列颠群岛。
+  text: [] and from the early 17th century
+  fanyi: 从17时间初，
+  text: [] its influence began to be felt
+  fanyi: [] 它的影响力开始【定点状语】显现
+  text: [] throughout the world
+  fanyi: 【定点状语】在世界各地
+
+
+sentense06:   
+  word: __exploration__ 
+  word: __colonization__
+  word: __significant__ 
+  text: [] The processes of European exploration and colonization
+  fanyi: 欧洲【定语】探索和殖民过程
+  text: [] for several centuries
+  fanyi: 【作定语】 几百年的
+  text: [] led to significant change in English.
+  fanyi: 导致了英语的重大变化。
+
+
+sentense07:   
+  text: [] Today
+  fanyi: 今天，
+  text: [] American English is particular influential,
+  fanyi: [] 美国英语的影响力尤其显著。
+  text: [] due to 
+  fanyi: 由于
+  text: [] the popularity of American cinema, television,music,trade and technology,
+  fanyi: 美国电影，电视，音乐，贸易与技术，【including +... 】的大受欢迎
+  text: [] including the Internet.
+  fanyi: [] 包括互联网
+  
