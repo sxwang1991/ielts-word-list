@@ -98,6 +98,7 @@ fauna:
 expel:   
   title: expel
   text: __expel__ [ɪkˈspel] vt. 把……开除；驱逐
+  example: We have no alternative but to expel you from factory.
 
 equator:   
   title: equator
@@ -171,6 +172,7 @@ device:
 regulate:   
   title: regulate
   text: __requlate__ [ˈregjuleɪt] v. 管制，控制；调节，校准；调整
+  example: And the government's job is to regulate what people do.
 
 mould:   
   title: mould
@@ -213,6 +215,8 @@ substitute:
     __substitute__ [ˈsʌbstɪtjuːt] v. 代替，替换  
     
     __sustitute__ n. 代替者，代替物，代用品
+    
+  example: They are substituting violence for dialogue.
 
 striking:   
   title: striking 
