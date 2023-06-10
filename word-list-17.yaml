@@ -236,7 +236,8 @@ release:
   text: |
     __release__ [rɪˈliːs] vt. 释放，解放；发表，发行  
 
-    __release__ n. 释放；发表，发布；排放，泄露
+    __release__ n. 释放；发表，发布；排放，泄露 allowing something that was held back to go
+  example: scientific researchers have found that using electronic devices in the hours before sleep interfere with the release of sleep hormones
 
 deploy:   
   title: deploy
