@@ -2,9 +2,6 @@
 # Word List 31
 # ==============================================================================
 
-
-
-
 scent:   
   title: scent
   text: |
@@ -151,7 +148,8 @@ enrolment:
 
 strategy:   
   title: strategy
-  text: __strategy__ [ˈstrætədʒɪ] n. 战略，策略
+  text: __strategy__ [ˈstrætədʒɪ] n. 战略，策略 a plan to achieve a goal
+  example: however, there are other strategies that can help
 
 emerge:   
   title: emerge
