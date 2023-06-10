@@ -305,7 +305,8 @@ mishandle:
 
 discovery:   
   title: discovery 
-  text: __discovery__ [dɪˈskʌvərɪ] n. 发现
+  text: __discovery__ [dɪˈskʌvərɪ] n. 发现 the finding of something new
+  example: make a great discovery
 
 alcohol:   
   title: alcohol 
