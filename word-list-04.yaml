@@ -167,7 +167,8 @@ earthquake:
 
 device:   
   title: device
-  text: __divice__ [dɪˈvaɪs] n. 装置，设备，仪表；方法；设计；手段；策略
+  text: __divice__ [dɪˈvaɪs] n. 装置，设备，仪表；方法；设计；手段；策略 an electrical or mechanical machine
+  example: although many people enjoy using their "smart device" before going to bed, these habits can actually make it more difficult to fall asleep
 
 regulate:   
   title: regulate
