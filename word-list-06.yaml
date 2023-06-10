@@ -227,9 +227,10 @@ activate:
 major:   
   title: major 
   text: |
-    __major__ [ˈmeɪdʒə(r)] a. 主要的   
+    __major__ [ˈmeɪdʒə(r)] a. 主要的 main; (one of the) most important
 
     __major__ n. 专业（学生）  vi. 主修，专攻
+  example: another major difference in the weather between these two cites is that its worst weather occurs in the winter
 
 specific:   
   title: specific 
