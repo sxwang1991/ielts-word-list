@@ -253,9 +253,10 @@ concentrate:
 conflict:   
   title: conflict 
   text: |
-    __conflict__ [ˈkɔnflɪkt] n. 冲突  
+    __conflict__ [ˈkɔnflɪkt] n. 冲突 a disagreement
 
     __conflict__ [kənˈflikt] vi. 冲突，抵触
+  example: in it, the director adds a fictional personal conflict between two of the men on the fishing boat that sank in 1991
 
 antidote:   
   title: antidote 
