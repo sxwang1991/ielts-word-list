@@ -2,10 +2,6 @@
 # Word List 41
 # ==============================================================================
 
-
-
-
-
 keen:   
   title: keen
   text: __keen__ [kiːn] a. 热衷的，热心的，渴望的；敏锐的，敏捷的；激烈的，紧张的；锋利的
@@ -147,7 +143,8 @@ celestial:
 
 combination:   
   title: combination
-  text: __combination__ [ˏkɔmbɪˈneɪʃn] n. 结合（体），联合（体）；化合
+  text: __combination__ [ˏkɔmbɪˈneɪʃn] n. 结合（体），联合（体）；化合 a joining of different parts
+  example: a good middle-distance runner must have a combination of speed and endurance
 
 impact:   
   title: impact
