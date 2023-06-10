@@ -32,7 +32,8 @@ graduate:
 
 predict:   
   title: predict
-  text: __predict__ [prɪˈdɪkt] v. 预言；预告
+  text: __predict__ [prɪˈdɪkt] v. 预言；预告 to say what will happen in the future
+  example: the two storms also differ in how they are predicted
 
 headquarters:   
   title: headquarters
