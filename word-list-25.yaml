@@ -32,7 +32,8 @@ split:
 
 distinct:   
   title: distinct
-  text: __distinct__ [dɪˈstɪŋkt] a. 清楚的，明显的；有区别的，不同的
+  text: __distinct__ [dɪˈstɪŋkt] a. 清楚的，明显的；有区别的，不同的 different from something else
+  example: physically specking, a distance runner is quite distinct from a sprinter
 
 negotiate:   
   title: negotiate
