@@ -117,7 +117,8 @@ conversation:
 
 recommendation:   
   title: recommendation
-  text: __recommendation__ [ˌrekəmenˈdeɪʃn] n. 推荐，推荐信；劝告，建议
+  text: __recommendation__ [ˌrekəmenˈdeɪʃn] n. 推荐，推荐信；劝告，建议 written or spoken praise; approval
+  example: with a quick click of the mouse, job seekers can upload items such as resumes, letters of recommendation, etc
 
 graph:   
   title: graph
