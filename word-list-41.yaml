@@ -243,7 +243,8 @@ enlarge:
 
 occur:   
   title: occur
-  text: __occur__ [əˈkɜː(r)] vi. 发生；存在
+  text: __occur__ [əˈkɜː(r)] vi. 发生；存在 to happen, take place
+  example: stage acting occurs in front of a live audience
 
 relate:   
   title: relate
