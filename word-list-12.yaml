@@ -41,7 +41,8 @@ conditioner:
 
 reduce:   
   title: reduce
-  text: __reduce__ [rɪˈdjuːs] v. 减少，缩小；简化
+  text: __reduce__ [rɪˈdjuːs] v. 减少，缩小；简化 to make something smaller
+  example: in order to reduce clutter, unused items need to be thrown away
 
 controversy:   
   title: controversy
