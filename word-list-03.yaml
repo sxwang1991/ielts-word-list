@@ -86,9 +86,10 @@ submarine:
 commercial:   
   title: commercial
   text: |
-    __commercial__ [kəˈmɜːʃl] a. 商业的，商品化的，贸易的  
+    __commercial__ [kəˈmɜːʃl] a. 商业的，商品化的，贸易的 related to business
 
     __commercial__ n. 商业广告
+  example: the South Aral Sea used to be busy commercial region, but the dry sea beds are now full of abandoned boats and ships
 
 notion:   
   title: notion
