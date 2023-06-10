@@ -309,7 +309,8 @@ aggressiveness:
 
 category:   
   title: category
-  text: __category__ [ˈkætəgərɪ] n. 种类；类别；范畴
+  text: __category__ [ˈkætəgərɪ] n. 种类；类别；范畴 a type, kind
+  example: the next and probably the well-known category of acting is television acting
 
 fault:   
   title: fault
