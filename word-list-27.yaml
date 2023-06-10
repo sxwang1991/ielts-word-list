@@ -15,9 +15,10 @@ appoint:
 characteristic:   
   title: characteristic
   text: |
-    __characteristic__ [ˏkærəktəˈrɪstɪk] n. 特性；特征  
+    __characteristic__ [ˏkærəktəˈrɪstɪk] n. 特性；特征 a special quality
 
     __characteristic__ a. 特有的；典型的
+  example: regardless of the type of food they serve, all successful restaurants have similar characteristics
 
 identify:   
   title: identify
