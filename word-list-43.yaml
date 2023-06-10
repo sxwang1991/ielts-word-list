@@ -341,7 +341,8 @@ signal:
   text: |
     __signal__ [ˈsɪgnəl] n. 信号；暗号；标志  
 
-    __signal__ v.（向……）发信号；标志着
+    __signal__ v.（向……）发信号；标志着 to send a message
+  example: this is because such devices give off an artificial blue light, which signals the brain to stay awake
 
 rescue:   
   title: rescue
