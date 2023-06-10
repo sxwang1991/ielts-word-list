@@ -180,7 +180,8 @@ hostel:
 
 substance:   
   title: substance
-  text: __substance__ [ˈsʌbstəns] n. 物质；实质
+  text: __substance__ [ˈsʌbstəns] n. 物质；实质 a particular kind of matter or material
+  example: many natural substances, such as oil and soap sprays, can do the same job as chemical products
 
 refectory:   
   title: refectory
