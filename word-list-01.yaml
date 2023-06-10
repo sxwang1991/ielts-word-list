@@ -194,7 +194,8 @@ density:
 
 massive:   
   title: massive
-  text: __massive__ [ˈmæsɪv] a. 大而重的，厚实的，粗大的；大量的，大规模的
+  text: __massive__ [ˈmæsɪv] a. 大而重的，厚实的，粗大的；大量的，大规模的 huge
+  example: this memorial is home to a massive statue of President Abraham Lincoln and an engraved copy of Lincoln's famous speech, the Gettysburg Address
 
 congratulate: 
   title: congratulate
