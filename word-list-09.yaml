@@ -85,7 +85,8 @@ belief:
 
 concentration:   
   title: concentration
-  text: __concentration__ [ˏkɔnsnˈtreɪʃn] n. 集中；专心，专注；浓缩，浓度
+  text: __concentration__ [ˏkɔnsnˈtreɪʃn] n. 集中；专心，专注；浓缩，浓度 total attention to something
+  example: a well-organized workspace will help increase concentration and work quality
 
 tug:   
   title: tug
