@@ -105,7 +105,8 @@ tablet:
 
 actual:   
   title: actual
-  text: __actual__ [ˈæktʃuəl] a. 实际的；真实的
+  text: __actual__ [ˈæktʃuəl] a. 实际的；真实的 real; exact
+  example: other countries have fireworks displays as part of an actual competition
 
 fold:   
   title: fold
