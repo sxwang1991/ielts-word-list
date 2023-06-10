@@ -170,7 +170,8 @@ diversity:
 
 decline:   
   title: decline 
-  text: __decline__ [dɪˈklaɪn] n./v. 下降，减少；衰退，衰落
+  text: __decline__ [dɪˈklaɪn] n./v. 下降，减少；衰退，衰落 a lowering of numbers, prices,etc
+  example: one of the biggest causes of this decline in bee populations is pesticides
 
 crisis:   
   title: crisis
