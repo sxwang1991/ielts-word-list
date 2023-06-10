@@ -228,7 +228,8 @@ predispose:
 
 display:   
   title: display
-  text: __display__ [dɪˈspleɪ] vt./n. 陈列，展览；显示，表现
+  text: __display__ [dɪˈspleɪ] vt./n. 陈列，展览；显示，表现 a show
+  example: other countries have fireworks displays as part of an actual competition
 
 retire:   
   title: retire
