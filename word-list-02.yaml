@@ -242,7 +242,8 @@ resource:
 
 entire:   
   title: entire
-  text: __entire__ [ɪnˈtaɪə(r)] a. 全部的，整个的
+  text: __entire__ [ɪnˈtaɪə(r)] a. 全部的，整个的 complete; whole
+  example: a tourist can easily spend an entire week visiting these 16 museums, which all have free admission
 
 epitomise:   
   title: epitomise
