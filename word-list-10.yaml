@@ -220,7 +220,8 @@ equip:
 
 permanent:   
   title: permanent
-  text: __permanent__ [ˈpɜːmənənt] a. 永久的，持久的
+  text: __permanent__ [ˈpɜːmənənt] a. 永久的，持久的 lasting forever or for a long time
+  example: bees come in contact with the poison and either die immediately or, even worse, carry it back to the beehive where it could cause permanent damage
 
 embed:   
   title: embed
