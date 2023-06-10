@@ -2,9 +2,6 @@
 # Word List 37
 # ==============================================================================
 
-
-
-
 chew:   
   title: chew
   text: __chew__ [tʃuː] v. 咀嚼；回味；熟思
@@ -311,7 +308,8 @@ subjective:
 
 particularly:   
   title: particularly
-  text: __particularly__ [pəˈtikjuləli] ad. 特别，尤其
+  text: __particularly__ [pəˈtikjuləli] ad. 特别，尤其 especially
+  example: Juan Rodriguez discovered this in a particularly difficult calculus class
 
 quiver:   
   title: quiver
