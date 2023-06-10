@@ -242,9 +242,10 @@ military:
 poison:   
   title: poison
   text: |
-    __poison__ [ˈpɔɪzn] n. 毒，毒药  
+    __poison__ [ˈpɔɪzn] n. 毒，毒药 a substance that can cause illness or death in a living organism
 
     __poison__ vt. 毒害
+  example: bees come in contact with the poison and either die immediately or, even worse, carray it back to the beehive where it could cause permanent damage
 
 vested:   
   title: vested
