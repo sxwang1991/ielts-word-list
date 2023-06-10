@@ -3,9 +3,6 @@
 # ==============================================================================
 
 
-
-
-
 solidarity:   
   title: soliderity
   text: __soliderity__ [ˏsɔlɪˈdærətɪ] n. 团结，一致
@@ -336,7 +333,8 @@ fleet:
 
 interfere:   
   title: interfere
-  text: __interfere__ [ˏɪntəˈfɪə(r)] vi. 干涉，干扰，妨碍
+  text: __interfere__ [ˏɪntəˈfɪə(r)] vi. 干涉，干扰，妨碍 to interrupt a situation
+  example: scientific researchers have found that using electronic devices in the hours before sleep interfere with the release of sleep hormones
 
 signal:   
   title: signal
