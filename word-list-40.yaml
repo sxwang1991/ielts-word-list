@@ -2,9 +2,6 @@
 # Word List 40
 # ==============================================================================
 
-
-
-
 create:   
   title: create
   text: __create__ [kriːˈeɪt] vt. 创造，创作；产生
@@ -136,7 +133,8 @@ frontier:
 
 fascinating:   
   title: fascinating
-  text: __fascinating__ [ˈfæsɪneɪtɪŋ] a. 迷人的
+  text: __fascinating__ [ˈfæsɪneɪtɪŋ] a. 迷人的 very interesting
+  example: relationships with friends and with family members are fascinating because of their difference
 
 stroke:   
   title: 
