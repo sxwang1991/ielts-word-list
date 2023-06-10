@@ -54,7 +54,8 @@ oak:
 
 additional:   
   title: additional
-  text: __additional__ [əˈdɪʃənl] a. 附加的；追加的
+  text: __additional__ [əˈdɪʃənl] a. 附加的；追加的 added; other
+  example: the printing process has an additional impact on our water resources because making paper requires significant amounts of water
 
 overlapping:   
   title: overlapping
