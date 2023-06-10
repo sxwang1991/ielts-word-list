@@ -2,10 +2,6 @@
 # Word List 42
 # ==============================================================================
 
-
-
-
-
 incorporate:   
   title: incorporate
   text: __incorporate__ [ɪnˈkɔːpəreɪt] vt. 把……合并，纳入；包含，吸收
@@ -325,9 +321,10 @@ aggressive:
 process:   
   title: process
   text: |
-    __process__ [ˈprəuses] n. 过程；步骤，程序  
+    __process__ [ˈprəuses] n. 过程；步骤，程序 general way of doing something
 
     __process__ vt. 加工；处理；办理
+   example: because this information is saved on the website, the application process is much easier
 
 hum:   
   title: hum
