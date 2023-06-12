@@ -68,7 +68,8 @@ untrustworthy:
 
 prospective:   
   title: prospective
-  text: __prospective__ [prəˈspektɪv] a. 预期的；未来的；可能的
+  text: __prospective__ [prəˈspektɪv] a. 预期的；未来的；可能的 expected to be
+  example: prospective travelers spend days, if not weeks, researching their travel destination
 
 percentage:   
   title: percentage
