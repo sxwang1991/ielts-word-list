@@ -323,7 +323,8 @@ event:
 
 crucial:   
   title: crucial
-  text: __crucial__ [ˈkruːʃl] a. 决定性的；至关重要的
+  text: __crucial__ [ˈkruːʃl] a. 决定性的；至关重要的 extremely important
+  example: in addition, stage acting is "live", so the use of understudies --- or replacement actors --- is crucial
 
 stage:   
   title: stage
