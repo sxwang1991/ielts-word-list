@@ -240,7 +240,8 @@ centrifugal-force:
 
 personality:   
   title: personality
-  text: __personality__ [ˏpɜːsəˈnælətɪ] n. 人格；个性；名人，人物
+  text: __personality__ [ˏpɜːsəˈnælətɪ] n. 人格；个性；名人，人物 the total effect of a person's qualities
+  example: close friends often have similar personalities, so they generally get alone with each other and fight less than family members might on a trip
 
 definition:   
   title: definition
