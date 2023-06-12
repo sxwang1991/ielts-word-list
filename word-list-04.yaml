@@ -185,9 +185,10 @@ mould:
 potential:   
   title: potential
   text: |
-    __potential__ [pəˈtenʃl] a. 潜在的；可能的  
+    __potential__ [pəˈtenʃl] a. 潜在的；可能的 possible
     
     __potential__ n. 潜力，潜能
+  example: another potential problem of family travel is transportation
 
 discretion:   
   title: discretion
