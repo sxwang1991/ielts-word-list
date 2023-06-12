@@ -106,9 +106,10 @@ afield:
 form:   
   title: form
   text: |
-    __form__ [fɔːm] n. 形式；外形；表格  
+    __form__ [fɔːm] n. 形式；外形；表格 type; kind
 
     __form__ v. （使）形成，（使）出现
+  example: modern acting comes in a variety of forms and can be classified into three types: stage acting, television acting, and film acting
 
 temporary:   
   title: temporary
