@@ -307,9 +307,10 @@ insulate:
 household:   
   title: household
   text: |
-    __household__ [ˈhaushəuld] n. 家庭，户，全家人  
+    __household__ [ˈhaushəuld] n. 家庭，户，全家人 home
 
     __household__ a. 家庭的，家用的，普通的；家喻户晓的
+  example: with TVs in practically every household, it is no wonder this is the most familiar form of acting
 
 detrimental:   
   title: detrimental
