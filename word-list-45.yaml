@@ -3,9 +3,6 @@
 # ==============================================================================
 
 
-
-
-
 in-addition-to:   
   title: in addition to 
   text:  in addition to 除……之外
@@ -16,7 +13,8 @@ certificate:
 
 severe:   
   title: severe
-  text: __severe__ [sɪˈvɪə(r)] a. 严重的；严厉的；剧烈的
+  text: __severe__ [sɪˈvɪə(r)] a. 严重的；严厉的；剧烈的 very strong
+  example: finally, Chicago and Miami have different kinds of severe weather
 
 diameter:   
   title: diameter
