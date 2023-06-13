@@ -245,7 +245,8 @@ dividend:
 
 preference:   
   title: preference
-  text: _preference___ [ˈprefrəns] n. 喜爱；偏爱的事物（或人）；优先
+  text: __preference__ [ˈprefrəns] n. 喜爱；偏爱的事物（或人）；优先 liking one thing more than another
+  example: although some kinds of weather are easier to live with than others, "the perfect climate" is a matter of personal preference
 
 contract:   
   title: contract
