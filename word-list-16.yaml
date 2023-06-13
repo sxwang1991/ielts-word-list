@@ -345,7 +345,8 @@ merge:
 
 aware:   
   title: aware
-  text: __aware__ [əˈweə(r)] a. 知道的；意识到的
+  text: __aware__ [əˈweə(r)] a. 知道的；意识到的 having knowledge of
+  example: unfortunately, many people are not aware of the effects their diet can have on how they feel
 
 label:   
   title: label
