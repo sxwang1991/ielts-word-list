@@ -111,9 +111,10 @@ tradition:
 benefit:   
   title: benefit 
   text: |
-    __benefit__ [ˈbenɪfɪt] v. 使受益；有益于，得益于  
+    __benefit__ [ˈbenɪfɪt] v. 使受益；有益于，得益于 to help
 
     __benefit__ n. 益处，好处；恩惠；救济金，保险金，津贴
+  example: despite the tremendous amount of time and money it cost to built, the Panama Canal has greatly benefited society
 
 decay:   
   title: decay 
