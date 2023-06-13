@@ -2,9 +2,6 @@
 # Word List 34
 # ==============================================================================
 
-
-
-
 mixture:   
   title: mixture
   text: __mixture__ [ˈmɪkstʃə(r)] n. 混合（物）
@@ -225,7 +222,8 @@ fulfil:
 
 element:   
   title: element
-  text: __elememt__ [ˈelɪmənt] n. 要素；元素； [the -s] 基本原理
+  text: __elememt__ [ˈelɪmənt] n. 要素；元素； [the -s] 基本原理 a part or aspect
+  example: elements such as speed, body language, content, and other areas of concern can get the attention that they need
 
 segment:   
   title: segment
