@@ -3,8 +3,6 @@
 # ==============================================================================
 
 
-
-
 notorious:   
   title: notorious
   text: __notorious__ [nəuˈtɔːrɪəs] a. 著名的，众所周知的；声名狼藉的
@@ -152,7 +150,8 @@ slumber:
 
 sufficient:   
   title: sufficient
-  text: __sufficient__ [səˈfɪʃnt] a. 足够的，充分的
+  text: __sufficient__ [səˈfɪʃnt] a. 足够的，充分的 adequate, enough
+  example: sufficient practice of a speech is the first key to overcoming this fear
 
 antiquity:   
   title: antiquity
