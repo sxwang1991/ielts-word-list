@@ -61,9 +61,10 @@ decade:
 survey:   
   title: survey
   text: |
-    __survey__ [ˈsɜːveɪ] n. 调查，勘察；测量，勘测；审视 
+    __survey__ [ˈsɜːveɪ] n. 调查，勘察；测量，勘测；审视 questions designed to measure the opinions of a group of people
 
     __survey__ [səˈveɪ] vt. 调查，检视（建筑物等）；测量，勘测；俯瞰，眺望
+  example: according to several recent surveys, some people fear public specking more than they do death
 
 fitting:   
   title: fitting
