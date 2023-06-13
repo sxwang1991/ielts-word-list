@@ -362,9 +362,10 @@ nurture:
 slight:   
   title: slight
   text: |
-    __slight__ [slaɪt] a. 轻微的，不足道的；纤细的，瘦弱的  
+    __slight__ [slaɪt] a. 轻微的，不足道的；纤细的，瘦弱的 small
 
-    vt./n. 轻视，藐视，轻蔑
+    __slight__ vt./n. 轻视，藐视，轻蔑
+  example: speckers can look at the faces of the audience and search for that small nod of agreement or the slight smile, which often enough to make even the most fearful specker relax
 
 genetic:   
   title: genetic
