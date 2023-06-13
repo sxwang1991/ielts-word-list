@@ -2,10 +2,6 @@
 # Word List 46
 # ==============================================================================
 
-
-
-
-
 computerize:   
   title: computerize
   text: __computarize__ [kəm'pju:təraɪz] vt. 使计算机化；用计算机做；用计算机储存（信息）
@@ -133,7 +129,8 @@ jargon:
 
 diverse:   
   title: diverse
-  text: __diverse__ [daɪˈvɜːs] a. 不同的，多样的
+  text: __diverse__ [daɪˈvɜːs] a. 不同的，多样的 varied; different from each other
+  example: it is no secret that many students lead busy, diverse lives
 
 extinguish:   
   title: extinguish
