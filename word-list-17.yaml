@@ -86,7 +86,8 @@ attitude:
 
 deliver:   
   title: deliver
-  text: __deliver__ [dɪˈlɪvə(r)] v. 交付，递送；发表，表达；释放；接生
+  text: __deliver__ [dɪˈlɪvə(r)] v. 交付，递送；发表，表达；释放；接生 to give
+  example: many jobs, classes, and social events require a person to be able to deliver a good public speech
 
 course:   
   title: course
