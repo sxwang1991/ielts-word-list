@@ -116,9 +116,10 @@ pedal:
 resident:   
   title: resident
   text: |
-    __resident__ [ˈrezɪdənt] n. 居民，住户  
+    __resident__ [ˈrezɪdənt] n. 居民，住户 a person who lives in a certain area
 
     __resident__ a. 常驻的，居住的
+  example: Chicago residents enjoy four distinct seasons, but they have to live with extreme cold blizzards than can upset their daily routines
 
 optometrist:   
   title: optometrist
