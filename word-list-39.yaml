@@ -3,8 +3,6 @@
 # ==============================================================================
 
 
-
-
 estimate:   
   title: 
   text: |
@@ -345,9 +343,10 @@ conservative:
 spin:   
   title: spin
   text: |
-    __spin__ [spɪn] v. （使）旋转  
+    __spin__ [spɪn] v. （使）旋转 to turn around in a circle or cause something to do so
 
     __spin__ n. 旋转
+  example: for instance, just like a real airplane, a model plane is powered by a gas engine that spins a propeller to create forward power
 
 personnel:   
   title: personnel
