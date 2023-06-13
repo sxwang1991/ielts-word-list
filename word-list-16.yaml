@@ -277,8 +277,9 @@ filter:
 
 aspect:   
   title: aspect
-  text: __aspect__ [ˈæspekt] n. 方面；（建筑物的）朝向，方向；外貌，外观样子
-
+  text: __aspect__ [ˈæspekt] n. 方面；（建筑物的）朝向，方向；外貌，外观样子 a feature, part of
+  example: speckers can watch the video again and again, focusing on a different aspect of the speech each time
+  
 objection:   
   title: objection
   text: __objection__ [əbˈdʒekʃn] n. 反对；反对的理由
