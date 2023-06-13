@@ -173,7 +173,8 @@ arthritis:
 
 barrier:   
   title: barrier
-  text: __barrier__ [ˈbærɪə(r)] n. 栅栏；关卡，检票口；障碍，隔阂；屏障
+  text: __barrier__ [ˈbærɪə(r)] n. 栅栏；关卡，检票口；障碍，隔阂；屏障 something that blocks the way
+  example: poor time management can be a real barrier to success
 
 replace:   
   title: replace
