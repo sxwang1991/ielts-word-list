@@ -53,7 +53,11 @@ purchase:
 
 constant:   
   title: constant 
-  text: __constant__ [ˈkɔnstənt] a. 经常的，不断的；坚定的，永恒的，忠实的；持续的，不变的  n. 常数，恒量
+  text: |
+    __constant__ [ˈkɔnstənt] a. 经常的，不断的；坚定的，永恒的，忠实的；持续的，不变的 happening all time; continuous
+    
+    __constant__ n. 常数，恒量
+  example: combined with a constant humidity of 90 percent or more, the temperature feels much warmer
 
 dormancy:   
   title: dormancy 
