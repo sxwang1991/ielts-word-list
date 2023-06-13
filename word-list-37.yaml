@@ -184,9 +184,10 @@ helix:
 motion:   
   title: motion
   text: |
-    __motion__ [ˈməuʃn] n. 运动；手势  
+    __motion__ [ˈməuʃn] n. 运动；手势 movement
 
     __motion__ v. （向……）打手势
+  example: similary, a remote-controlled switch accomplish the same left-right motion on a model airplane
 
 understanding:   
   title: understanding
