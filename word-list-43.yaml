@@ -228,9 +228,10 @@ mission:
 content:   
   title: content
   text: |
-    __content__ [ˈkɔntent] n. 内容；满意
+    __content__ [ˈkɔntent] n. 内容；满意 the ideas or meanings expressed in a speech or piece of writing
 
     __content__ [kənˈtent] vt. 使满意  a. 满意的
+  example: elements such as speed, body language, content, and other areas of concern can get the attention that they need
 
 emit:   
   title: emit
