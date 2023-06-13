@@ -210,9 +210,10 @@ cautious:
 pattern:   
   title: pattern
   text: |
-    __pattern__ [ˈpætn] n. 样式；模式  
+    __pattern__ [ˈpætn] n. 样式；模式 a repeated set of events or features
 
     __pattern__ vt. 构成图案；使形成，促成
+  example: although changing one's eating and exercising patterns may be difficult at first, it becomes easier with time
 
 terrain:   
   title: terrain
