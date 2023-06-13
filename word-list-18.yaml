@@ -208,7 +208,8 @@ multinational:
 
 exposure:   
   title: exposure
-  text: __exposure__ [ɪkˈspəuʒə(r)] n. 暴露；显露；接触；曝光
+  text: __exposure__ [ɪkˈspəuʒə(r)] n. 暴露；显露；接触；曝光 contact with
+  example: add to this an increased exposure to technology, and the distractions may feel almost insurmountable
 
 fierce:   
   title: fierce
