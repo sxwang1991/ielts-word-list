@@ -2,9 +2,6 @@
 # Word List 33
 # ==============================================================================
 
-
-
-
 marble:   
   title: marble
   text: __marble__ [ˈmɑːbl] n. 大理石；弹子；[pl.] 弹子游戏
@@ -244,7 +241,8 @@ career:
 
 humidity:   
   title: humidity
-  text: __humidity__ [hju:ˈmɪdəti] n. 湿度；潮湿
+  text: __humidity__ [hju:ˈmɪdəti] n. 湿度；潮湿 
+  example: combined with a constant humidity of 90 percent or more, the temperature feels much warmer
 
 hollow:   
   title: hollow
