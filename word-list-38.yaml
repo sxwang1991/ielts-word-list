@@ -308,9 +308,10 @@ contemplate:
 budget:   
   title: budget
   text: |
-    __budget__ [ˈbʌdʒɪt] n. 预算，预算经费  
+    __budget__ [ˈbʌdʒɪt] n. 预算，预算经费 a financial plan; money for a particular purpose 
 
     __budget__ v. 做预算
+  example: whatever one's budget, there is a password manager to protect sensitive information
 
 flee:   
   title: flee
