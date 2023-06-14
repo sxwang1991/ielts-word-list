@@ -2,8 +2,6 @@
 # Word List 27
 # ==============================================================================
 
-
-
 atmosphere:   
   title: atmosphere
   text: __atmosphere__ [ˈætməsfɪə(r)] n. 大气；气氛；环境
@@ -121,7 +119,8 @@ exploitation:
 
 passionate:   
   title: passionate
-  text: __passionate__ [ˈpæʃənət] a. 充满激情的，热切的，狂热的
+  text: __passionate__ [ˈpæʃənət] a. 充满激情的，热切的，狂热的 enthusiastic; adoring
+  example: they are just as passionate about their sport as other professional athletes --- maybe even more so
 
 poisonous:   
   title: poisonous
