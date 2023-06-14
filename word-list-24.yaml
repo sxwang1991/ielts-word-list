@@ -3,8 +3,6 @@
 # Word List 24
 # ==============================================================================
 
-
-
 judicious:   
   title: judicious
   text: __judicious__ [dʒuːˈdɪʃəs] a. 明智的；有见识的
@@ -248,7 +246,8 @@ monitor:
   text: |
     __monitor__ [ˈmɔnɪtə(r)] n. 班长；监视器  
 
-    __monitor__ vt. 监视；监测
+    __monitor__ vt. 监视；监测 to oberve something attentively
+  example: in essence, children are monitored very carefully and may not be allowed to play outside, interact with animals, or roughhouse in general
 
 derive:   
   title: derive
