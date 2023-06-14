@@ -2,9 +2,6 @@
 # Word List 38
 # ==============================================================================
 
-
-
-
 probe:   
   title: probe
   text: |
@@ -123,7 +120,8 @@ repack:
 
 disruptive:   
   title: disruptive
-  text: __disruptive__ [dɪsˈrʌptɪv] a. 制造混乱的；分裂性的；破坏性的
+  text: __disruptive__ [dɪsˈrʌptɪv] a. 制造混乱的；分裂性的；破坏性的 troublesome, disorderly
+  example: some people may believe that the desire for individual expression is disruptive and can make a country weak
 
 clinical:   
   title: clinical
