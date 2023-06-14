@@ -2,8 +2,6 @@
 # Word List 18
 # ==============================================================================
 
-
-
 glacial:   
   title: glacial
   text: __glacial__ [ˈgleɪsɪəl] a. 冰期的；冰川的；寒冷的，冰冷的；冷若冰霜的
@@ -209,7 +207,8 @@ multinational:
 exposure:   
   title: exposure
   text: __exposure__ [ɪkˈspəuʒə(r)] n. 暴露；显露；接触；曝光 contact with
-  example: add to this an increased exposure to technology, and the distractions may feel almost insurmountable
+  example0: add to this an increased exposure to technology, and the distractions may feel almost insurmountable
+  example1: at first the student may be confused, but the exposure to a different curriculum will broaden his or her educational horizons in the long run
 
 fierce:   
   title: fierce
