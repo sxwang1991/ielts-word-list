@@ -2,8 +2,6 @@
 # Word List 22
 # ==============================================================================
 
-
-
 aspiration:   
   title: aspiration
   text: __aspiration__ [ˏæspəˈreɪʃn] n. 强烈的愿望；志向
@@ -235,7 +233,8 @@ mild:
 
 capacity:   
   title: capacity
-  text: __capacity__ [kəˈpæsətɪ] n. 容量，容积；能量，能力
+  text: __capacity__ [kəˈpæsətɪ] n. 容量，容积；能量，能力 natural ability
+  example: regrardless of what skeptics might say, the fact is that everyone has the capacity to build or create something new
 
 latitude:   
   title: latitude
