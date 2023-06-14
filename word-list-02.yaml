@@ -319,9 +319,10 @@ broom:
 opponent:   
   title: opponent
   text: |
-    __opponent__ [əˈpəunənt] n. 敌手，对手；反对者  
+    __opponent__ [əˈpəunənt] n. 敌手，对手；反对者 someone who disagree with a person or idea
 
     __opponent__ a. 对立的，对抗的
+  example: opponents of mandatory uniforms say that students who wear school uniforms cannot express their individuality
 
 sponsor:   
   title: sponsor
