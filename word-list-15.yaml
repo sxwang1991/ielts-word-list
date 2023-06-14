@@ -2,8 +2,6 @@
 # Word List 15
 # ==============================================================================
 
-
-
 attach:   
   title: attach
   text: __attach__ [əˈtætʃ] v. 系，贴；认为有重要性（或意义，价值等）；使附属，附加
@@ -204,7 +202,8 @@ federal:
 
 consideration:   
   title: consideration
-  text: __consideration__ [kənˏsɪdəˈreɪʃn] n. 考虑；思考；体谅
+  text: __consideration__ [kənˏsɪdəˈreɪʃn] n. 考虑；思考；体谅 careful and mindful thought
+  example: one of the biggest considerations for a smartphone purchase is iOS or Android
 
 grip:   
   title: grip
