@@ -2,10 +2,6 @@
 # Word List 47
 # ==============================================================================
 
-
-
-
-
 obscene:   
   title: obscene
   text: __obscene__ [əbˈsiːn] a. 淫秽的，猥亵的，下流的；可憎的，可恶的；（数量）大得惊人的，骇人听闻的
@@ -187,9 +183,10 @@ vulgar:
 core:   
   title: core
   text: |
-    __core__ [kɔː(r)] n. 果心，果核；（物体的）中心部分；核心、要点，精髓  
+    __core__ [kɔː(r)] n. 果心，果核；（物体的）中心部分；核心、要点，精髓 center, essential part
 
     __core__ vt. 去掉核
+  example: individualistic is also at the core of the culture in the United States, dating back to the Declaration of Independence and the Bill of Rights
 
 inborn:   
   title: inborn
