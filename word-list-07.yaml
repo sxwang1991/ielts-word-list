@@ -2,7 +2,6 @@
 # Word List 07
 # ==============================================================================
 
-
 flourish:   
   title: flourish 
   text: |
@@ -43,7 +42,8 @@ undermine:
 
 eliminate:   
   title: eliminate
-  text: __eliminate__ [ɪˈlɪmɪneɪt] vt. 消灭，消除；淘汰
+  text: __eliminate__ [ɪˈlɪmɪneɪt] vt. 消灭，消除；淘汰 to remove, destroy
+  example: consumers can eliminate some of this fear by doing their homework first
 
 volcano:   
   title: valcono
