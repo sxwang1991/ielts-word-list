@@ -86,7 +86,8 @@ extinguisher:
 
 assume:   
   title: assume
-  text: __assume__ [əˈsjuːm] vt. 假定，设想；承担（责任），就（职）
+  text: __assume__ [əˈsjuːm] vt. 假定，设想；承担（责任），就（职） to believe something without having the correct or complete information
+  example: many people wrongly assume that the differences might affect the quality of education
 
 proportion:   
   title: proportion
