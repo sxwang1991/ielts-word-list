@@ -2,7 +2,6 @@
 # Word List 10
 # ==============================================================================
 
-
 ignorance:   
   title: ignorance
   text: __ignorance__ [ˈɪgnərəns] n. 无知，愚昧；不知道
@@ -274,7 +273,8 @@ female:
 
 asset:   
   title: asset
-  text: __asset__ [ˈæset] n. 财产；优点
+  text: __asset__ [ˈæset] n. 财产；优点 and advantage
+  example: however, the ability of people to be whatever they want is an asset to both countries
 
 athlete:   
   title: athlete
