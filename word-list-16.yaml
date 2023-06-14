@@ -2,7 +2,6 @@
 # Word List 16
 # ==============================================================================
 
-
 surgery:   
   title: surgery
   text: __surgery__ [ˈsɜːdʒərɪ] n. 外科学；外科手术；手术室，诊疗室
@@ -155,7 +154,8 @@ reinforce:
 
 commitment:   
   title: commitment
-  text: __commitment__ [kə'mɪtmənt] n. 委托；许诺；承担义务
+  text: __commitment__ [kə'mɪtmənt] n. 委托；许诺；承担义务 a promise; loyalty to a person or cause
+  example: commitment, not cash, is what leads to success
 
 donation:   
   title: donation
