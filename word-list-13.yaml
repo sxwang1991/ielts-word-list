@@ -169,7 +169,8 @@ spot:
 
 outcome:   
   title: outcome
-  text: __outcome__ [ˈautkʌm] n. 结果，成果；后果；结局；出口，输出量
+  text: __outcome__ [ˈautkʌm] n. 结果，成果；后果；结局；出口，输出量 a result
+  example: one outcome of reading this article is that my ideas about people with disabilities and their capacity to compete as athletes were altered
 
 aggravate:   
   title: aggravate
