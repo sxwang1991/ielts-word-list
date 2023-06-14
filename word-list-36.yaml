@@ -2,7 +2,6 @@
 # Word List 36
 # ==============================================================================
 
-
 notorious:   
   title: notorious
   text: __notorious__ [nəuˈtɔːrɪəs] a. 著名的，众所周知的；声名狼藉的
@@ -184,7 +183,8 @@ advance:
 
     __advance__ v. 前进，向前移动；取得进展；预付  
 
-    __advance__ n. 前进，前移；增长，提高；预付（款等）
+    __advance__ n. 前进，前移；增长，提高；预付（款等） a development or improvement; breakthrough
+  example: this was before modern prostheses, such as carbon fiber blades that allow double amputees to run, and other technological advances
 
 efficiency:   
   title: efficiency
