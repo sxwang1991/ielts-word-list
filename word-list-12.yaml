@@ -2,8 +2,6 @@
 # Word List 12
 # ==============================================================================
 
-
-
 ensue:   
   title: ensue
   text: __ensue__ [ɪnˈsjuː] vi. 继而发生；接着发生
@@ -256,7 +254,8 @@ expire:
 
 accessible:   
   title: accessible
-  text: __accessible__ [əkˈsesəbl] a. 能接近的；易达到的
+  text: __accessible__ [əkˈsesəbl] a. 能接近的；易达到的 easily available
+  example: even if resources are not easily accessible, a committed entrepreneur will find a way to pursue his or her ideas
 
 turbine:   
   title: turbine
