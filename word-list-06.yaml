@@ -2,7 +2,6 @@
 # Word List 06
 # ==============================================================================
 
-
 heritage:   
   title: heritage
   text: __heritage__ [ˈherɪtɪdʒ] n. 遗产；传统
@@ -161,7 +160,8 @@ excusable:
 
 propose:   
   title: propose 
-  text: __propose__ [prəˈpəuz] v. 提议，建议；提名，推荐；打算；（向某人）求婚
+  text: __propose__ [prəˈpəuz] v. 提议，建议；提名，推荐；打算；（向某人）求婚 to make a suggestion
+  example: a combined effect between Mount Everest officials and the city of Kathmandu has been proposed
 
 ornament:   
   title: ornament 
