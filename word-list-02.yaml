@@ -239,7 +239,8 @@ iris:
 
 resource:   
   title: resource
-  text: __resource__ [rɪˈsɔːs; rɪˈzɔːs] n. [pl.] 资源，财力；应付办法，谋略；应变之才
+  text: __resource__ [rɪˈsɔːs; rɪˈzɔːs] n. [pl.] 资源，财力；应付办法，谋略；应变之才 a supply; available amount
+  example: there are no more excuses as the government has provided adequate resources to reduce pollution on the mountain
 
 entire:   
   title: entire
