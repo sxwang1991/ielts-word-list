@@ -44,7 +44,8 @@ accountancy:
 
 availability:   
   title: availability
-  text: __availability__ [əˌveɪlə'bɪlətɪ] n. 可利用性，可得性；利用的可能性；可利用的人或物
+  text: __availability__ [əˌveɪlə'bɪlətɪ] n. 可利用性，可得性；利用的可能性；可利用的人或物 whether something can be used
+  example: online shopping allows customers to compare trends, availability, price, and quadlity without leaving the comfort of their own homes
 
 payable:   
   title: payable
