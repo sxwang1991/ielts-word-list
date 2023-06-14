@@ -264,7 +264,8 @@ spacecraft:
 consequence:   
   title: consequence
   text: __consequence__ [ˈkɔnsɪkwəns] n.[常pl.] 结果，影响；重要意义 the result of doing something
-  example: since the 1960s, the Aral Sea in Central Asia has shrunk to less than 10 percent of its original size, which has led to many negative consequence
+  example0: since the 1960s, the Aral Sea in Central Asia has shrunk to less than 10 percent of its original size, which has led to many negative consequence
+  example1: when individuals do not want to admit the truth and then face the consequences, they lie to avoid difficulties
 
 efficient:   
   title: efficient
