@@ -2,7 +2,6 @@
 # Word List 04
 # ==============================================================================
 
-
 incredible:   
   title: incredible
   text: __incredible__ [ɪnˈkredəbl] a. 不可信的；难以置信的
@@ -170,7 +169,8 @@ earthquake:
 device:   
   title: device
   text: __divice__ [dɪˈvaɪs] n. 装置，设备，仪表；方法；设计；手段；策略 an electrical or mechanical machine
-  example: although many people enjoy using their "smart device" before going to bed, these habits can actually make it more difficult to fall asleep
+  example0: although many people enjoy using their "smart device" before going to bed, these habits can actually make it more difficult to fall asleep
+  example1: I now feel that, with the development of prostheses and other devices, it may not be long until all athletes, with or without disabilities, can face each other in the same space
 
 regulate:   
   title: regulate
