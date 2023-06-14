@@ -173,7 +173,8 @@ decline:
 
 crisis:   
   title: crisis
-  text: __crisis__ [ˈkraɪsɪs] n. 危机；紧要关头，关键阶段
+  text: __crisis__ [ˈkraɪsɪs] n. 危机；紧要关头，关键阶段 an emergency; disaster
+  example: is there a solution to this financial crisis for students?
 
 edible:   
   title: edible
