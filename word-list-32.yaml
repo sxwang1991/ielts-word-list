@@ -268,7 +268,8 @@ reveal:
 
 visible:   
   title: visible
-  text: __visible__ [ˈvɪzəbl] a. 可见的，看得见的；有形的；明显的，显而易见的
+  text: __visible__ [ˈvɪzəbl] a. 可见的，看得见的；有形的；明显的，显而易见的 able to be seen
+  example: the black-and-white photo is a bit grainy, but the subject and the background are clearly visible
 
 conference:   
   title: conference
