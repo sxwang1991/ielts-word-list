@@ -2,7 +2,6 @@
 # Word List 11
 # ==============================================================================
 
-
 aquarium:   
   title: aquarium
   text: __aquarium__ [əˈkweəriəm] n. 养鱼池；玻璃缸；水族馆
@@ -45,7 +44,8 @@ coverage:
 
 enforce:   
   title: enforce
-  text: __enforce__ [ɪnˈfɔːs] vt. 实施，执行；强制，迫使
+  text: __enforce__ [ɪnˈfɔːs] vt. 实施，执行；强制，迫使 to make people obey; apply
+  example: it is time to enforce the law
 
 specialty:   
   title: specialty
