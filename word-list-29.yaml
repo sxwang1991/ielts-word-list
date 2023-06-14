@@ -2,8 +2,6 @@
 # Word List 29
 # ==============================================================================
 
-
-
 remarkable:   
   title: remarkable
   text: __remarkable__ [rɪˈmɑ:kəbl] a. 引人注目的，显著的，值得注意的；异常的，非凡的
@@ -149,7 +147,8 @@ romance:
 
 currently:   
   title: currently
-  text: __currently__ [ˈkʌrəntli] ad. 当前，现时，目前
+  text: __currently__ [ˈkʌrəntli] ad. 当前，现时，目前 at the present time; now
+  example: however, what started out decades ago as an exciting, new type of family entertainment is currently being blamed for serious problems, especially in children
 
 inferential:   
   title: inferential
