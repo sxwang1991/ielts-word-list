@@ -2,7 +2,6 @@
 # Word List 05
 # ==============================================================================
 
-
 pulley:   
   title: pulley
   text: __pulley__ [ˈpulɪ] n. 滑轮；滑车
@@ -143,7 +142,8 @@ inherent:
 
 world-wide:   
   title: world-wild
-  text: __world-wild__ ['wɜ:ldwaɪd] a./ad. 遍及全球的/地
+  text: __world-wild__ ['wɜ:ldwaɪd] a./ad. 遍及全球的/地 universally; internationally
+  example: there are 2.8 billion active social media users worldwide, and that number keeps growing year after year
 
 grope:   
   title: grope 
