@@ -2,7 +2,6 @@
 # Word List 13
 # ==============================================================================
 
-
 statement:   
   title: statement
   text: __statement__ [ˈsteɪtmənt] n. 陈述；声明；报表
@@ -194,7 +193,8 @@ pliable:
 
 disposal:   
   title: disposal
-  text: __disposal__ [dɪˈspəuzl] n. 处理，处置；布置，安排
+  text: __disposal__ [dɪˈspəuzl] n. 处理，处置；布置，安排 removal; the process of getting rid of something
+  example: garbage disposal sites have been installed along the mountain paths
 
 subsidiary:   
   title: subsidiary
