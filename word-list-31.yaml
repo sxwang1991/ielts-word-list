@@ -15,8 +15,9 @@ hitherto:
 
 accomplish:   
   title: accomplish
-  text: __accomplish__ [əˈkʌmplɪʃ] vt. 达到（目的），完成（任务），实现（计划、诺言等） to achieve
-  example: similarly, a remote-controlled switch accomplish the same left-right motion on a model airplane
+  text: __accomplish__ [əˈkʌmplɪʃ] vt. 达到（目的），完成（任务），实现（计划、诺言等） to achieve, to complete, finish
+  example0: similarly, a remote-controlled switch accomplish the same left-right motion on a model airplane
+  example1: it is a decades-old photo that reminds us of how much we have accomplished in a short period of time
 
 bullet:   
   title: bullet
