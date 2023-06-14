@@ -2,9 +2,6 @@
 # Word List 32
 # ==============================================================================
 
-
-
-
 involve:   
   title: involve
   text: __involve__ [ɪnˈvɔlv] vt. 使卷入，使参与；牵涉，陷入，连累；包含，含有
@@ -107,7 +104,8 @@ curtail:
 
 correlation:   
   title: correlation
-  text: __correlation__ [ˌkɒrəˈleɪʃn] n. 相互关系，相关（性）
+  text: __correlation__ [ˌkɒrəˈleɪʃn] n. 相互关系，相关（性） a connection between things
+  example: although scientists have no found a direct cause-effect relationship between insomnia and heart failure, there is definitely a correlation between the two
 
 afflicting:   
   title: afflicting
