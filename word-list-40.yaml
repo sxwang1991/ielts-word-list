@@ -353,7 +353,8 @@ duration:
 
 primarily:   
   title: primarily
-  text: __primarily__ [praɪˈmerəli] ad. 首先；主要地，首要地
+  text: __primarily__ [praɪˈmerəli] ad. 首先；主要地，首要地 mainly
+  example: finally, there are third-party personal shopping services, which are used primarily in the clothing industry
 
 due:   
   title: due
