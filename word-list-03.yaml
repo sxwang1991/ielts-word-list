@@ -2,7 +2,6 @@
 # Word List 03
 # ==============================================================================
 
-
 leak:   
   title: leak
   text: |
@@ -265,7 +264,8 @@ ambiguous:
 
 represent:   
   title: represent
-  text: __represent__ [ˏreprɪˈzent] vt. 代表；表示；表现
+  text: __represent__ [ˏreprɪˈzent] vt. 代表；表示；表现 to symbolize, signify
+  example: the photo also represents a time of hope and even optimism in the face of hard times
 
 vanish:   
   title: vanish
