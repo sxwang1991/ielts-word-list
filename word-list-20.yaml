@@ -2,8 +2,6 @@
 # Word List 20
 # ==============================================================================
 
-
-
 postpone:   
   title: postpone
   text: __postpone__ [pəˈspəun] v. 延迟，延期
@@ -48,7 +46,8 @@ aggravation:
 
 incident:   
   title: incident
-  text: __incident__ [ˈɪnsɪdənt] n. 发生的事；事件，事变
+  text: __incident__ [ˈɪnsɪdənt] n. 发生的事；事件，事变 an occurrence, happening
+  example: the sense of unity may also reduce the number of negative incidents that occur in schools
 
 previous:   
   title: previous
