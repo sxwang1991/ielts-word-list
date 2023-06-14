@@ -2,8 +2,6 @@
 # Word List 30
 # ==============================================================================
 
-
-
 disintegrate:   
   title: disintegrate
   text: __disintegrate__ [dɪsˈɪntɪgreɪt] v. （使）碎裂，瓦解，解体
@@ -213,7 +211,8 @@ centigrade:
 
 courageous:   
   title: courageous
-  text: __courageous__ [kə'reɪdʒəs] a. 勇敢的，有胆量的
+  text: __courageous__ [kə'reɪdʒəs] a. 勇敢的，有胆量的 brave, fearless
+  example: in the end, I am inspired to learn about such courageous individuals who just want to compete
 
 as-though:   
   title: as though
