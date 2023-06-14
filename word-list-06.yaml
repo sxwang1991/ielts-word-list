@@ -49,7 +49,8 @@ purchase:
   text: |
     __purchase__ [ˈpɜːtʃəs] vt. 买，购买  
 
-    __purchase__ n. 购买的物品
+    __purchase__ n. 购买的物品 anything that is bought
+  example: one of the biggest considerations for a smartphone purchase is iOS or Android
 
 constant:   
   title: constant 
