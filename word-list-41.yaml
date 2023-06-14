@@ -148,8 +148,12 @@ combination:
 
 impact:   
   title: impact
-  text: __impact__ [ˈɪmpækt] n. 影响，作用；冲击 an effect
-  example: while ordinary textbooks are certainly valuable and important, their production has a negative impact on the environment
+  text: | 
+    __impact__ [ˈɪmpækt] n. 影响，作用；冲击 an effect
+    
+     __impact__ v. 影响，作用 to affect
+  example0: while ordinary textbooks are certainly valuable and important, their production has a negative impact on the environment
+  example1: globalization has impacted all aspects of modern-day life, from a country's commerce and politics to a family's everyday decision making at the grocery store
 
 renew:   
   title: renew
