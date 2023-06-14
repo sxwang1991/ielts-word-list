@@ -216,7 +216,8 @@ specimen:
 
 motive:   
   title: motive
-  text: __motive__ [ˈməutɪv] n. 动机，目的
+  text: __motive__ [ˈməutɪv] n. 动机，目的 a cause for doing something
+  example: understanding the motives behind the impulse to lie might minimize this habit of lying
 
 furious:   
   title: furious
