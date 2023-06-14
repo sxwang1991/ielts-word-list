@@ -262,7 +262,8 @@ uneasy:
 
 automatically:   
   title: automatically
-  text: __automatically__ [ˌɔ:tə'mætɪklɪ] ad. 自动地；无意识地
+  text: __automatically__ [ˌɔ:tə'mætɪklɪ] ad. 自动地；无意识地 functioning by itself
+  example: instead of trying to remember email logins, usernames, and passwords, tha user needs to type only one master password into the password manager, and the manager does the rest, automatically filling in all of the required information
 
 female:   
   title: female
