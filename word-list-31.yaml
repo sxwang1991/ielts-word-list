@@ -170,7 +170,8 @@ mantle:
 overall:   
   title: overall
   text: __overall__ [ˏəuvərˈɔːl] a. 全面的；全部的 in general; considering everything
-  example: overall, this competition is one of the most popular sporting events in the world
+  example0: overall, this competition is one of the most popular sporting events in the world
+  example1: if the same amount of attention were given to proper diets, exercise, and the right sunscreen, perhaps the number of overall cancer cases could be reduced
 
 granite:   
   title: granite
