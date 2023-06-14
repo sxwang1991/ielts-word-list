@@ -2,7 +2,6 @@
 # Word List 45
 # ==============================================================================
 
-
 in-addition-to:   
   title: in addition to 
   text:  in addition to 除……之外
@@ -69,6 +68,7 @@ colour-blind:
 trustworthy:   
   title: trustworthy
   text: __trustworthy__ [ˈtrʌstwɜ:ði] a. 值得信赖的，可靠的
+  example: they are easy to use, free or inexpensive, and completely trustworthy
 
 vomit:   
   title: vomit 
