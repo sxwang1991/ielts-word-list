@@ -126,7 +126,8 @@ smear:
 
 lenient:   
   title: lenient
-  text: __lenient__ [ˈliːnɪənt] a. （执法时）宽大的，宽容的；厚道的，仁慈的
+  text: __lenient__ [ˈliːnɪənt] a. （执法时）宽大的，宽容的；厚道的，仁慈的 tolerant, compassionate
+  example: the two extremes are the lenient parent and the strict displinarian parent
 
 synthetic:   
   title: synthetic
