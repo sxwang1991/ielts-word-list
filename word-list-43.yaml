@@ -2,7 +2,6 @@
 # Word List 43
 # ==============================================================================
 
-
 solidarity:   
   title: soliderity
   text: __soliderity__ [ˏsɔlɪˈdærətɪ] n. 团结，一致
@@ -79,7 +78,8 @@ perplex:
 
 recognition:   
   title: recognition
-  text: __recognition__ [ˏrekəgˈnɪʃn] n. 识别；认出；承认，确认，认可；赏识，表彰
+  text: __recognition__ [ˏrekəgˈnɪʃn] n. 识别；认出；承认，确认，认可；赏识，表彰 praise for doing something well
+  example: the New Zealand native gained recognition as the first climber to reach the summit of Mount Everest in the Himalaya Mountains of Nepal
 
 reconstruction:   
   title: reconstruction
