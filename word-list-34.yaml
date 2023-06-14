@@ -289,7 +289,8 @@ kit:
 
 generate:   
   title: generate
-  text: __generate__ [ˈdʒenəreɪt] vt. 发生，生产（光、热、电等）；引起，导致
+  text: __generate__ [ˈdʒenəreɪt] vt. 发生，生产（光、热、电等）；引起，导致 to produce, create
+  example: a password manager generates unique passwords for websites that require a login
 
 remote:   
   title: remote
