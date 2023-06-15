@@ -55,6 +55,7 @@ reception:
 suspend:   
   title: suspend
   text: __suspend__ [səˈspend] vt. 吊，悬挂；推迟；暂停，中止
+  example: Claire tried to help by working on a light suspended from the ceiling, but she fell off the ladder
 
 explorer:   
   title: explorer
