@@ -2,10 +2,6 @@
 # Word List 44
 # ==============================================================================
 
-
-
-
-
 whisper:   
   title: 
   text: __whisper__ [ˈwɪspə(r)] n./v. 低语
@@ -89,6 +85,7 @@ unprejudiced:
 leather:   
   title: leather
   text: __leather__ [ˈleðə(r)] n. 皮革，皮革制品
+  example: I gave it a last check, and sat myself in the leather seat
 
 unregistered:   
   title: unregistered
