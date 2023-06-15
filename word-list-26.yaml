@@ -2,8 +2,6 @@
 # Word List 26
 # ==============================================================================
 
-
-
 enterprise:   
   title: enterprise
   text: __enterprise__ [ˈentəpraɪz] n. 企业，公司；事业
@@ -241,6 +239,7 @@ gigantic:
 venue:   
   title: venue
   text: __venue__ [ˈvenjuː] n. （聚焦、审判、比赛等的）地点
+  example: a 3000-seat venue will build for the circus performance in November
 
 grieve:   
   title: grieve
