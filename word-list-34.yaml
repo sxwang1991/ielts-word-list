@@ -307,6 +307,7 @@ avoid:
 dismiss:   
   title: dismiss
   text: __dismiss__ [dɪsˈmɪs] v. 解雇，解散；驳回，不受理
+  example: the guests would be arriving soon, so Claire dismissed Tony for the rest of the night
 
 bucket:   
   title: bucket
