@@ -2,7 +2,6 @@
 # Word List 08
 # ==============================================================================
 
-
 formulate:   
   title: formulate
   text: __formulate__ [ˈfɔːmjuleɪt] vt. 系统阐述，明确表达；构想出（计划、方法等），规划（制度等）
@@ -18,6 +17,7 @@ infer:
 fiction:   
   title: fictin
   text: __fiction__ [ˈfɪkʃn] n. 小说
+  example: science fiction
 
 ability:   
   title: ability
