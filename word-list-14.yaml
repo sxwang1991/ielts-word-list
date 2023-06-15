@@ -2,7 +2,6 @@
 # Word List 14
 # ==============================================================================
 
-
 divide:   
   title: divide
   text: |
@@ -184,6 +183,7 @@ typhoon:
 appointment:   
   title: appointment
   text: __appointment__ [əˈpɔɪntmənt] n. 约会
+  example: she had an appointment to paint her nail
 
 slope:   
   title: slope
