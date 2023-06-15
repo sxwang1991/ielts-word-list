@@ -2,8 +2,6 @@
 # Word List 23
 # ==============================================================================
 
-
-
 pressure:   
   title: pressure
   text: |
@@ -197,6 +195,7 @@ underneath:
 division:   
   title: division
   text: __division__ [dɪˈvɪʒn] n. 分开，分隔；分配；分歧；除（法）；部门，科，司
+  example: the sun and the moon looked as if they were being thrown across the sky, but soon there was division between night and day
 
 gamble:   
   title: gamble
