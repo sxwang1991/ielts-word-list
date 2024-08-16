@@ -5,19 +5,22 @@
 emperor:   
   title: emperor
   text: __emperor__ [ˈempərə(r)] n. 皇帝；君主
+  example: The emperor;s wisdom and leadership united the diverse regions of his vast empire.
 
 exact:    
   title: exact
   text: __exact__ [ɪgˈzækt] a. 精确的；准确的
+  example: The scientist needed the exact measurements to ensure the experiment would yield accurate results.
 
 traditional: 
   title: traditional
   text: __traditional__ [trəˈdɪʃənl] a. 传统的，惯例的；口传的，传说的
+  example: During the festival, the villagers performed a traditional dance that had been passed down through generations.
 
 lack:     
   title: lack
   text: __lack__ [læk] n./vt. 缺乏，不足，没有 to have too little of something, be without
-  example: without that morning meal, the body may lack the necessary fuel for energy
+  example: Without that morning meal, the body may lack the necessary fuel for energy
 
 pardon:   
   title: pardon
@@ -25,6 +28,7 @@ pardon:
     __pardon__ [ˈpɑːdn] excl.（用于请求别人重复某事）什么，请再说一遍 
 
     __pardon__ n./vt. 原谅，宽恕；赦免
+  example: Afer accidentally stepping on his friend's foot, Jake quickly said, "Pardon me, I didn't mean to hurt you."
 
 regent:    
   title: regent
