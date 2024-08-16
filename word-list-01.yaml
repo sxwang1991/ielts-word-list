@@ -33,62 +33,77 @@ pardon:
 regent:    
   title: regent
   text: __regent__ [ˈriːdʒənt] n. 摄政者（代国王统治者）
+  example: During the young king's minority, the regent managed the kingdom's affairs with wisdom and fairness.
 
 burgeon:  
   title: burgeon
   text: __burgeon__ [ˈbɜːdʒən] vi. 迅速成长；发展
+  example: With the arrival of spring, the garden begun to burgeon with vibrant flowers and lush greenery.
 
 argue:    
   title: argue
   text: __argue__ [ˈɑːgjuː] v. 争论；说服
+  example: Despite their best effort to remain calm, they continued to argue about the best approach to the project.
 
-barely:   
+barely:
   title: barely
   text: __barely__ [ˈbeəli] ad. 仅仅，几乎不；赤裸裸地，无遮蔽地
+  example: She was so tired that she could barely keep her eyes open during the meeting.
 
 methane:  
   title: methane
   text: __methane__ [ˈmiːθeɪn] n. 甲烷，沼气
+  example: Methane is potent greenhouse gas that is released during the decomposition of organic matter in landfills.
 
 hierarchy: 
   title: hierarchy
   text: __hierarchy__ [ˈhaɪərɑːkɪ] n. 领导层；层次，等级
+  example: In the corporate hierachy, the decisions of the senior management team significantly influence the company's overall strategy.
 
 guidance: 
   title: guidance
   text: __guidance__ [ˈgaɪdns] n. 指引，指导
+  example: She sought guidance from her mentor to help navigate the challenges of her new role at work.
 
 easy-going: 
   title: easy-going
   text: __easy-going__ [ˈiːziˏgəuɪŋ] a. 脾气随和的，心平气和的；随便的
+  example: His easy-going made him a favorite among his colleagues, as he always remained calm and approachable under preesure.
 
 electrical: 
   title: electrical
   text: __electrical__ [ɪˈlektrɪkl] a. 电的，电学的，有关电的
+  example: The electrician was called to fix a problem with the building's electrical wiring to ensure all the lights and outlets were functioning properly.
 
 electronic: 
   title: electronic
   text: __electronic__ [‚ɪlek'trɒnɪk] a. 电子的
+  example: She prefers using electronic books because they are more convenient to carry and can be read on various devices.
 
 roll-film: 
   title: roll film
   text:   __roll__  __film__ 胶卷
+  example: To capture the vintage aesthetic, they decided to use roll film instead of digital cameras for their photography project.
 
 philosophy: 
   title: philosophy
   text: __philosophy__ [fɪˈlɔsəfɪ] n. 哲学；哲理
+  example: Her philosophy on life emphasizes the importance of kindness and living in the present monment.
 
 chronic:   
   title: chronic
   text: __chronic__ [ˈkrɔnɪk] a. （疾病）慢性的；积习难改的
+  example: He suffers from chronic back pain that has persisted for years despite various treatments.
 
 desirable: 
   title: desirable
   text: __desirable__ [dɪˈzaɪərəbl] a. 值得拥有的；合意的；可取的，有利的
+  example: Having a flexible work schedule is highly desirable to many employees as it allows for better work-life balance.
 
 consortium: 
   title: consortium
   text: __consortium__ [kənˈsɔːtɪəm] n. 集团；财团；社团，协会
+  example: The university formed a consortium with several leading technology companies to advance research in artificial intelligence.
 
 buckle:    
   title: buckle
@@ -96,6 +111,7 @@ buckle:
     __buckle__ [ˈbʌkl] n. 皮带扣环 
 
     __buckle__ v. 扣紧；（使）变形；弯曲
+  example: Before starting the hike, make sure to buckle your backpack straps securely to avoid any discomfort on the trail.
 
 curry:     
   title: curry
@@ -103,22 +119,27 @@ curry:
     __curry__ [ˈkʌrɪ] n. 咖喱，咖喱饭菜  
 
     __curry__ vt. 把（肉、蔬菜等）做成咖喱食品；梳刷（马毛等）
+  example: Last night, I made a delicious chicken curry with a blend of aromatic spices and fresh vegetables.
 
 subliminal: 
   title: subliminal
   text: __subliminal__ [ˏsʌbˈlɪmɪnl] a. 下意识的，潜意识的
+  example: The advertisement used sublimnial messages to subtly influence viewers' purchasing decisions without their conscious awareness.
 
 chamber:  
   title: chamber
   text: __chamber__ [ˈtʃeɪmbə(r)] n. 室；洞穴；（枪）膛
+  example: The scientist carefully adjusted the pressure inside the vacuum chamber before conducting the experiment.
 
 frequent: 
   title: frequent
   text: __frequent__ [ˈfriːkwənt] a. 频繁的，常见的，常用的
+  example: She made frequent visit to the library to study for her upcoming exams.
 
 prosperous: 
   title: prosperous
   text: __prosperous__ [ˈprɔspərəs] a. 繁荣的，兴旺的；成功的
+  example: Afer years of hard work and dedication, the small business became a prosperous enterprise with a growing customer base.
 
 purpose:  
   title: purpose
@@ -126,18 +147,22 @@ purpose:
     __purpose__ [ˈpɜːpəs] n. 目的，意图；用途，效果  
 
     __purpose__ v. 打算，企图，决心
+  example: She approached her new role with a clear sense of purpose, determined to make a meaningful impact on the team.
 
 variety:  
   title: variety
   text: __variety__ [vəˈraɪətɪ]  n. 品种，种类；变化，多样化
+  example: The farmers's market offers a wide variety of fresh fruits and vegetables, ensuring that there's something for everyone.
 
 immigration: 
   title: immigration
   text: __immigration__ [‚ɪmɪ'greɪʃn] n. 外来的移民；移居
+  example: Immigration policies play a crucial role in shaping the demographic and economic landscape of a country.
 
 natural:  
   title: natural
   text: __natural__ [ˈnætʃrəl] a. 正常的，普通的，自然的；自然界的，天然的；天赋的，固有的
+  example: She preferred using natural ingredients in her cooking to ensure the meals were both healthy and flavorful.
 
 bet:      
   title: bet
@@ -145,14 +170,17 @@ bet:
     __bet__ [bet] v. 赌，打赌  
 
     __bet__ n. 打赌，赌注
+  example: He placed a bet on the soccer match, hoping his favorite team would win.
 
 consumer:  
   title: consumer
   text: __consumer__ [kənˈsjuːmə(r)] n. 消费者；用户
+  example: Modern companies need to understand consumer preferences to tailor their products and marketing strategies effectively.
 
 physician: 
   title: physician
   text: __physician__ [fɪˈzɪʃn] n. 内科医生，医师
+  example: The physician carefully reviewed the patient's medical history before recommending a treatment plan.
 
 equal:     
   title: equal
@@ -160,6 +188,7 @@ equal:
     __equal__ [ˈiːkwəl] a. 相等的  
 
     __equal__ vt. 比得上
+  example: Everyone in the team was given an equal opportunity to contribute ideas during the brainstorming session.
 
 resort:   
   title: resort
@@ -167,34 +196,42 @@ resort:
     __resort__ [rɪˈzɔːt] n. 求助；诉诸；胜地  
 
     __resort__ vi. 求助；诉诸
+  example: After trying various treatments without success, she decided to resort to a more advanced medical procedure.
 
 leadership: 
   title: leadership
   text: __leadership__ [ˈli:dəʃɪp] n. 领导，领导层；领导能力
+  example: Effective leadship requires not only the ability to make strategic decisions but also the skill to inspire and motivate a team toward achieving common goals.
 
 equity:   
   title: equity
   text: __equity__ [ˈekwətɪ] n. 公平，公正
+  example: The company's commitment to equity is evident in its diverse hiring practices and equal opportunity policies.
 
 excavate: 
   title: excavate
   text: __excavate__ [ˈekskəveɪt] vt. 挖掘，开凿
+  example: The archaeologists worked diligently to excavate the ancient ruins and uncover artifacts from the past.
 
 nuclear:  
   title: nuclear
   text: __nuclear__ [ˈnjuːklɪə(r)] a. 核能的，原子能的
+  example: The nuclear reactor provides a significant portion of the country's energy needs.
 
 mutual:    
   title: mutual
   text: __mutual__ [ˈmjuːtʃuəl] a. 相互的；共同的
+  example: Their decision to collaborate on he project was based on mutual trust and respect.
 
 hectare:  
   title: hectare
   text: __hectare__ [ˈhekteə(r)] n. 公顷
+  example: The farm covers an area of 50 hectares, which allows for a diverse range of crops.
 
 density:   
   title: density
   text: __density__ [ˈdensətɪ] n. 密集；浓度，密度
+  example: The density of the new material makes it ideal for use in lightweight, durable construction.
 
 massive:   
   title: massive
@@ -205,10 +242,12 @@ massive:
 congratulate: 
   title: congratulate
   text: __congratulate__ [kənˈgrætʃuleɪt] vt. 祝贺
+  example: I want to congratulate you on your recent promotion; you truly deserve it!
 
 companion: 
   title: companion
   text: __companion__ [kəmˈpænɪən] n. 共事者；同伴
+  example: She brought her loyral dog along as her companion on the long road trip.
 
 rig:       
   title: rig
@@ -216,6 +255,7 @@ rig:
     __rig__ [rɪg] vt. 操纵，垄断  
 
     __rig__ n. 船桅（或船帆等）的装置；成套器械
+  example: The crew worked quickly to rig the sailboat for the upcoming race.
 
 input:    
   title: input
@@ -223,14 +263,17 @@ input:
     __input__ [ˈɪnput] n. 投入，输入；输入的数据  
 
     __input__ vt. 把……输入计算机
+  example: The software requires input to customize the settings according to individual preferences.
 
 merely:   
   title: merely
   text: __merely__ [ˈmiəli] ad. 仅仅，只不过
+  example: She was merely trying to help, but it was misunderstood as interference.
 
 impart:    
   title: impart
   text: __impart__ [ɪmˈpɑːt] vt. 给予，赋予；传授；告知，透露
+  example: The teacher's goal is to impart knowledge and inspire curiosity in her students.
 
 forfeit:  
   title: forfeit
@@ -238,30 +281,36 @@ forfeit:
     __forfeit__ [ˈfɔːfɪt] v. （因犯规等而）丧失，失去  
 
     __forfeit__ n. 罚款；代价
+  example: If you fail to attend the mandatory training session, you may forfeit your eligibility for the promotion.
 
 calorie:   
   title: calorie
   text: __calorie__ [ˈkælərɪ] n. 卡（路里）， 大卡（食物的热量）
+  exampel: To maintain a healthy weight, it's important to monitor your daily calorie intake and balance it with physical activity.
 
 van:       
   title: van
   text: __van__ [væn] n. 运货车
+  example: We rented a van for our family vacation to fill all our luggage and make the journey more comfortable.
 
 ventilation: 
   title: ventilation
   text: __ventilation__ [ˌventɪ'leɪʃn] n. 空气流通；通风设备，通风方法
+  example: Proper ventilation in the office is essential to ensure a healtht and comfortable working environment.
 
 intermediate: 
   title: intermediate
   text: __intermediate__ [ˏɪntəˈmiːdɪət] a. 中间的，中级的
+  example: She enrolled in an intermediate Spanish course to improve her language skills after completing the beginner level.
 
 eternal:   
   title: eternal
   text: __eternal__ [ɪˈtɜːnl] a. 永恒的
-
+  example: The poet described their love as eternal, lasting beyond the bounds of time and space.
 invasion: 
   title: invasion
   text: __invasion__ [ɪnˈveɪʒn] n. 入侵，侵略
+  example: The historical records describe the invasion of Normandy as a pivotal moment in World War II.
 
 nevertheless: 
   title: nevertheless
@@ -269,42 +318,52 @@ nevertheless:
     __nevertheless__ [ˏnevəðəˈles] ad. 仍然；然而  
 
     __nevertheless__ conj. 然而，不过
+  example: The weather was rainly and cold; nevertheless, the outdoor event was a great success.
 
 celebrate: 
   title: celebrate
   text: __celebrate__ [ˈselɪbreɪt] v. 赞扬，歌颂；庆祝
+  example: We gathered to celebrate her promotion with a surprise party and heartfelt toasts.
 
 inspiring: 
   title: inspiring
   text: __inspiring__ [ɪn'spaɪərɪŋ] a. 鼓舞（或激励）人心的；启发灵感的
+  example: Her speech was incredibly inspiring and motivated everyone to pursue their dreams.
 
 attendance: 
   title: attendance
   text: __attendance__ [əˈtendəns] n. 到场，出席；出勤；伺候，照料
+  example: Regular attendance at the meetings is crucial for staying updated on the project's progress.
 
 optional: 
   title: optional
   text: __optional__ [ˈɒpʃənl] a. 可选择的，非强制的，随意的
+  example: Attending the workshop is optional, but it will greatly enhance your understanding of the topic.
 
 enable:   
   title: enable
   text: __enable__ [ɪˈneɪbl] vt. 使能够，使成为可能
+  example: Advanced technology will enable us to complete the project more efficiently.
 
 departmental: 
   title: departmental
   text: __departmental__ [‚diːpɑːt'mentl] a. 部门的
+  example: The compay held a departmental meeting to discuss the new policies and their implementation.
 
 heal:      
   title: heal
   text: __heal__ [hiːl] v. 治愈，康复；调停
+  example: With time and proper care, the injured athlete was able to heal and return to the game.
 
 dismantle: 
   title: dismantle
   text: __dismantle__ [dɪsˈmæntl] vt. 拆除；废除，取消
+  example: After the festival, the team worked to dismantle the stage and clean up the area.
 
 wage:      
   title: wage
   text: __wage__ [weɪdʒ] n. 工资；[常 pl.] 报酬
+  example: The company decided to increase the minimum wage to attract more skilled workers.
 
 landscape: 
   title: landscape
@@ -312,18 +371,22 @@ landscape:
     __landscape__ [ˈlændskeɪp] n. 风景  
 
     __landscape__ vt. 对……作景观美化，美化（自然环境等）
+  example: The artist captured the breathtaking landscape of the mountains in his latest painting.
 
 emotion:  
   title: emotion
   text: __emotion__ [ɪˈməuʃn] n. 感情；情绪
+  example: Her speech was filled with so much that it moved many people to tears.
 
 commonwealth: 
   title: commonwealth
   text: __commonwealth__ [ˈkɔmənwelθ] n. [the C-] 英联邦；联合体
+  example: The Commonwealth of Nations works together to promote economic development and cultural exchange among its member countries.
 
 newsletter: 
   title: newsletter
   text: __newsletter__ ['njuːzletə] n. 时事通讯，业务通讯
+  example: Subscribers receive a monthly newsletter that includes updates on company news and upcoming events.
 
 periodical:
   title: periodical
@@ -331,14 +394,17 @@ periodical:
     __periodical__ [‚pɪərɪ'ɑdɪkl] n. 期刊，杂志  
 
     __periodical__ a. 周期的，定期的
+  example: She enjoys reading the latest in her favorite periodical each month.
 
 receptionist: 
   title: receptionist
   text: __receptionist__ [rɪ'sepʃənɪst] n. 接待员
+  example: The receptionist greeted visitors with a warm smile and directed them to the appropriate office.
 
 security: 
   title: security
   text: __security__ [sɪˈkjuərətɪ] n. 安全，保障；抵押品；[pl.]证券
+  example: The company invested in advanced security systems to protect sensitive information from unauthorized access.
 
 clip:      
   title: clip
@@ -346,10 +412,12 @@ clip:
     __clip__ [klɪp] n. （弹簧）夹子，回形针，别针；弹夹；修剪；剪报，电影（或电视）片断  
 
     __clip__ v.（夹子、回形针等）夹住，扣住；剪，修剪
+  example: She used a paper clip to keep her notes together.
 
 apace:    
   title: apace
   text: __apace__ [əˈpeɪs] ad. 快速地，急速地
+  example: The construction of the new highway is progressing apace, with the completion expected within a few months.
 
 yield:     
   title: yield
@@ -357,11 +425,12 @@ yield:
     __yield__ [jiːld] n. 产量  
 
     __yield__ v. 出产；放弃
+  example: The new farming techniques increased the crop yield significantly.
 
 fair:     
   title: fair
   text: __fair__ [feə(r)] a./ad. 公平的/地
-
+  example: The judge ensured that the trial was conducted in a fair and impartial manner.
 
 # ==============================================================================
 # Word List 02
