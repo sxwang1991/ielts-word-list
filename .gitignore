@@ -1,0 +1,5 @@
+# Python
+__pycache__/
+
+# 生成的 PDF（体积大，可由 export_pdf.py 随时重新生成）
+output/pdf/
